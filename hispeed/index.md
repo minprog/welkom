@@ -20,8 +20,8 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 ## Introductiebijeenkomst
 
-<div style="float:right; max-width: 150px;">
-<a href="https://www.eyefilm.nl"><img src="16148491515_c49fe7c981_z.jpg" style="max-width:150px;"><br><smallEYE filmmuseum, IJpromenade 1, Amsterdam</a></a>
+<div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
+<a href="https://www.eyefilm.nl"><img src="16148491515_c49fe7c981_z.jpg" style="max-width:150px;"><br><small>EYE filmmuseum, IJpromenade 1, Amsterdam</a></div>
 </div>
 
 Op de eerste lesdag komen we bijeen in zaal 1 van het EYE filmmuseum voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en in de Turingzaal laten we je de eerste twee colleges zien die afgelopen september bij Harvard zijn opgenomen. Daarna ga je meteen aan de slag, dus neem je opgeladen laptop mee!
@@ -76,7 +76,7 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ## Praktische zaken
 
-<div style="float:right; max-width: 150px;">
+<div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
 <img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
 </div>
 
