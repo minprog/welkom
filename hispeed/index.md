@@ -58,11 +58,11 @@ Je belangrijkste activiteit is héél veel programmeren, en we verwachten dus oo
 
 Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je een behoorlijk aantal uren bij ons aanwezig bent. Bij de werkcolleges, maar ook een groot aantal uren om zelf te werken, met de nodige hulp van onze assistenten.
 
-> Voor fulltime-studenten die de hele minor in één semester doen gaat het zo met de aanwezigheid bij Programmeren 1 en 2. Je hebt wekelijks een werkcollege op maandag, en daarnaast ben je elke werkdag hier tussen 11 en 15 uur. Je bent dus maandag t/m vrijdag aanwezig! Het tempo ligt enorm hoog, dus het is belangrijk dat je bij ons en je medestudenten in de buurt bent als je er niet snel uit komt.
+> Voor fulltime-studenten gaat het zo: je bent elke werkdag in onze lokalen aanwezig tussen 9:30 en 16:30 uur (met een halfuurtje in- en uitloop). Het tempo ligt enorm hoog, dus het is belangrijk dat je altijd bij ons en je medestudenten in de buurt bent als je er niet snel uit komt.
 
-Nu je toch zoveel uren aanwezig bent, vinden we het ook heel belangrijk dat je openstaat voor vragen van je medestudenten en zelf ook regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
+Nu je toch zoveel uren aanwezig bent, vinden we het ook heel belangrijk dat je openstaat voor vragen van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
 
-We vragen van jou een actieve bemoeienis met je eigen voortgang. Zorg dat je goed bijhoudt waar je staat en wat je nog moet doen, en neem bij vragen en problemen meteen contact op. Kun je je assistent niet vinden? Stuur dan meteen een mail naar help@mprog.nl.
+We vragen van jou een actieve bemoeienis met je eigen voortgang. Zorg dat je goed bijhoudt waar je staat en wat je nog moet doen, en neem bij vragen en problemen meteen contact op. Kun je je assistent niet vinden? Stuur dan meteen een mail naar <help@mprog.nl>.
 
 Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle mededelingen op de websites én alle mededelingen in je e-mail goed bijhoudt. Dat je dit document aan het lezen bent is al een goed begin!
 
@@ -70,23 +70,23 @@ Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle me
 
 Omdat we vragen dat jij aanwezig bent, willen we ook dat dat zin heeft. Natuurlijk is het essentieel dat je met je medestudenten discussieert en overlegt over de opdrachten en de stof, maar je mag ook verwachten dat wij regelmatig aanwezig zijn en je terzijde staan. Kun je ons niet vinden? Stuur een mail!
 
-We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom hebben we voor elke groep een eigen assistent. Deze assistent houdt bij hoe het met je gaat en nodigt je soms uit voor een gesprek over de voortgang.
+We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom hebben we voor elke groep een eigen assistent. Deze assistent houdt bij hoe het met je gaat en nodigt je af en toe uit voor een gesprek over de voortgang.
 
 Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg feedback krijgt. We kijken je werk elke week na en geven je dan ideeën om het beter te doen. Krijg je niet genoeg feedback, of wil je meer horen over een specifiek onderwerp? Gewoon vragen!
 
-### Roosters
-
-Op onze faculteit (FNWI) werken we voor de roosters met de website <www.datanose.nl>. Je kunt daar direct vanaf de homepage je persoonlijke rooster inkijken door je studentnummer in te tikken.
-
-Voor zover het kan is de groepsindeling nu gedaan. Dat betekent dat je in je persoonlijke rooster werkcolleges moet vinden voor jouw groep. Kun je iets niet vinden, laat het dan gerust weten.Is er overlap met andere vakken die je volgt, stuur ons dan een e-mail en we proberen je te ruilen. Deze mogelijkheid geldt in principe alléén als je de minor of minorvakken parttime doet.
-
-Je kunt ook het rooster van de gehele minor bekijken. Dit is vooral handig voor vakken waar de groepsindeling nog niet helemaal is gedaan, zoals Programmeertheorie en Programmeerproject.
-
 ## Praktische zaken
+
+<div style="float:right; max-width: 150px;">
+<a href="https://www.eyefilm.nl"><img src="../fnwi.jpg" style="max-width:150px;"><br>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam.</a>
+</div>
 
 ### Locatie
 
-Alle lessen (behalve het introductiecollege!) vinden plaats in het Science Park Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam. (foto van www.science.uva.nl)in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokaal is A1.16 op de eerste verdieping.
+Alle lessen (behalve het introductiecollege!) vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokalen zijn A1.16--A1.20--A1.22--A1.30 op de eerste verdieping.
+
+### Roosters
+
+Op onze faculteit (FNWI) werken we voor de roosters met de website <https://www.datanose.nl/>. Je kunt daar direct vanaf de homepage je persoonlijke rooster inkijken door je studentnummer in te tikken.
 
 ### Team
 
