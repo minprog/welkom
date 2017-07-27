@@ -1,6 +1,6 @@
 # Welkom!
 
-*Versie: herfst 2017*
+*Versie: herfst 2017, hi-speed*
 
 Welkom! De komende maanden gaan we hard aan de slag om jou te leren zelfstandig een programmeerproject op je te nemen, bijvoorbeeld om een app te maken of een interactieve datavisualisatie. We hebben er veel zin in!
 
@@ -14,7 +14,7 @@ Wat kun je verwachten komende tijd? Heel veel zelf programmeren, dat staat op nu
 
 We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar mocht je nu al even iets willen toelichten stuur dan gerust een mailtje naar <help@mprog.nl>. We nemen dan snel contact met je op.
 
-> **Geen paniek!** In de komende tijd zul je merken dat bij de minor studenten rondlopen met méér en met minder ervaring. Dat is heel mooi, want dan kunnen we van elkaar leren, en bovendien hebben we opdrachten op niveau voor elk van deze studenten. Maar voel je niet geïntimideerd, dat is veel belangrijker. Iedereen komt hier om iets te leren, en je gaat heel ver komen, verder dan je waarschijnlijk dacht.
+> **Geen paniek!** In de komende tijd zul je merken dat bij de minor studenten rondlopen met méér en met minder ervaring. Dat is heel mooi, want dan kunnen we van elkaar leren, en bovendien hebben we opdrachten op niveau voor elk van deze studenten. Maar voel je niet geïntimideerd, dat is veel belangrijker. Iedereen komt hier om iets te leren, en je gaat heel ver komen, verder dan je misschien zou denken.
 
 ## Introductiebijeenkomst
 
@@ -22,7 +22,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 <a href="https://www.eyefilm.nl"><img src="16148491515_c49fe7c981_z.jpg" style="max-width:150px;"><br><small>EYE filmmuseum, IJpromenade 1, Amsterdam</small></a>
 </div>
 
-Op de eerste lesdag komen we bijeen in zaal 1 van het EYE filmmuseum voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en in de Turingzaal laten we je de eerste twee colleges zien die afgelopen september bij Harvard zijn opgenomen. Daarna ga je meteen aan de slag, dus neem je opgeladen laptop mee!
+Op de eerste lesdag komen we bijeen in zaal 1 van het EYE filmmuseum voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we ook fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 ## Wat ga je doen?
 
@@ -36,7 +36,7 @@ Als je de hele minor gaat volgen, dan zul je drie fases doorlopen, die we hier b
 
 *November--december.* Nu je kunt programmeren gaan we je verder helpen om je theoretisch te ontwikkelen en om uitgebreid te kijken naar de richting die je op wil. Dat eerste gebeurt bij het vak Programmeertheorie, waar je met een groep aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen.
 
-De toepassingskant krijg je bij Native App Studio en Data Processing[^1] waar we volop de *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen her te gebruiken. Platforms zoals iOS of Android geven je een heleboel van die onderdelen cadeau. Tegelijkertijd is er elke paar jaar wel weer een nieuw platform beschikbaar om andere soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe platforms aan kunt leren.
+De toepassingskant krijg je bij Native App Studio en Data Processing[^1] waar we volop de *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen te hergebruiken. Platforms zoals iOS of Android geven je een heleboel van die onderdelen cadeau. Tegelijkertijd is er elke paar jaar wel weer een nieuw platform beschikbaar om andere soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe platforms aan kunt leren.
 
 [^1]: Als het goed is heb je al gekozen welk van beide richtingen je op gaat.
 
@@ -90,11 +90,13 @@ Op onze faculteit (FNWI) werken we voor de roosters met de website <https://www.
 
 Verdeeld over de vakken zijn er vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen). Soms zijn we herkenbaar aan een t-shirt of nekkoord. Op onze website staan binnenkort weer up-to-date foto's van alle medewerkers!
 
-### Laptops
+### Benodigdheden
 
 Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is ook wel goed). Dat je WiFi werkt is wel een vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
 
 Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot.
+
+Je hebt in principe geen boeken nodig, hoewel bij sommige vakken wel aanbevolen titels vermeld zijn.
 
 ### Programma aanpassen
 
@@ -132,7 +134,7 @@ Heb je nog een vraag? Stuur ons een e-mail. Binnenkort verschijnen hier dan meer
 
 ### Afwezigheid
 
-Is het mogelijk afwezig te zijn bij een werkcollege, practicum e.d.? Ja, maar heel beperkt en alleen als je dit van te voren meldt. Stuur dus een mail naar <help@mprog.nl> en doe een voorstel om vooruit te werken. Achter lopen is nooit mogelijk.
+Is het mogelijk afwezig te zijn bij een werkcollege, practicum e.d.? Ja, maar heel beperkt en alleen als je dit van te voren meldt en vooruit werkt. Stuur dus een mail naar <help@mprog.nl> en doe een voorstel. Achter lopen is nooit mogelijk.
 
 Doe je de minor fulltime en word je ziek? Dan helpen we je graag weer op de rails! Het is dan belangrijk dat je het direct meldt en ons op de hoogte houdt! Door het heftige programma heeft dit hoogstwaarschijnlijk wel effect op je eindcijfers, maar we komen er vast uit.
 
