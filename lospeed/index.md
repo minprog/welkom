@@ -44,27 +44,27 @@ Hier proberen we een overzicht te geven van de belangrijkste verwachtingen die w
 
 ### Wat we van jou verwachten
 
-Je hebt **géén voorkennis** nodig. Er zijn altijd studenten die al eens geprogrammeerd hebben, en die hebben het in het begin natuurlijk iets makkelijker, maar ons programma is ingericht op volledig onervaren studenten.
+Je hebt géén voorkennis nodig. Er zijn altijd studenten die al eens geprogrammeerd hebben, en die hebben het in het begin natuurlijk iets makkelijker, maar ons programma is ingericht op volledig onervaren studenten.
 
-Je belangrijkste activiteit is **héél veel programmeren**, en we verwachten dus ook dat je dit doet. Leren programmeren kost heel veel tijd, en je zult waarschijnlijk meer uren maken dan je gewend bent van andere vakken. Maar zonder deze oefening kom je niet vooruit!
+Je belangrijkste activiteit is héél veel programmeren, en we verwachten dus ook dat je dit doet. Leren programmeren kost heel veel tijd, en je zult waarschijnlijk meer uren maken dan je gewend bent van andere vakken. Maar zonder deze oefening kom je niet vooruit!
 
-Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je een behoorlijk aantal uren bij ons **aanwezig** bent. Bij de werkcolleges, maar ook een groot aantal uren om zelf te werken, met de nodige hulp van onze assistenten.
+Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je een behoorlijk aantal uren bij ons aanwezig bent. Bij de werkcolleges, maar ook een groot aantal uren om zelf te werken, met de nodige hulp van onze assistenten.
 
 > Voor parttime-studenten gaat het zo: je hebt wekelijks een college op maandag of dinsdag (de indeling wordt pas in de eerste week gemaakt), en daarnaast moet je 6 uur per week aanwezig zijn tijdens de practica: dinsdag t/m donderdag 16--19 uur.
 
-Nu je toch zoveel uren aanwezig bent, vinden we het ook heel belangrijk dat je openstaat voor **vragen** van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
+Nu je toch zoveel uren aanwezig bent, vinden we het ook heel belangrijk dat je openstaat voor vragen van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
 
-We vragen van jou een actieve bemoeienis met je eigen **voortgang**. Zorg dat je goed bijhoudt waar je staat en wat je nog moet doen, en neem bij vragen en problemen meteen contact op. Kun je je assistent niet vinden? Stuur dan meteen een mail naar <help@mprog.nl>.
+We vragen van jou een actieve bemoeienis met je eigen voortgang. Zorg dat je goed bijhoudt waar je staat en wat je nog moet doen, en neem bij vragen en problemen meteen contact op. Kun je je assistent niet vinden? Stuur dan meteen een mail naar <help@mprog.nl>.
 
-Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle **mededelingen** op de websites én alle mededelingen in je e-mail goed bijhoudt. Dat je dit document aan het lezen bent is al een goed begin!
+Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle mededelingen op de websites én alle mededelingen in je e-mail goed bijhoudt. Dat je dit document aan het lezen bent is al een goed begin!
 
 ### Wat je van ons mag verwachten
 
-Omdat we vragen dat jij aanwezig bent, willen we ook dat dat zin heeft. Natuurlijk is het essentieel dat je met je medestudenten discussieert en overlegt over de opdrachten en de stof, maar je mag ook verwachten dat wij **regelmatig aanwezig** zijn en je terzijde staan. Kun je ons niet vinden? Stuur een mail!
+Omdat we vragen dat jij aanwezig bent, willen we ook dat dat zin heeft. Natuurlijk is het essentieel dat je met je medestudenten discussieert en overlegt over de opdrachten en de stof, maar je mag ook verwachten dat wij regelmatig aanwezig zijn en je terzijde staan. Kun je ons niet vinden? Stuur een mail!
 
-We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een **persoonlijk aanspreekpunt** hebt. Daarom hebben we voor elke groep een eigen assistent. Deze assistent houdt bij hoe het met je gaat en nodigt je af en toe uit voor een gesprek over de voortgang.
+We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom hebben we voor elke groep een eigen assistent. Deze assistent houdt bij hoe het met je gaat en nodigt je af en toe uit voor een gesprek over de voortgang.
 
-Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je **genoeg feedback** krijgt. We kijken je werk elke week na en geven je dan ideeën om het beter te doen. Krijg je niet genoeg feedback, of wil je meer horen over een specifiek onderwerp? Gewoon vragen!
+Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg feedback krijgt. We kijken je werk elke week na en geven je dan ideeën om het beter te doen. Krijg je niet genoeg feedback, of wil je meer horen over een specifiek onderwerp? Gewoon vragen!
 
 ## Praktische zaken
 
