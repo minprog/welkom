@@ -86,7 +86,7 @@ Alle lessen (behalve het introductiecollege!) vinden plaats in het Science Park 
 
 ### Roosters
 
-Op onze faculteit (FNWI) werken we voor de roosters met de website <https://www.datanose.nl/>. Je kunt daar direct vanaf de homepage je persoonlijke rooster inkijken door je studentnummer in te tikken.
+Op onze faculteit (FNWI) werken we voor de roosters met de website <https://www.datanose.nl/>. Je kunt daar direct vanaf de homepage je persoonlijke rooster inkijken door je studentnummer in te tikken. Let op! Niet alle activiteiten staan in het rooster. Je moet altijd aanwezig zijn tussen 9:30--16:30!
 
 ### Team
 
