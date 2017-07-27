@@ -8,20 +8,20 @@ In dit document vind je praktische informatie over de minor en over regels die w
 
 Wat kun je verwachten komende tijd? Heel veel zelf programmeren, dat staat op nummer één<span class="sidenote-number"></span>.
 
-<iframe style="height:50%" src="https://player.vimeo.com/video/130987431?color=ff9933&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<caption><a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">
-Bron: <em>What is code?</em> van Paul Ford.<br> Lees dat essay!</a></caption>
+<iframe style="width:100%;" src="https://player.vimeo.com/video/130987431?color=ff9933&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/"><br>
+Bron: <em>What is code?</em> van Paul Ford. Lees dat essay!</a>
 
 Daarnaast geven we je elke week weer kleine stukjes informatica om over na te denken, zodat je een goede basis in de theorie hebt. En ook heel belangrijk: begeleiding van ervaren programmeurs, studenten en docenten.
 
 We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar mocht je nu al even iets willen toelichten stuur dan gerust een mailtje naar <help@mprog.nl>. We nemen dan snel contact met je op.
 
->**Geen paniek!** In de komende tijd zul je merken dat bij de minor studenten rondlopen met méér en met minder ervaring. Dat is heel mooi, want dan kunnen we van elkaar leren, en bovendien hebben we opdrachten op niveau voor elk van deze studenten. Maar voel je niet geïntimideerd, dat is veel belangrijker. Iedereen komt hier om iets te leren, en je gaat heel ver komen, verder dan je waarschijnlijk dacht.
+> **Geen paniek!** In de komende tijd zul je merken dat bij de minor studenten rondlopen met méér en met minder ervaring. Dat is heel mooi, want dan kunnen we van elkaar leren, en bovendien hebben we opdrachten op niveau voor elk van deze studenten. Maar voel je niet geïntimideerd, dat is veel belangrijker. Iedereen komt hier om iets te leren, en je gaat heel ver komen, verder dan je waarschijnlijk dacht.
 
 ## Introductiebijeenkomst
 
-<div style="float:right;">
-	<a href="https://www.eyefilm.nl"><img src="16148491515_c49fe7c981_z.jpg"/></a><br>EYE filmmuseum, IJpromenade 1, Amsterdam. 
+<div style="float:right; max-width: 150px;">
+<a href="https://www.eyefilm.nl"><img src="16148491515_c49fe7c981_z.jpg" style="max-width:150px;"><br>EYE filmmuseum, IJpromenade 1, Amsterdam.</a>
 </div>
 
 Op de eerste lesdag komen we bijeen in zaal 1 van het EYE filmmuseum voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en in de Turingzaal laten we je de eerste twee colleges zien die afgelopen september bij Harvard zijn opgenomen. Daarna ga je meteen aan de slag, dus neem je opgeladen laptop mee!
@@ -32,17 +32,19 @@ Als je de hele minor gaat volgen, dan zul je drie fases doorlopen, die we hier b
 
 ### Fase 1: Programmeren
 
-Onze eerste vakken zijn Programmeren 1 en Programmeren 2. Daar ga je vanaf het allereerste begin leren programmeren in een hele reeks talen, zoals Scratch, C, Javascript en Python. De essentie van deze vakken is ontzettend veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Daarom vinden we het belangrijk dat je een groot deel van de tijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
+*September--oktober.* Onze eerste vakken zijn Programmeren 1 en Programmeren 2. Daar ga je vanaf het allereerste begin leren programmeren in een hele reeks talen, zoals Scratch, C, Javascript en Python. De essentie van deze vakken is ontzettend veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Daarom vinden we het belangrijk dat je een groot deel van de tijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
 
 ### Fase 2: Verdieping en toepassingen
 
-Nu je kunt programmeren gaan we je verder helpen om je theoretisch te ontwikkelen en om uitgebreid te kijken naar de richting die je op wil. Dat eerste gebeurt bij het vak Programmeertheorie In week 9 t/m 17 van het semester. waar je met een groep aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen.
+*November--december.* Nu je kunt programmeren gaan we je verder helpen om je theoretisch te ontwikkelen en om uitgebreid te kijken naar de richting die je op wil. Dat eerste gebeurt bij het vak Programmeertheorie, waar je met een groep aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen.
 
-De toepassingskant krijg je bij Native App Studio en Data Processing Als het goed is heb je al gekozen welk van beide richtingen je op gaat. waar we volop de platforms induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen her te gebruiken. Platforms zoals iOS of Android geven je een heleboel van die onderdelen cadeau. Tegelijkertijd is er elke paar jaar wel weer een nieuw platform beschikbaar om andere soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe platforms aan kunt leren.
+De toepassingskant krijg je bij Native App Studio en Data Processing[^1] waar we volop de *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen her te gebruiken. Platforms zoals iOS of Android geven je een heleboel van die onderdelen cadeau. Tegelijkertijd is er elke paar jaar wel weer een nieuw platform beschikbaar om andere soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe platforms aan kunt leren.
+
+[^1]: Als het goed is heb je al gekozen welk van beide richtingen je op gaat.
 
 ### Fase 3: Project
 
-Het slot van de minor is het Programmeerproject Dit vak volg je in weken 17 t/m 20.. Daar ga je een heel eigen idee voor een app of visualisatie verzinnen, uitwerken, en implementeren. We begeleiden je procesmatig, maar je bent al zo ver gevorderd, dat je zelf grotendeels weet hoe je dingen moet uitzoeken die je nog niet kan, maar wel nodig hebt om je plan tot een goed einde te brengen. Natuurlijk sluiten we af met een epic demonstratie van alle games, apps en visualisaties - en nodig vooral vrienden en familie uit om mee te kijken!
+*Januari.* Het slot van de minor is het Programmeerproject. Daar ga je een heel eigen idee voor een app of visualisatie verzinnen, uitwerken, en implementeren. We begeleiden je procesmatig, maar je bent al zo ver gevorderd, dat je zelf grotendeels weet hoe je dingen moet uitzoeken die je nog niet kan, maar wel nodig hebt om je plan tot een goed einde te brengen. Natuurlijk sluiten we af met een epic demonstratie van alle games, apps en visualisaties - en nodig vooral vrienden en familie uit om mee te kijken!
 
 ## Verwachtingen
 
