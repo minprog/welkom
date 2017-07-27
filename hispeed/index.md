@@ -77,7 +77,7 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 ## Praktische zaken
 
 <div style="float:right; max-width: 150px;">
-<a href="https://www.eyefilm.nl"><img src="../fnwi.jpg" style="max-width:150px;"><br>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam.</a>
+<img src="../fnwi.jpg" style="max-width:150px;"><br>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam.
 </div>
 
 ### Locatie
