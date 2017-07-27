@@ -1,4 +1,4 @@
-# Welkom bij de Minor Programmeren!
+# Welkom!
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig een programmeerproject op je te nemen, bijvoorbeeld om een app te maken of een interactieve datavisualisatie. We hebben er veel zin in!
 
