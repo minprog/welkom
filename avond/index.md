@@ -14,10 +14,6 @@ Wat kun je verwachten komende tijd? Heel veel zelf programmeren, dat staat op nu
 
 We hopen je snel te spreken, maar mocht je nu al even iets willen toelichten stuur dan gerust een mailtje naar <help@mprog.nl>. We nemen dan snel contact met je op.
 
-## Introductiebijeenkomst
-
-We starten het vak Programmeren 1 met een introductiebijeenkomst. Zoals je misschien al weet, gebruiken we veel videomateriaal, en we laten je de eerste colleges zien die afgelopen studiejaar bij Harvard zijn opgenomen. Tegelijk vertellen we je veel meer over hoe de minor en de vakken in elkaar zitten.
-
 ## Wat ga je doen?
 
 Je gaat vanaf het allereerste begin leren programmeren in een hele reeks talen, zoals Scratch, C, Javascript en Python. De essentie is ontzettend veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Daarom vinden we het belangrijk dat je regelmatig tijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
@@ -54,11 +50,13 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### Locatie
 
-Alle lessen (behalve het introductiecollege!) vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokaal is A1.16 op de eerste verdieping.
+Alle lessen vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokaal is A1.16 op de eerste verdieping.
+
+Kom je voor het eerst? Meld je dan bij een assistent voor het maken van een persoonlijke planning!
 
 ### Roosters
 
-Op dit moment kun je langskomen elke dinsdag t/m donderdag van 16:00 tot 19:00 uur. Natuurlijk kijk je op andere momenten de colleges en doe je zoveel mogelijk aan de opdracht, maar begeleiding krijg je tijdens deze uren. Een keertje missen is natuurlijk geen probleem.
+Je kunt zelf kiezen wanneer je komt; we staan voor je klaar op dinsdag t/m donderdag van 16:00 tot 19:00 uur. Je kijkt zelf op andere momenten de videocolleges en je doet zoveel mogelijk aan de opdracht, maar de begeleiding krijg je tijdens deze uren. Een keertje missen is natuurlijk geen probleem.
 
 ### Planning
 
