@@ -8,7 +8,7 @@ In dit document vind je praktische informatie over de minor en over regels die w
 
 Wat kun je verwachten komende tijd? Heel veel zelf programmeren, dat staat op nummer één<span class="sidenote-number"></span>.
 
-<iframe style="width:100%;" src="https://player.vimeo.com/video/130987431?color=ff9933&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe style="width:100%; height: 280px;" src="https://player.vimeo.com/video/130987431?color=ff9933&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/"><br>
 Bron: <em>What is code?</em> van Paul Ford. Lees dat essay!</a>
 
