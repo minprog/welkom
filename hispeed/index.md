@@ -22,7 +22,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 <a href="https://www.eyefilm.nl"><img src="16148491515_c49fe7c981_z.jpg" style="max-width:150px;"><br><small>EYE filmmuseum, IJpromenade 1, Amsterdam</small></a>
 </div>
 
-Op de eerste lesdag komen we bijeen in zaal 1 van het EYE filmmuseum voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we ook fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste lesdag komen we bijeen om 9:15 in zaal 1 van het EYE filmmuseum voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we ook fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 ## Wat ga je doen?
 
