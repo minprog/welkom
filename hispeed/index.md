@@ -90,23 +90,23 @@ Op onze faculteit (FNWI) werken we voor de roosters met de website <https://www.
 
 ### Team
 
-Verdeeld over de vakken zijn er vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen). Soms zijn we herkenbaar aan een t-shirt of nekkoord. De foto's staan op onze website: deze wordt aan het begin van het semester aangevuld met onze nieuwe medewerkers!
+Verdeeld over de vakken zijn er vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen). Soms zijn we herkenbaar aan een t-shirt of nekkoord. Op onze website staan binnenkort weer up-to-date foto's van alle medewerkers!
 
 ### Laptops
 
-Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 4GB intern geheugen voldoet. Dat je WiFi nog goed werkt is ook wel een vereiste. Heb je problemen met het instellen van je draadloos internet? Loop dan langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
+Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is ook wel goed). Dat je WiFi werkt is wel een vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
 
-Wil je een goede korting op een Mac? Gebruik dan deze link van Surfspot.
+Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot.
 
 ### Programma aanpassen
 
-Wil je toch nog aanpassingen doen in het minorprogramma waarvoor je bent ingeschreven? Stuur dan gerust een e-mailtje naar help@mprog.nl.
+Wil je toch nog aanpassingen doen in het minorprogramma waarvoor je bent ingeschreven? Stuur dan gerust een e-mailtje naar <help@mprog.nl>.
 
 ### Administratie
 
 Heb je vragen over de administratie van cijfers? Neem dan contact op met de servicedesk van onze faculteit via (020) 525 7100 of stuur een mail. Je kunt ook gewoon even langs gaan: de balie bevindt zich op de eerste verdieping van ons gebouw en is elke werkdag open tussen 9 en 17 uur.
 
-Mocht je vragen hebben over je inschrijving bij de UvA, neem dan contact op met de Student Service Desk, Roetersstraat 11, telefoon (020) 525 8080.
+Mocht je vragen hebben over je inschrijving bij de UvA (bijvoorbeeld als bijvakker), neem dan contact op met de Student Service Desk, Roetersstraat 11, telefoon (020) 525 8080.
 
 ## Adviezen
 
@@ -132,7 +132,7 @@ Heb je nog een vraag? Stuur ons een e-mail. Binnenkort verschijnen hier dan meer
 
 ### Afwezigheid
 
-Is het mogelijk afwezig te zijn bij een werkcollege, practicum e.d.? Ja, maar heel beperkt en alleen als je dit van te voren meldt. Stuur dus een mail naar help@mprog.nl en doe een voorstel om vooruit te werken. Achter lopen is nooit mogelijk.
+Is het mogelijk afwezig te zijn bij een werkcollege, practicum e.d.? Ja, maar heel beperkt en alleen als je dit van te voren meldt. Stuur dus een mail naar <help@mprog.nl> en doe een voorstel om vooruit te werken. Achter lopen is nooit mogelijk.
 
 Doe je de minor fulltime en word je ziek? Dan helpen we je graag weer op de rails! Het is dan belangrijk dat je het direct meldt en ons op de hoogte houdt! Door het heftige programma heeft dit hoogstwaarschijnlijk wel effect op je eindcijfers, maar we komen er vast uit.
 
