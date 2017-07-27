@@ -6,13 +6,11 @@ Welkom! De komende maanden gaan we hard aan de slag om jou te leren zelfstandig 
 
 In dit document vind je praktische informatie over de minor en over regels die wij belangrijk vinden. Let op: het gaat er bij ons soms nogal anders aan toe dan bij andere opleidingen.
 
-Wat kun je verwachten komende tijd? Heel veel zelf programmeren, dat staat op nummer één<span class="sidenote-number"></span>.
-
 <iframe style="width:100%; height: 280px;" src="https://player.vimeo.com/video/130987431?color=ff9933&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/"><br>
 Bron: <em>What is code?</em> van Paul Ford. Lees dat essay!</a>
 
-Daarnaast geven we je elke week weer kleine stukjes informatica om over na te denken, zodat je een goede basis in de theorie hebt. En ook heel belangrijk: begeleiding van ervaren programmeurs, studenten en docenten.
+Wat kun je verwachten komende tijd? Heel veel zelf programmeren, dat staat op nummer één. Daarnaast geven we je elke week weer kleine stukjes informatica om over na te denken, zodat je een goede basis in de theorie hebt. En ook heel belangrijk: begeleiding van ervaren programmeurs, studenten en docenten.
 
 We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar mocht je nu al even iets willen toelichten stuur dan gerust een mailtje naar <help@mprog.nl>. We nemen dan snel contact met je op.
 
