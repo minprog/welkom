@@ -18,7 +18,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 ## Introductiebijeenkomst
 
-We starten het vak Programmeren 1 met een introductiebijeenkomst. Zoals je misschien al weet, gebruiken we veel videomateriaal, en we laten je de eerste colleges zien die afgelopen studiejaar bij Harvard zijn opgenomen. Tegelijk vertellen we je veel meer over hoe de minor en de vakken in elkaar zitten.
+We starten het vak Programmeren 1 met een introductiebijeenkomst (de datum volgt per mail!). Zoals je misschien al weet, gebruiken we veel videomateriaal, en we laten je de eerste colleges zien die afgelopen studiejaar bij Harvard zijn opgenomen. Tegelijk vertellen we je veel meer over hoe de minor en de vakken in elkaar zitten.
 
 ## Wat ga je doen?
 
