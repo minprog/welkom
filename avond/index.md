@@ -50,7 +50,7 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### Locatie
 
-Alle lessen vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokaal is A1.16 op de eerste verdieping.
+Alle lessen vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokaal is A1.30 op de eerste verdieping.
 
 Kom je voor het eerst? Meld je dan bij een assistent voor het maken van een persoonlijke planning!
 
