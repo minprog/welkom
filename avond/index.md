@@ -56,7 +56,7 @@ Kom je voor het eerst? Meld je dan bij een assistent voor het maken van een pers
 
 ### Roosters
 
-Je kunt zelf kiezen wanneer je komt; we staan voor je klaar op dinsdag t/m donderdag van 16:00 tot 19:00 uur. Je kijkt zelf op andere momenten de videocolleges en je doet zoveel mogelijk aan de opdracht, maar de begeleiding krijg je tijdens deze uren. Een keertje missen is natuurlijk geen probleem.
+Je kunt zelf kiezen wanneer je komt; we staan voor je klaar op maandag t/m donderdag van 16:00 tot 19:00 uur. Je kijkt zelf op andere momenten de videocolleges en je doet zoveel mogelijk aan de opdracht, maar de begeleiding krijg je tijdens deze uren. Een keertje missen is natuurlijk geen probleem.
 
 ### Planning
 
