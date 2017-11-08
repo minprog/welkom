@@ -28,7 +28,7 @@ Je hebt géén voorkennis nodig. Er zijn altijd studenten die al eens geprogramm
 
 Je belangrijkste activiteit is héél veel programmeren, en we verwachten dus ook dat je dit doet. Leren programmeren kost heel veel tijd, en je zult waarschijnlijk meer uren maken dan je gewend bent van andere vakken. Maar zonder deze oefening kom je niet vooruit!
 
-Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je een redelijk aantal uren bij ons aanwezig bent. We hebben tijd gereserveerd op dinsdag t/m donderdag 16:00--19:00 uur.
+Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je een redelijk aantal uren bij ons aanwezig bent. We hebben tijd gereserveerd op maandag t/m donderdag 16:00--19:00 uur.
 
 We vinden het ook belangrijk dat je openstaat voor vragen van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
 
