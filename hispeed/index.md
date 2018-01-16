@@ -22,7 +22,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 <a href="https://www.theaterdeomval.nl"><img src="/omval.jpg" style="max-width:150px;"><br><small>De Omval, Ouddiemerlaan 104,  Diemen</small></a>
 </div>
 
-Op de eerste lesdag komen we bijeen om 9:15 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we ook fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste lesdag 5 februari komen we bijeen om 9:15 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we ook fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 ## Wat ga je doen?
 
@@ -99,13 +99,15 @@ Programmeren 1 en 2 hebben elk een tentamen:
 | Programmeren 2 | tentamen    | 26 maart    |  
 | Programmeren 2 | hertentamen | 11 april    |  
 
+(Bij tikfouten gaat het officiële rooster voor natuurlijk.)
+
 ### Team
 
 Verdeeld over de vakken zijn er vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen). Soms zijn we herkenbaar aan een t-shirt of nekkoord. Op onze website staan binnenkort weer up-to-date foto's van alle medewerkers!
 
 ### Benodigdheden
 
-Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is ook wel goed maar niet handig). Dat je WiFi werkt is wel een vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
+Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is ook wel goed, maar niet geweldig). Dat je WiFi werkt is wel een vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
 
 Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot.
 

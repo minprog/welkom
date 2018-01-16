@@ -1,6 +1,6 @@
 # Welkom!
 
-*Versie: herfst 2017, lo-speed*
+*Versie: lente 2018, lo-speed*
 
 Welkom! De komende tijd gaan we hard aan de slag om jou te leren zelfstandig een programmeerproject op je te nemen, bijvoorbeeld om een app te maken of een interactieve datavisualisatie. We hebben er veel zin in!
 
@@ -18,7 +18,11 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 ## Introductiebijeenkomst
 
-We starten het vak Programmeren 1 met een introductiebijeenkomst (de datum volgt per mail!). Zoals je misschien al weet, gebruiken we veel videomateriaal, en we laten je de eerste colleges zien die afgelopen studiejaar bij Harvard zijn opgenomen. Tegelijk vertellen we je veel meer over hoe de minor en de vakken in elkaar zitten.
+<div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
+<a href="https://www.theaterdeomval.nl"><img src="/omval.jpg" style="max-width:150px;"><br><small>De Omval, Ouddiemerlaan 104,  Diemen</small></a>
+</div>
+
+Op de eerste lesdag 5 februari komen we bijeen om 9:15 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we ook fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 ## Wat ga je doen?
 
@@ -50,7 +54,7 @@ Je belangrijkste activiteit is héél veel programmeren, en we verwachten dus oo
 
 Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je een behoorlijk aantal uren bij ons aanwezig bent. Bij de werkcolleges, maar ook een groot aantal uren om zelf te werken, met de nodige hulp van onze assistenten.
 
-> Voor parttime-studenten gaat het zo: je hebt wekelijks een college op maandag of dinsdag (de indeling wordt pas in de eerste week gemaakt), en daarnaast moet je 6 uur per week aanwezig zijn: je mag zelf kiezen binnen de tijden dinsdag t/m donderdag 16--19 uur.
+> Voor parttime-studenten gaat het zo: je hebt wekelijks een werkcollege op maandag (de indeling wordt pas in de eerste week gemaakt), en daarnaast moet je 6 uur per week aanwezig zijn: je mag zelf kiezen binnen de tijden dinsdag t/m donderdag 15--19 uur.
 
 Nu je toch zoveel uren aanwezig bent, vinden we het ook heel belangrijk dat je openstaat voor vragen van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
 
@@ -82,13 +86,26 @@ Op onze faculteit (FNWI) werken we voor de roosters met de website <https://www.
 
 De groepsindeling voor werkcolleges wordt pas in de eerste studieweek gemaakt. Hou je mail dus goed in de gaten!
 
+### Tentamens
+
+Programmeren 1 en 2 hebben elk een tentamen:
+
+| vak            | type        | datum    |  
+| -------------- | ----------- | -------- |  
+| Programmeren 1 | tentamen    | 26 maart |  
+| Programmeren 1 | hertentamen | 9 april  |  
+| Programmeren 2 | tentamen    | 28 mei   |  
+| Programmeren 2 | hertentamen | 11 juni  |  
+
+(Bij tikfouten gaat het officiële rooster voor natuurlijk.)
+
 ### Team
 
 Verdeeld over de vakken zijn er vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen). Soms zijn we herkenbaar aan een t-shirt of nekkoord. Op onze website staan binnenkort weer up-to-date foto's van alle medewerkers!
 
 ### Benodigdheden
 
-Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is ook wel goed). Dat je WiFi werkt is wel een vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
+Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is ook wel goed, maar niet geweldig). Dat je WiFi werkt is wel een vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
 
 Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot.
 
@@ -140,4 +157,4 @@ Meld je eventuele calamiteiten pas naderhand? Dan is de kans groot dat je het va
 
 Kun je een certificaat krijgen voor de minor? Nee. Als je UvA-student bent, is het wel vaak mogelijk een minor op te nemen op je diploma. Daarvoor moeten wij, als de minor afgerond is, een aantekening in SIS registreren. De administratie van je eigen studie kan dit dan op je diploma zetten. Het is ook mogelijk om een cijferlijst uit te laten printen bij de onderwijsbalie; dan heb je een mooi overzicht van je minorcijfers.
 
-<small>Copyright 2015–2017 Martijn Stegeman. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>
+<small>Copyright 2015–2018 Martijn Stegeman. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>

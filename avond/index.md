@@ -1,6 +1,6 @@
 # Welkom!
 
-*Versie: herfst 2017, avondcursus*
+*Versie: 2017--2018, avondcursus*
 
 Welkom! De komende maanden gaan we hard aan de slag om jou te leren programmeren—en ondertussen allerlei aspecten van de informatica toe te lichten. We hebben er veel zin in!
 
