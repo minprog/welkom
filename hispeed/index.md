@@ -109,7 +109,7 @@ Programmeren 1 en 2 hebben elk een tentamen. Het hertentamen is al **tien werkda
 
 Verdeeld over de vakken zijn er vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen). Soms zijn we herkenbaar aan een t-shirt of nekkoord. Op onze website staan binnenkort weer up-to-date foto's van alle medewerkers!
 
-### Benodigdheden
+### Laptop en boeken
 
 Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is ook wel goed, maar niet geweldig). Dat je WiFi werkt is wel een vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
 
