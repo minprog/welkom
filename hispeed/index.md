@@ -96,12 +96,12 @@ De week na pasen hebben we collegevrij gehouden zodat iedereen even bij kan kome
 
 Programmeren 1 en 2 hebben elk een tentamen. Het hertentamen is al **tien werkdagen** na het tentamen!
 
-| vak            | type        | datum       |  
-| -------------- | ----------- | ----------- |  
-| Programmeren 1 | tentamen    | 26 februari |  
-| Programmeren 1 | hertentamen | 12 maart    |  
-| Programmeren 2 | tentamen    | 26 maart    |  
-| Programmeren 2 | hertentamen | 11 april    |  
+| vak            | type        | datum                      |  
+| -------------- | ----------- | -------------------------- |  
+| Programmeren 1 | tentamen    | 26 februari 9--11          |  
+| Programmeren 1 | hertentamen | 12 maart late middag avond |  
+| Programmeren 2 | tentamen    | 26 maart 9--11             |  
+| Programmeren 2 | hertentamen | 11 april late middag/avond |  
 
 (Bij tikfouten gaat het officiële rooster voor natuurlijk. Dat gezegd hebbende, het officiële rooster moet nog bijgewerkt worden met deze data.)
 
