@@ -1,6 +1,6 @@
 # Welkom!
 
-*Versie: herfst 2017, hi-speed*
+*Versie: lente 2018, hi-speed*
 
 Welkom! De komende maanden gaan we hard aan de slag om jou te leren zelfstandig een programmeerproject op je te nemen, bijvoorbeeld om een app te maken of een interactieve datavisualisatie. We hebben er veel zin in!
 
@@ -19,10 +19,10 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 ## Introductiebijeenkomst
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
-<a href="https://www.eyefilm.nl"><img src="16148491515_c49fe7c981_z.jpg" style="max-width:150px;"><br><small>EYE filmmuseum, IJpromenade 1, Amsterdam</small></a>
+<a href="https://www.theaterdeomval.nl"><img src="/omval.jpg" style="max-width:150px;"><br><small>De Omval, Ouddiemerlaan 104,  Diemen</small></a>
 </div>
 
-Op de eerste lesdag komen we bijeen om 9:15 in zaal 1 van het EYE filmmuseum voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we ook fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste lesdag komen we bijeen om 9:15 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we ook fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 ## Wat ga je doen?
 
@@ -30,11 +30,11 @@ Als je de hele minor gaat volgen, dan zul je drie fases doorlopen, die we hier b
 
 ### Fase 1: Programmeren
 
-*September--oktober.* Onze eerste vakken zijn Programmeren 1 en Programmeren 2. Daar ga je vanaf het allereerste begin leren programmeren in een hele reeks talen, zoals Scratch, C, Javascript en Python. De essentie van deze vakken is ontzettend veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Daarom vinden we het belangrijk dat je een groot deel van de tijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
+*Februari--maart.* Onze eerste vakken zijn Programmeren 1 en Programmeren 2. Daar ga je vanaf het allereerste begin leren programmeren in een hele reeks talen, zoals Scratch, C, Javascript en Python. De essentie van deze vakken is ontzettend veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Daarom vinden we het belangrijk dat je een groot deel van de tijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
 
 ### Fase 2: Verdieping en toepassingen
 
-*November--december.* Nu je kunt programmeren gaan we je verder helpen om je theoretisch te ontwikkelen en om uitgebreid te kijken naar de richting die je op wil. Dat eerste gebeurt bij het vak Programmeertheorie, waar je met een groep aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen.
+*April--mei.* Nu je kunt programmeren gaan we je verder helpen om je theoretisch te ontwikkelen en om uitgebreid te kijken naar de richting die je op wil. Dat eerste gebeurt bij het vak Programmeertheorie, waar je met een groep aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen.
 
 De toepassingskant krijg je bij Native App Studio en Data Processing[^1] waar we volop de *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen te hergebruiken. Platforms zoals iOS of Android geven je een heleboel van die onderdelen cadeau. Tegelijkertijd is er elke paar jaar wel weer een nieuw platform beschikbaar om andere soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe platforms aan kunt leren.
 
@@ -42,7 +42,7 @@ De toepassingskant krijg je bij Native App Studio en Data Processing[^1] waar we
 
 ### Fase 3: Project
 
-*Januari.* Het slot van de minor is het Programmeerproject. Daar ga je een heel eigen idee voor een app of visualisatie verzinnen, uitwerken, en implementeren. We begeleiden je procesmatig, maar je bent al zo ver gevorderd, dat je zelf grotendeels weet hoe je dingen moet uitzoeken die je nog niet kan, maar wel nodig hebt om je plan tot een goed einde te brengen. Natuurlijk sluiten we af met een epic demonstratie van alle games, apps en visualisaties - en nodig vooral vrienden en familie uit om mee te kijken!
+*Juni.* Het slot van de minor is het Programmeerproject. Daar ga je een heel eigen idee voor een app of visualisatie verzinnen, uitwerken, en implementeren. We begeleiden je procesmatig, maar je bent al zo ver gevorderd, dat je zelf grotendeels weet hoe je dingen moet uitzoeken die je nog niet kan, maar wel nodig hebt om je plan tot een goed einde te brengen. Natuurlijk sluiten we af met een epic demonstratie van alle games, apps en visualisaties - en nodig vooral vrienden en familie uit om mee te kijken!
 
 ## Verwachtingen
 
@@ -56,7 +56,7 @@ Je belangrijkste activiteit is héél veel programmeren, en we verwachten dus oo
 
 Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je een behoorlijk aantal uren bij ons aanwezig bent. Bij de werkcolleges, maar ook een groot aantal uren om zelf te werken, met de nodige hulp van onze assistenten.
 
-> Voor fulltime-studenten gaat het zo: je bent elke werkdag in onze lokalen aanwezig tussen 9:30 en 16:30 uur (met een halfuurtje in- en uitloop). Het tempo ligt enorm hoog, dus het is belangrijk dat je altijd bij ons en je medestudenten in de buurt bent als je er niet snel uit komt.
+> Voor fulltime-studenten gaat het zo: je bent elke werkdag in onze lokalen aanwezig tussen 9:30 en 15:30 uur. Het tempo ligt enorm hoog, dus het is belangrijk dat je altijd bij ons en je medestudenten in de buurt bent als je er niet snel uit komt.
 
 Nu je toch zoveel uren aanwezig bent, vinden we het ook heel belangrijk dat je openstaat voor vragen van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
 
@@ -80,11 +80,24 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### Locatie
 
-Alle lessen (behalve het introductiecollege!) vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokalen zijn A1.16--A1.20--A1.22--A1.30 op de eerste verdieping.
+Alle lessen (behalve het introductiecollege!) vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokalen zijn A1.16--A1.20 op de eerste verdieping.
 
 ### Roosters
 
-Op onze faculteit (FNWI) werken we voor de roosters met de website <https://www.datanose.nl/>. Je kunt daar direct vanaf de homepage je persoonlijke rooster inkijken door je studentnummer in te tikken. Let op! Niet alle activiteiten staan in het rooster. Je moet altijd aanwezig zijn tussen 9:30--16:30!
+Op onze faculteit (FNWI) werken we voor de roosters met de website <https://www.datanose.nl/>. Je kunt daar direct vanaf de homepage je persoonlijke rooster inkijken door je studentnummer in te tikken. Let op! Niet alle activiteiten staan in het rooster. Je moet altijd aanwezig zijn tussen 9:30--15:30! Soms zijn er verplichte colleges buiten die tijden, en die staan wél in het rooster.
+
+De week na pasen hebben we collegevrij gehouden zodat iedereen even bij kan komen van Programmeren 1 en 2. Er is nog wel een hertentamen vlak na die week.
+
+### Tentamens
+
+Programmeren 1 en 2 hebben elk een tentamen:
+
+| vak            | type        | datum       |  
+| -------------- | ----------- | ----------- |  
+| Programmeren 1 | tentamen    | 26 februari |  
+| Programmeren 1 | hertentamen | 12 maart    |  
+| Programmeren 2 | tentamen    | 26 maart    |  
+| Programmeren 2 | hertentamen | 11 april    |  
 
 ### Team
 
@@ -92,7 +105,7 @@ Verdeeld over de vakken zijn er vele docenten en assistenten die hoorcollege en 
 
 ### Benodigdheden
 
-Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is ook wel goed). Dat je WiFi werkt is wel een vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
+Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is ook wel goed maar niet handig). Dat je WiFi werkt is wel een vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
 
 Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot.
 
@@ -144,4 +157,4 @@ Meld je eventuele calamiteiten pas naderhand? Dan is de kans groot dat je het va
 
 Kun je een certificaat krijgen voor de minor? Nee. Als je UvA-student bent, is het wel vaak mogelijk een minor op te nemen op je diploma. Daarvoor moeten wij, als de minor afgerond is, een aantekening in SIS registreren. De administratie van je eigen studie kan dit dan op je diploma zetten. Het is ook mogelijk om een cijferlijst uit te laten printen bij de onderwijsbalie; dan heb je een mooi overzicht van je minorcijfers.
 
-<small>Copyright 2015–2017 Martijn Stegeman. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>
+<small>Copyright 2015–2018 Martijn Stegeman. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>
