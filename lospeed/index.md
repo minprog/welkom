@@ -88,7 +88,7 @@ De groepsindeling voor werkcolleges wordt pas in de eerste studieweek gemaakt. H
 
 ### Tentamens
 
-Programmeren 1 en 2 hebben elk een tentamen:
+Programmeren 1 en 2 hebben elk een tentamen. Het hertentamen is al tien werkdagen na het tentamen!
 
 | vak            | type        | datum    |  
 | -------------- | ----------- | -------- |  

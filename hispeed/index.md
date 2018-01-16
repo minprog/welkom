@@ -90,7 +90,7 @@ De week na pasen hebben we collegevrij gehouden zodat iedereen even bij kan kome
 
 ### Tentamens
 
-Programmeren 1 en 2 hebben elk een tentamen:
+Programmeren 1 en 2 hebben elk een tentamen. Het hertentamen is al tien werkdagen na het tentamen!
 
 | vak            | type        | datum       |  
 | -------------- | ----------- | ----------- |  
