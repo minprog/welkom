@@ -30,17 +30,17 @@ Als je de hele minor gaat volgen, dan zul je drie fases doorlopen, die we hier b
 
 ### Fase 1: Programmeren
 
-Onze eerste vakken zijn Programmeren 1 en Programmeren 2. Daar ga je vanaf het allereerste begin leren programmeren in een hele reeks talen, zoals Scratch, C, Javascript en Python. De essentie van deze vakken is ontzettend veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Daarom vinden we het belangrijk dat je een groot deel van de tijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
+Onze eerste vakken zijn **Programmeren 1** en **Programmeren 2**. Daar ga je vanaf het allereerste begin leren programmeren in een hele reeks talen, zoals Scratch, C, Javascript en Python. De essentie van deze vakken is ontzettend veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Daarom vinden we het belangrijk dat je een groot deel van de tijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
 
 ### Fase 2: Verdieping en toepassingen
 
-Nu je kunt programmeren gaan we je verder helpen om je theoretisch te ontwikkelen en om uitgebreid te kijken naar de richting die je op wil. Dat eerste gebeurt bij het vak Programmeertheorie, waar je met een groep aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen.
+Nu je kunt programmeren gaan we je verder helpen om je theoretisch te ontwikkelen en om uitgebreid te kijken naar de richting die je op wil. Dat eerste gebeurt bij het vak **Programmeertheorie**, waar je met een groep aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen.
 
-De toepassingskant krijg je bij Native App Studio en Data Processing waar we volop de *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen te hergebruiken. Platforms zoals iOS of Android geven je een heleboel van die onderdelen cadeau. Tegelijkertijd is er elke paar jaar wel weer een nieuw platform beschikbaar om andere soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe platforms aan kunt leren.
+De toepassingskant krijg je bij **Native App Studio** en **Data Processing** waar we volop de *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen te hergebruiken. Platforms zoals iOS of Android geven je een heleboel van die onderdelen cadeau. Tegelijkertijd is er elke paar jaar wel weer een nieuw platform beschikbaar om andere soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe platforms aan kunt leren.
 
 ### Fase 3: Project
 
-Het slot van de minor is het Programmeerproject. Daar ga je een heel eigen idee voor een app of visualisatie verzinnen, uitwerken, en implementeren. We begeleiden je procesmatig, maar je bent al zo ver gevorderd, dat je zelf grotendeels weet hoe je dingen moet uitzoeken die je nog niet kan, maar wel nodig hebt om je plan tot een goed einde te brengen. Natuurlijk sluiten we af met een epic demonstratie van alle games, apps en visualisaties - en nodig vooral vrienden en familie uit om mee te kijken!
+Het slot van de minor is het **Programmeerproject**. Daar ga je een heel eigen idee voor een app of visualisatie verzinnen, uitwerken, en implementeren. We begeleiden je procesmatig, maar je bent al zo ver gevorderd, dat je zelf grotendeels weet hoe je dingen moet uitzoeken die je nog niet kan, maar wel nodig hebt om je plan tot een goed einde te brengen. Natuurlijk sluiten we af met een epic demonstratie van alle games, apps en visualisaties - en nodig vooral vrienden en familie uit om mee te kijken!
 
 ## Verwachtingen
 
