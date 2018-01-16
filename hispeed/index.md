@@ -99,7 +99,7 @@ Programmeren 1 en 2 hebben elk een tentamen. Het hertentamen is al **tien werkda
 | vak            | type        | datum                      |  
 | -------------- | ----------- | -------------------------- |  
 | Programmeren 1 | tentamen    | 26 februari 9--11          |  
-| Programmeren 1 | hertentamen | 12 maart late middag avond |  
+| Programmeren 1 | hertentamen | 12 maart late middag/avond |  
 | Programmeren 2 | tentamen    | 26 maart 9--11             |  
 | Programmeren 2 | hertentamen | 11 april late middag/avond |  
 

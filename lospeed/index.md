@@ -90,12 +90,12 @@ De groepsindeling voor werkcolleges wordt pas in de eerste studieweek gemaakt. H
 
 Programmeren 1 en 2 hebben elk een tentamen. Het hertentamen is al **tien werkdagen** na het tentamen!
 
-| vak            | type        | datum    |  
-| -------------- | ----------- | -------- |  
-| Programmeren 1 | tentamen    | 26 maart |  
-| Programmeren 1 | hertentamen | 9 april  |  
-| Programmeren 2 | tentamen    | 28 mei   |  
-| Programmeren 2 | hertentamen | 11 juni  |  
+| vak            | type        | datum                      |  
+| -------------- | ----------- | -------------------------- |  
+| Programmeren 1 | tentamen    | 26 maart late middag/avond |  
+| Programmeren 1 | hertentamen | 9 april late middag/avond  |  
+| Programmeren 2 | tentamen    | 28 mei late middag/avond   |  
+| Programmeren 2 | hertentamen | 11 juni late middag/avond  |  
 
 (Bij tikfouten gaat het officiële rooster voor natuurlijk. Dat gezegd hebbende, het officiële rooster moet nog bijgewerkt worden met deze data.)
 
