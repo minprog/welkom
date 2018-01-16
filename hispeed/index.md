@@ -26,7 +26,7 @@ Op de eerste lesdag 5 februari komen we bijeen om 9:15 in Theater de Omval (Diem
 
 ## Aanwezigheid
 
-We hebben een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent er **elke werkdag** tussen 9:30 en 15:00 uur en de eventuele hoor/werkcolleges die nog buiten die tijden gepland zijn. Dit geldt voor het hele semester. Kun je dit niet volbrengen? Dan moet je switchen naar de parttime-minor, en dat kan nog!
+We hebben een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent er **elke werkdag** tussen 9:30 en 15:00 uur en de eventuele hoor/werkcolleges die nog buiten die tijden gepland zijn. Dit geldt voor het hele semester. Natuurlijk is er wél ruimte voor een keer een trouwerij of doktersbezoek. Kun je dit niet volbrengen? Dan moet je switchen naar de parttime-minor, en dat kan nog!
 
 ## Wat ga je doen?
 
