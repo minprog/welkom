@@ -139,7 +139,7 @@ Studenten uit vorige edities hebben ons deze tips gestuurd om door te geven:
 
 > "Klamp zoveel mogelijk vast aan de studentassistenten als je iets niet snapt. Wees niet bang om te vragen, soms heb je net dat zetje nodig."
 
-> "Oefening baart kunst. Bij Programmeren 1 & 2 was er echt een hele goede opbouw in de moeilijkheidsgraad van de programma's, waardoor je echt merkt dat je steeds in stappen verder komt. Verder was het fijn dat er een bepaald soort flexibiliteit was qua werken en aanwezigheid, en tegelijkertijd ook genoeg oplettendheid om je niet het gevoel te geven dat je voor niks kwam of juist wegbleef. En verder een goeie sfeer, ongeacht het feit dat er toch vaak genoeg gefrustreerd naar computerschermen gekeken wordt."
+> "Oefening baart kunst. Bij Programmeren 1 & 2 was er echt een hele goede opbouw in de moeilijkheidsgraad van de programma's, waardoor je echt merkt dat je steeds in stappen verder komt."
 
 ## FAQ
 

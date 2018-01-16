@@ -24,6 +24,10 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 Op de eerste lesdag 5 februari komen we bijeen om 9:15 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we ook fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
+## Aanwezigheid
+
+We hebben een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent er **elke werkdag** tussen 9:30 en 15:00 uur en de eventuele hoor/werkcolleges die nog buiten die tijden gepland zijn. Dit geldt voor het hele semester. Kun je dit niet volbrengen? Dan moet je switchen naar de parttime-minor, en dat kan nog!
+
 ## Wat ga je doen?
 
 Als je de hele minor gaat volgen, dan zul je drie fases doorlopen, die we hier beschrijven. We geven ook aan wanneer de vakken gegeven worden.
@@ -141,7 +145,7 @@ Studenten uit vorige edities hebben ons deze tips gestuurd om door te geven:
 
 > "Klamp zoveel mogelijk vast aan de studentassistenten als je iets niet snapt. Wees niet bang om te vragen, soms heb je net dat zetje nodig."
 
-> "Oefening baart kunst. Bij Programmeren 1 & 2 was er echt een hele goede opbouw in de moeilijkheidsgraad van de programma's, waardoor je echt merkt dat je steeds in stappen verder komt. Verder was het fijn dat er een bepaald soort flexibiliteit was qua werken en aanwezigheid, en tegelijkertijd ook genoeg oplettendheid om je niet het gevoel te geven dat je voor niks kwam of juist wegbleef. En verder een goeie sfeer, ongeacht het feit dat er toch vaak genoeg gefrustreerd naar computerschermen gekeken wordt."
+> "Oefening baart kunst. Bij Programmeren 1 & 2 was er echt een hele goede opbouw in de moeilijkheidsgraad van de programma's, waardoor je echt merkt dat je steeds in stappen verder komt."
 
 ## FAQ
 
