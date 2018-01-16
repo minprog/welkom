@@ -19,7 +19,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 ## Introductiebijeenkomst
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
-<a href="https://www.theaterdeomval.nl"><img src="/omval.jpg" style="max-width:150px;"><br><small>De Omval, Ouddiemerlaan 104,  Diemen</small></a>
+<a href="https://www.theaterdeomval.nl"><img src="/omval.jpg" style="max-width:150px;"><br><small>De Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
 </div>
 
 Op de eerste lesdag 5 februari komen we bijeen om 9:15 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we ook fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
@@ -90,7 +90,7 @@ De week na pasen hebben we collegevrij gehouden zodat iedereen even bij kan kome
 
 ### Tentamens
 
-Programmeren 1 en 2 hebben elk een tentamen. Het hertentamen is al tien werkdagen na het tentamen!
+Programmeren 1 en 2 hebben elk een tentamen. Het hertentamen is al **tien werkdagen** na het tentamen!
 
 | vak            | type        | datum       |  
 | -------------- | ----------- | ----------- |  
