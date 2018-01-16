@@ -103,7 +103,7 @@ Programmeren 1 en 2 hebben elk een tentamen. Het hertentamen is al **tien werkda
 | Programmeren 2 | tentamen    | 26 maart    |  
 | Programmeren 2 | hertentamen | 11 april    |  
 
-(Bij tikfouten gaat het officiële rooster voor natuurlijk.)
+(Bij tikfouten gaat het officiële rooster voor natuurlijk. Dat gezegd hebbende, het officiële rooster moet nog bijgewerkt worden met deze data.)
 
 ### Team
 
