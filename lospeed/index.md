@@ -54,7 +54,7 @@ Je belangrijkste activiteit is héél veel programmeren, en we verwachten dus oo
 
 Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je een behoorlijk aantal uren bij ons aanwezig bent. Bij de werkcolleges, maar ook een groot aantal uren om zelf te werken, met de nodige hulp van onze assistenten.
 
-> Voor parttime-studenten gaat het zo: je hebt wekelijks een werkcollege op maandag (de indeling wordt pas in de eerste week gemaakt), en daarnaast moet je 6 uur per week aanwezig zijn: je mag zelf kiezen binnen de tijden dinsdag t/m donderdag 15--19 uur.
+> Voor parttime-studenten gaat het zo: je hebt wekelijks een werkcollege op maandag (de indeling wordt pas in de eerste week gemaakt), en daarnaast moet je 6 uur per week aanwezig zijn binnen de practicumtijden dinsdag t/m donderdag 15--19 uur. Je kunt zelf kiezen hoe je de 6 uur indeelt, bijvoorbeeld afhankelijk van andere activiteiten.
 
 Nu je toch zoveel uren aanwezig bent, vinden we het ook heel belangrijk dat je openstaat voor vragen van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
 
