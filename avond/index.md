@@ -52,6 +52,8 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast van 170 uur. Afhankelijk van het aantal uur dat je per week kunt reserveren, kunnen we bepalen wat een realistische einddatum is, en wat de deadlines moeten worden. Let wel op dat bij een inzet van minder dan 10 uur per week de slagingskans erg laag wordt.
 
+Ben je nieuw? Of start je weer na lange tijd? Maak dan nu een afspraak om samen met ons een aangepaste planning te maken:
+
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/stgm/avondcursus" style="min-width:320px;height:580px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
