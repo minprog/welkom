@@ -136,4 +136,4 @@ Ben je ziek? Dan helpen we je graag weer op de rails! Het is dan belangrijk dat 
 
 Kun je een certificaat krijgen voor de cursussen Programmeren 1 en 2? Ja, als je de vakken als contractonderwijs volgt krijg je bij het afronden een certificaat (vraag dit alsjeblieft bij ons per mail aan). Als je reguliere UvA-student bent, krijg je gewoon studiepunten.
 
-<small>Copyright 2015–2017 Martijn Stegeman. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>
+<small>Copyright 2015–2018 Martijn Stegeman. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>
