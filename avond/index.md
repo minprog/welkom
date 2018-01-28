@@ -54,11 +54,13 @@ De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast 
 
 Ben je nieuw? Of start je weer na lange tijd? Zorg dat je een afspraak maakt om samen met ons een aangepaste planning te maken.
 
-<!-- Calendly badge widget begin -->
+<!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/stgm/avondcursus', text: 'Maak een afspraak', color: '#00a2ff', branding: true});</script>
-<!-- Calendly badge widget end -->
+<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/stgm/avondcursus');return false;">Maak een afspraak</a>
+<!-- Calendly link widget end -->
+
+
 
 ### Roosters
 
@@ -66,7 +68,7 @@ Je kunt zelf kiezen wanneer je komt; we staan voor je klaar op dinsdag t/m donde
 
 ### Tentamens
 
-Programmeren 1 en 2 hebben elk een tentamen. Studenten van de avondcursus kunnen (onder voorbehoud) deelnemen aan de tentamens op de volgende data. [Meld je hier aan voor tentamens](https://calendly.com/stgm/tentamens).
+Programmeren 1 en 2 hebben elk een tentamen. Studenten van de avondcursus kunnen (onder voorbehoud) deelnemen aan de tentamens op de volgende data. Aanmelden voor een tentamen doe je na afronding van je laatste opdracht.
 
 | vak            | datum             |  
 | -------------- | ----------------- |  
@@ -74,6 +76,13 @@ Programmeren 1 en 2 hebben elk een tentamen. Studenten van de avondcursus kunnen
 | Programmeren 1 | 9 april om 17:00  |  
 | Programmeren 2 | 11 april om 17:00 |  
 | Programmeren 2 | 11 juni om 17:00  |  
+
+
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/stgm/tentamens');return false;">Meld je aan voor een tentamen</a>
+<!-- Calendly link widget end -->
 
 ### Locatie
 
