@@ -50,13 +50,13 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### Locatie
 
-Alle lessen vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokaal is A1.30 op de eerste verdieping.
+Alle lessen vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokaal is A1.16 op de eerste verdieping.
 
-Kom je voor het eerst? Meld je dan bij een assistent voor het maken van een persoonlijke planning!
+Kom je voor het eerst? Plan dan via [Calendly](https://calendly.com/stgm/avondcursus) een afspraak in voor het maken van een persoonlijke planning!
 
 ### Roosters
 
-Je kunt zelf kiezen wanneer je komt; we staan voor je klaar op maandag t/m donderdag van 16:00 tot 19:00 uur. Je kijkt zelf op andere momenten de videocolleges en je doet zoveel mogelijk aan de opdracht, maar de begeleiding krijg je tijdens deze uren. Een keertje missen is natuurlijk geen probleem.
+Je kunt zelf kiezen wanneer je komt; we staan voor je klaar op dinsdag t/m donderdag van 15:00 tot 19:00 uur. Je kijkt zelf op andere momenten de videocolleges en je doet zoveel mogelijk aan de opdracht, maar de begeleiding krijg je tijdens deze uren. Een keertje missen is natuurlijk geen probleem.
 
 ### Planning
 
