@@ -48,19 +48,33 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 <img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
 </div>
 
-### Locatie
+### Planning
 
-Alle lessen vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokaal is A1.16 op de eerste verdieping.
+De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast van 170 uur. Afhankelijk van het aantal uur dat je per week kunt reserveren, kunnen we bepalen wat een realistische einddatum is, en wat de deadlines moeten worden. Let wel op dat bij een inzet van minder dan 10 uur per week de slagingskans erg laag wordt.
 
-Kom je voor het eerst? Plan dan via [Calendly](https://calendly.com/stgm/avondcursus) een afspraak in voor het maken van een persoonlijke planning!
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/stgm/avondcursus" style="min-width:320px;height:580px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
 
 ### Roosters
 
 Je kunt zelf kiezen wanneer je komt; we staan voor je klaar op dinsdag t/m donderdag van 15:00 tot 19:00 uur. Je kijkt zelf op andere momenten de videocolleges en je doet zoveel mogelijk aan de opdracht, maar de begeleiding krijg je tijdens deze uren. Een keertje missen is natuurlijk geen probleem.
 
-### Planning
+### Tentamens
 
-De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast van 170 uur. Afhankelijk van het aantal uur dat je per week kunt reserveren, kunnen we bepalen wat een realistische einddatum is, en wat de deadlines moeten worden. Let wel op dat bij een inzet van minder dan 10 uur per week de slagingskans erg laag wordt.
+Programmeren 1 en 2 hebben elk een tentamen. Studenten van de avondcursus kunnen (onder voorbehoud) deelnemen aan de tentamens op de volgende data. [Meld je hier aan voor tentamens](https://calendly.com/stgm/tentamens).
+
+| vak            | datum             |  
+| -------------- | ----------------- |  
+| Programmeren 1 | 12 maart om 17:00 |  
+| Programmeren 1 | 9 april om 17:00  |  
+| Programmeren 2 | 11 april om 17:00 |  
+| Programmeren 2 | 11 juni om 17:00  |  
+
+### Locatie
+
+Alle lessen vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokaal is A1.16 op de eerste verdieping.
 
 ### Website
 
