@@ -73,7 +73,7 @@ Programmeren 1 en 2 hebben elk een tentamen. Studenten van de avondcursus kunnen
 | vak            | datum             |  
 | -------------- | ----------------- |  
 | Programmeren 1 | 12 maart om 17:00 |  
-| Programmeren 1 | 9 april om 17:00  |  
+| Programmeren 1 | 11 april om 17:00  |  
 | Programmeren 2 | 11 april om 17:00 |  
 | Programmeren 2 | 11 juni om 17:00  |  
 
