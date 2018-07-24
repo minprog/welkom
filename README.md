@@ -5,5 +5,5 @@ De komende maanden gaan we hard aan de slag om jou te leren zelfstandig een prog
 Kies een pagina op basis van hoe jij de minor gaat volgen:
 
 - [Hi-speed](hispeed): de hele minor in &eacute;&eacute;n semester
-- [Lo-speed](lospeed): de hele minor (of een deel) in langere tijd
-- [Avondcursus](avond): de introvakken in rustig tempo
+- [Lo-speed](lospeed): de minor in langere tijd
+- [Avondcursus](avond): de introvakken in rustig tempo naast je werk

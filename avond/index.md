@@ -44,28 +44,13 @@ Om goed te leren van je eigen "fouten", mag je daarnaast van ons verwachten dat 
 
 ### Planning
 
-De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast van 170 uur. Afhankelijk van het aantal uur dat je per week kunt reserveren, bepalen we samen wat een realistische einddatum is, en wat de deadlines moeten worden. Let wel op dat bij een inzet van minder dan 10 uur per week de slagingskans erg laag wordt.
+De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast van 160 uur. Bij de avondcursus kun je het tempo van de cursus aanpassen. Rond de start van het semester ontvang je van ons een uitnodiging om een eerste afspraak te maken waarbij je je planning opstelt.
 
-Rond de start van het semester ontvang je van ons een uitnodiging om een eerste afspraak te maken waarbij je je planning opstelt.
+Afhankelijk van het aantal uur dat je per week kunt reserveren, bepalen we samen wat een realistische einddatum is, en wat de deadlines moeten worden. Let wel op dat bij een inzet van minder dan 10 uur per week de slagingskans erg laag wordt.
 
 ### Roosters
 
-Je kunt zelf kiezen wanneer je komt; we staan in de eerste periode voor je klaar op maandag t/m donderdag 9:00--17:00 uur en op dinsdag tot 20:00. Je bereidt je voor op andere momenten met behulp van de videocolleges.
-
-### Toetsen
-
-Onze programmeervakken bestaan uit een heleboel kleinere en grotere opdrachten. Met sommige opdrachten oefen je tot je de stof doorhebt, bij andere oefen je met probleemoplossen. Sommige tussentoetsen doe je bij ons op locatie. Er zijn wekelijks mogelijkheden om deze tussentoetsen te doen.
-
-Programmeren 1 en 2 hebben elk een tentamen. Je kunt deelnemen aan de tentamens op de volgende data. Aanmelden voor een tentamen doe je na afronding van je laatste opdracht. Let op dat je het tentamen gehaald moet hebben vóór je verder kunt met Programmeren 2, maar gezien de intensieve tussentoetsen mag dat geen probleem zijn.
-
-| vak            | datum                   |  
-| -------------- | ----------------------- |  
-| Programmeren 1 | ma 22 oktober om 17:00  |  
-| Programmeren 1 | begin januari om 17:00  |  
-| Programmeren 2 | ma 17 december om 17:00 |  
-| Programmeren 2 | begin januari om 17:00  |  
-
-Intekenen voor de tentamens is verplicht. Hiervoor wordt een uitnodiging rondgestuurd!
+Je kunt zelf indelen wanneer je komt; we staan in de eerste periode voor je klaar op maandag t/m vrijdag 9:00--17:00 uur en op dinsdag tot 20:00. Op andere momenten bereid je je voor met behulp van de videocolleges.
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
 <img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
@@ -74,6 +59,23 @@ Intekenen voor de tentamens is verplicht. Hiervoor wordt een uitnodiging rondges
 ### Locatie
 
 Alle lessen vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokaal is A1.16 op de eerste verdieping.
+
+### Toetsen
+
+Onze programmeervakken bestaan uit een heleboel kleinere en grotere opdrachten. Met sommige opdrachten oefen je tot je de stof doorhebt, bij andere oefen je met probleemoplossen. Sommige tussentoetsen doe je bij ons op locatie. Er zijn wekelijks mogelijkheden om deze tussentoetsen te doen.
+
+Programmeren 1 en 2 hebben elk een tentamen. Je kunt deelnemen aan de tentamens op de volgende data:
+
+| vak            | datum                   |  
+| -------------- | ----------------------- |  
+| Programmeren 1 | ma 22 oktober om 17:00  |  
+| Programmeren 1 | begin januari om 17:00  |  
+| Programmeren 2 | ma 17 december om 17:00 |  
+| Programmeren 2 | begin januari om 17:00  |  
+
+Intekenen voor de tentamens is verplicht, en doe je normaal na afronding van je laatste opdracht. Hiervoor wordt een uitnodiging rondgestuurd!
+
+Let op dat je het tentamen van Programmeren 1 gehaald moet hebben vóór je verder kunt met Programmeren 2, maar gezien de intensieve tussentoetsen mag dat geen probleem zijn.
 
 ### Website
 
@@ -89,7 +91,11 @@ Je hebt geen boeken nodig.
 
 ### Administratie
 
-Heb je vragen over de administratie van cijfers? Neem dan contact op met de servicedesk van onze faculteit via (020) 525 7100 of stuur een mail. Je kunt ook gewoon even langs gaan: de balie bevindt zich op de eerste verdieping van ons gebouw en is elke werkdag open tussen 9 en 17 uur.
+Heb je vragen over de administratie van cijfers? Neem dan contact op met de servicedesk van onze faculteit via (020) 525 7100 of stuur een mail. Je kunt ook gewoon even langsgaan: de balie bevindt zich op de eerste verdieping van ons gebouw en is elke werkdag open tussen 9 en 17 uur.
+
+Mocht je vragen hebben over je inschrijving bij de UvA (bijvoorbeeld als bijvakker), neem dan contact op met de Student Service Desk, Roetersstraat 11, telefoon (020) 525 8080.
+
+Voor bijvakkers: heb je je inschrijving helemaal geregeld, maar ben je nog niet toegelaten volgens Studielink? Stuur dan een mail naar <help@mprog.nl> en wij zorgen dat dit snel gebeurt.
 
 ## FAQ
 
@@ -99,7 +105,7 @@ Heb je nog een vraag? Stuur ons een e-mail. Binnenkort verschijnen hier dan meer
 
 Is het mogelijk afwezig te zijn bij een werkcollege, practicum e.d.? Ja, maar hou het beperkt zodat je een vaste regelmaat hebt.
 
-Ben je ziek? Dan helpen we je graag weer op de rails! Het is dan belangrijk dat je het direct meldt en ons op de hoogte houdt.
+Ben je ziek geweest? Dan helpen we je graag weer op de rails! Het is dan belangrijk dat je het direct meldt en ons op de hoogte houdt. Misschien moet je je planning aanpassen.
 
 ### Afronden
 
