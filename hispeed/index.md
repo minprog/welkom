@@ -45,7 +45,7 @@ We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse a
 - Tussentoetsen: over de basisconcepten
 - Oefening: typische programmeerproblemen uitpluizen en leren herkennen
 - Werkcollege: leren over het aanpakken van programmeerproblemen
-- Opdrachten: oefenen met problem solving in leuke, grotere opdrachten
+- Opdrachten: oefenen met probleemoplossen in uitdagende opdrachten
 - Tentamen: gemengde vragen over de verschillende onderdelen
 
 ### Fase 2: Verdieping en toepassingen
@@ -92,7 +92,7 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### Roosters
 
-Op onze faculteit (FNWI) werken we voor de roosters met de website <https://www.datanose.nl/>. Je kunt daar direct vanaf de homepage je persoonlijke rooster inkijken door je studentnummer in te tikken. Let op! Niet alle activiteiten staan in het rooster. Je moet altijd aanwezig zijn tussen 9:30--15:30! Soms zijn er verplichte colleges buiten die tijden, en die staan wél in het rooster.
+Op onze faculteit (FNWI) werken we voor de roosters met de website <https://www.datanose.nl/>. Je kunt daar direct vanaf de homepage je persoonlijke rooster inkijken door je studentnummer in te tikken. Let op! Niet alle activiteiten staan in het rooster. Je moet altijd aanwezig zijn tussen 9:00--17:00! Soms zijn er verplichte colleges buiten die tijden, en die staan wél in het rooster.
 
 Oh, er is géén herfstvakantie bij de UvA! (:
 
