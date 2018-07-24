@@ -34,6 +34,18 @@ De toepassingskant krijg je bij **Native App Studio** en **Data Processing** waa
 
 Het slot van de minor is het **Programmeerproject**. Daar ga je een heel eigen idee voor een app of visualisatie verzinnen, uitwerken, en implementeren. We begeleiden je procesmatig, maar je bent al zo ver gevorderd, dat je zelf grotendeels weet hoe je dingen moet uitzoeken die je nog niet kan, maar wel nodig hebt om je plan tot een goed einde te brengen. Natuurlijk sluiten we af met een epic demonstratie van alle games, apps en visualisaties - en nodig vooral vrienden en familie uit om mee te kijken!
 
+## Activiteiten
+
+Programmeren 1 en 2 bestaan uit de volgende activiteiten:
+
+- Voorbereiding: videocollege van Harvard
+- Oefening: basisboek met veel kleine haalbare "sommen"
+- Tussentoetsen: over de basisconcepten
+- Opdrachten: oefenen met problem solving in leuke, grotere opdrachten
+- Tentamen: gemengde vragen over de verschillende onderdelen
+
+Alle onderdelen moeten op volgorde gedaan worden!
+
 ## Verwachtingen
 
 Hier proberen we een overzicht te geven van de belangrijkste verwachtingen die we van jou hebben, maar ook van wat je van ons kunt verwachten.
@@ -147,11 +159,15 @@ Heb je nog een vraag? Stuur ons een e-mail. Binnenkort verschijnen hier dan meer
 
 ### Afwezigheid
 
-Is het mogelijk afwezig te zijn bij een werkcollege, practicum e.d.? Ja, maar heel beperkt en alleen als je dit van te voren meldt en vooruit werkt. Stuur dus een mail naar <help@mprog.nl> en doe een voorstel.
+Is het mogelijk afwezig te zijn bij een werkcollege, practicum e.d.? Ja, maar alleen als je dit van te voren meldt. Stuur dus een mail naar je mentor op <help@mprog.nl> en doe een voorstel.
 
 Ben je ziek geweest? Dan helpen we je graag weer op de rails! Het is dan belangrijk dat je het direct meldt en ons op de hoogte houdt. Misschien moet je je planning aanpassen.
 
 Meld je eventuele calamiteiten pas naderhand? Dan is de kans groot dat je het vak op een ander moment weer moet opstarten. Dat is geen probleem, maar betekent waarschijnlijk dat je het vak later zult afronden dan gepland.
+
+### Opdrachten
+
+Mag je opdrachten overslaan? Nee, om het de vakken te halen moet je alle opdrachten en toetsen volledig en succesvol hebben afgerond. Het is wel mogelijk om je opdrachten of toetsen uit te stellen, maar let op dat je het tentamen pas mag maken als alles verder af is! Bespreek je plannen vooral gewoon met je mentor, die je daarover kan adviseren.
 
 ### Afronden
 

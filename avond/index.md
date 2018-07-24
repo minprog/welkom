@@ -18,6 +18,18 @@ We hopen je snel te spreken, maar mocht je nu al even iets willen toelichten stu
 
 Je gaat vanaf het allereerste begin leren programmeren in een hele reeks talen, zoals Scratch, C en Python. De essentie is ontzettend veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Daarom vinden we het belangrijk dat je regelmatig tijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
 
+## Activiteiten
+
+Programmeren 1 en 2 bestaan uit de volgende activiteiten:
+
+- Voorbereiding: videocollege van Harvard
+- Oefening: basisboek met veel kleine haalbare "sommen"
+- Tussentoetsen: over de basisconcepten
+- Opdrachten: oefenen met problem solving in leuke, grotere opdrachten
+- Tentamen: gemengde vragen over de verschillende onderdelen
+
+Alle onderdelen moeten op volgorde gedaan worden!
+
 ## Verwachtingen
 
 Hier proberen we een overzicht te geven van de belangrijkste verwachtingen die we van jou hebben, maar ook van wat je van ons kunt verwachten.
@@ -103,9 +115,11 @@ Heb je nog een vraag? Stuur ons een e-mail. Binnenkort verschijnen hier dan meer
 
 ### Afwezigheid
 
-Is het mogelijk afwezig te zijn bij een werkcollege, practicum e.d.? Ja, maar hou het beperkt zodat je een vaste regelmaat hebt.
+Is het mogelijk afwezig te zijn bij het practicum? Ja, maar hou het beperkt zodat je een vaste regelmaat hebt. Ben je ziek geweest? Dan helpen we je graag weer op de rails! Het is dan belangrijk dat je het direct meldt en ons op de hoogte houdt. Misschien moet je je planning aanpassen.
 
-Ben je ziek geweest? Dan helpen we je graag weer op de rails! Het is dan belangrijk dat je het direct meldt en ons op de hoogte houdt. Misschien moet je je planning aanpassen.
+### Opdrachten
+
+Mag je opdrachten overslaan? Nee, om het de vakken te halen moet je alle opdrachten en toetsen volledig en succesvol hebben afgerond. Het is wel mogelijk om je opdrachten of toetsen uit te stellen, maar let op dat je het tentamen pas mag maken als alles verder af is! Bespreek je plannen vooral gewoon met je mentor, die je daarover kan adviseren.
 
 ### Afronden
 
