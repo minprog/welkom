@@ -36,15 +36,13 @@ Het slot van de minor is het **Programmeerproject**. Daar ga je een heel eigen i
 
 ## Activiteiten
 
-Programmeren 1 en 2 bestaan uit de volgende activiteiten:
+We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse activiteiten die allemaal samenhangen. Alle onderdelen moeten daarom ook op volgorde gedaan worden!
 
 - Voorbereiding: videocollege van Harvard
 - Oefening: basisboek met veel kleine haalbare "sommen"
 - Tussentoetsen: over de basisconcepten
 - Opdrachten: oefenen met problem solving in leuke, grotere opdrachten
 - Tentamen: gemengde vragen over de verschillende onderdelen
-
-Alle onderdelen moeten op volgorde gedaan worden!
 
 ## Verwachtingen
 
