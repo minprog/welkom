@@ -16,7 +16,7 @@ We hopen je snel te spreken, maar mocht je nu al even iets willen toelichten stu
 
 ## Wat ga je doen?
 
-Je gaat vanaf het allereerste begin leren programmeren in een hele reeks talen, zoals Scratch, C, Javascript en Python. De essentie is ontzettend veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Daarom vinden we het belangrijk dat je regelmatig tijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
+Je gaat vanaf het allereerste begin leren programmeren in een hele reeks talen, zoals Scratch, C en Python. De essentie is ontzettend veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Daarom vinden we het belangrijk dat je regelmatig tijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
 
 ## Verwachtingen
 
@@ -28,9 +28,7 @@ Je hebt géén voorkennis nodig. Er zijn altijd studenten die al eens geprogramm
 
 Je belangrijkste activiteit is héél veel programmeren, en we verwachten dus ook dat je dit doet. Leren programmeren kost heel veel tijd, en je zult waarschijnlijk meer uren maken dan je gewend bent van andere vakken. Maar zonder deze oefening kom je niet vooruit!
 
-Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je regelmatig bij ons aanwezig bent. In de eerste periode kun je langskomen op maandag t/m donderdag 9:00--17:00 uur en op dinsdag tot 20:00.
-
-We vinden het ook belangrijk dat je openstaat voor vragen van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
+Tegelijk vinden we het belangrijk dat je openstaat voor vragen van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
 
 We vragen van jou een actieve bemoeienis met je eigen voortgang. Zorg dat je goed bijhoudt waar je staat en wat je nog moet doen, en neem bij vragen en problemen meteen contact op. Kun je je assistent niet vinden? Stuur dan meteen een mail naar <help@mprog.nl>.
 
@@ -38,21 +36,17 @@ Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle me
 
 ### Wat je van ons mag verwachten
 
-We verwachten van jou een actieve houding, maar het is ook fijn als je een persoonlijk aanspreekpunt hebt. Daarom hebben we voor elke groep een eigen assistent. Deze assistent houdt bij hoe het met je gaat en nodigt je af en toe uit voor een gesprek over de voortgang.
+We verwachten van jou een actieve houding, maar het is ook fijn als je een persoonlijk aanspreekpunt hebt. Als student van de avondcursus krijg je een mentor, met wie je elke twee weken afspreekt. Deze mentor houdt bij hoe het met je gaat en kan je op extra studiematerialen wijzen.
 
-Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg feedback krijgt. We kijken je werk elke week na en geven je dan ideeën om het beter te doen. Krijg je niet genoeg feedback, of wil je meer horen over een specifiek onderwerp? Gewoon vragen!
+Om goed te leren van je eigen "fouten", mag je daarnaast van ons verwachten dat je genoeg feedback krijgt. We kijken je werk na en geven je dan ideeën om het beter te doen. Krijg je niet genoeg feedback, of wil je meer horen over een specifiek onderwerp? Gewoon aan je mentor vragen!
 
 ## Praktische zaken
-
-<div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
-<img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
-</div>
 
 ### Planning
 
 De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast van 170 uur. Afhankelijk van het aantal uur dat je per week kunt reserveren, bepalen we samen wat een realistische einddatum is, en wat de deadlines moeten worden. Let wel op dat bij een inzet van minder dan 10 uur per week de slagingskans erg laag wordt.
 
-Rond de start van het semester ontvang je van ons een uitnodiging om een afspraak te maken.
+Rond de start van het semester ontvang je van ons een uitnodiging om een eerste afspraak te maken waarbij je je planning opstelt.
 
 ### Roosters
 
@@ -60,9 +54,9 @@ Je kunt zelf kiezen wanneer je komt; we staan in de eerste periode voor je klaar
 
 ### Toetsen
 
-Onze programmeervakken bestaan uit een heleboel kleinere en grotere opdrachten. Met sommige opdrachten oefen je tot je de stof doorhebt, andere zijn van zichzelf al een oefening in het probleemoplossen. Voor het doen van een tussentoets moet je je aanmelden. Er zijn wekelijks mogelijkheden.
+Onze programmeervakken bestaan uit een heleboel kleinere en grotere opdrachten. Met sommige opdrachten oefen je tot je de stof doorhebt, bij andere oefen je met probleemoplossen. Sommige tussentoetsen doe je bij ons op locatie. Er zijn wekelijks mogelijkheden om deze tussentoetsen te doen.
 
-Programmeren 1 en 2 hebben elk een tentamen. Je kunt deelnemen aan de tentamens op de volgende data. Aanmelden voor een tentamen doe je na afronding van je laatste opdracht. Let op dat je het tentamen gehaald moet hebben vóór je verder kunt met Programmeren 2! Gezien de hoeveelheid tussentoetsen mag dat geen probleem zijn.
+Programmeren 1 en 2 hebben elk een tentamen. Je kunt deelnemen aan de tentamens op de volgende data. Aanmelden voor een tentamen doe je na afronding van je laatste opdracht. Let op dat je het tentamen gehaald moet hebben vóór je verder kunt met Programmeren 2, maar gezien de intensieve tussentoetsen mag dat geen probleem zijn.
 
 | vak            | datum                   |  
 | -------------- | ----------------------- |  
@@ -73,6 +67,9 @@ Programmeren 1 en 2 hebben elk een tentamen. Je kunt deelnemen aan de tentamens 
 
 Intekenen voor de tentamens is verplicht. Hiervoor wordt een uitnodiging rondgestuurd!
 
+<div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
+<img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
+</div>
 
 ### Locatie
 
@@ -84,7 +81,7 @@ Alle cursusmaterialen zullen via een website beschikbaar worden gesteld; bij aan
 
 ### Benodigdheden
 
-Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is ook wel goed). Dat je WiFi werkt is wel een vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
+Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is soms ook wel goed). Dat je WiFi werkt is wel een vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
 
 Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot.
 
