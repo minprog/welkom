@@ -1,10 +1,10 @@
 # Welkom!
 
-*Versie: 2017--2018, avondcursus*
+*Versie: 2018--2019, avondcursus*
 
 Welkom! De komende maanden gaan we hard aan de slag om jou te leren programmeren—en ondertussen allerlei aspecten van de informatica toe te lichten. We hebben er veel zin in!
 
-In dit document vind je praktische informatie over de cursus en over regels die wij belangrijk vinden. Let op: het gaat er bij ons soms nogal anders aan toe dan bij andere opleidingen.
+In dit document vind je praktische informatie over de cursus en over regels die wij belangrijk vinden. Let op: het gaat er bij ons soms anders aan toe dan bij andere opleidingen.
 
 <iframe style="width:100%; height: 280px;" src="https://player.vimeo.com/video/130987431?color=ff9933&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/"><br>
@@ -28,7 +28,7 @@ Je hebt géén voorkennis nodig. Er zijn altijd studenten die al eens geprogramm
 
 Je belangrijkste activiteit is héél veel programmeren, en we verwachten dus ook dat je dit doet. Leren programmeren kost heel veel tijd, en je zult waarschijnlijk meer uren maken dan je gewend bent van andere vakken. Maar zonder deze oefening kom je niet vooruit!
 
-Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je een redelijk aantal uren bij ons aanwezig bent. We hebben tijd gereserveerd op maandag t/m donderdag 16:00--19:00 uur.
+Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je regelmatig bij ons aanwezig bent. In de eerste periode kun je langskomen op maandag t/m donderdag 9:00--17:00 uur en op dinsdag tot 20:00.
 
 We vinden het ook belangrijk dat je openstaat voor vragen van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
 
@@ -50,39 +50,29 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### Planning
 
-De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast van 170 uur. Afhankelijk van het aantal uur dat je per week kunt reserveren, kunnen we bepalen wat een realistische einddatum is, en wat de deadlines moeten worden. Let wel op dat bij een inzet van minder dan 10 uur per week de slagingskans erg laag wordt.
+De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast van 170 uur. Afhankelijk van het aantal uur dat je per week kunt reserveren, bepalen we samen wat een realistische einddatum is, en wat de deadlines moeten worden. Let wel op dat bij een inzet van minder dan 10 uur per week de slagingskans erg laag wordt.
 
-Ben je nieuw? Of start je weer na lange tijd? Zorg dat je een afspraak maakt om samen met ons een aangepaste planning te maken.
-
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/stgm/avondcursus');return false;">Maak een afspraak</a>
-<!-- Calendly link widget end -->
-
-
+Rond de start van het semester ontvang je van ons een uitnodiging om een afspraak te maken.
 
 ### Roosters
 
-Je kunt zelf kiezen wanneer je komt; we staan voor je klaar op dinsdag t/m donderdag van 15:00 tot 19:00 uur. Je kijkt zelf op andere momenten de videocolleges en je doet zoveel mogelijk aan de opdracht, maar de begeleiding krijg je tijdens deze uren. Een keertje missen is natuurlijk geen probleem.
+Je kunt zelf kiezen wanneer je komt; we staan in de eerste periode voor je klaar op maandag t/m donderdag 9:00--17:00 uur en op dinsdag tot 20:00. Je bereidt je voor op andere momenten met behulp van de videocolleges.
 
-### Tentamens
+### Toetsen
 
-Programmeren 1 en 2 hebben elk een tentamen. Studenten van de avondcursus kunnen (onder voorbehoud) deelnemen aan de tentamens op de volgende data. Aanmelden voor een tentamen doe je na afronding van je laatste opdracht.
+Onze programmeervakken bestaan uit een heleboel kleinere en grotere opdrachten. Met sommige opdrachten oefen je tot je de stof doorhebt, andere zijn van zichzelf al een oefening in het probleemoplossen. Voor het doen van een tussentoets moet je je aanmelden. Er zijn wekelijks mogelijkheden.
 
-| vak            | datum             |  
-| -------------- | ----------------- |  
-| Programmeren 1 | 12 maart om 17:00 |  
-| Programmeren 1 | 11 april om 17:00  |  
-| Programmeren 2 | 11 april om 17:00 |  
-| Programmeren 2 | 11 juni om 17:00  |  
+Programmeren 1 en 2 hebben elk een tentamen. Je kunt deelnemen aan de tentamens op de volgende data. Aanmelden voor een tentamen doe je na afronding van je laatste opdracht. Let op dat je het tentamen gehaald moet hebben vóór je verder kunt met Programmeren 2! Gezien de hoeveelheid tussentoetsen mag dat geen probleem zijn.
 
+| vak            | datum                   |  
+| -------------- | ----------------------- |  
+| Programmeren 1 | ma 22 oktober om 17:00  |  
+| Programmeren 1 | begin januari om 17:00  |  
+| Programmeren 2 | ma 17 december om 17:00 |  
+| Programmeren 2 | begin januari om 17:00  |  
 
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/stgm/tentamens');return false;">Meld je aan voor een tentamen</a>
-<!-- Calendly link widget end -->
+Intekenen voor de tentamens is verplicht. Hiervoor wordt een uitnodiging rondgestuurd!
+
 
 ### Locatie
 
@@ -90,7 +80,7 @@ Alle lessen vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw alda
 
 ### Website
 
-Alle cursusmaterialen zullen via een website beschikbaar worden gesteld; tijdens de eerste kennismaking verwijzen we je naar de juiste website.
+Alle cursusmaterialen zullen via een website beschikbaar worden gesteld; bij aanvang van de cursus krijg je een linkje!
 
 ### Benodigdheden
 
@@ -104,24 +94,6 @@ Je hebt geen boeken nodig.
 
 Heb je vragen over de administratie van cijfers? Neem dan contact op met de servicedesk van onze faculteit via (020) 525 7100 of stuur een mail. Je kunt ook gewoon even langs gaan: de balie bevindt zich op de eerste verdieping van ons gebouw en is elke werkdag open tussen 9 en 17 uur.
 
-## Adviezen
-
-Studenten uit vorige edities hebben ons deze tips gestuurd om door te geven:
-
-> "Deze minor is een enorm goede kickstarter als je ook maar een beetje interesse hebt in programmeren of zou willen weten hoe het is om te programmeren. Aan het einde van deze minor heb je de gereedschappen—en, misschien wel belangrijker—een manier van denken aangeleerd om verder te gaan met programmeren op je eigen kracht."
-
-> "Onderschat niet hoeveel tijd het kost om te leren programmeren from scratch. Heb je al wat ervaring dan is dit vak goed te volgen, maar ik kan me voorstellen dat de werkdruk voor beginners erg hoog is."
-
-> "Plan bewust een moment in dat je de video's gaat bekijken, anders ga je het overslaan en dat is niet goed voor je tempo bij de problem sets."
-
-> "Vraag op tijd om hulp als er dingen zijn die je niet snapt of onduidelijk vind, want kleine probleempjes kunnen er voor zorgen dat je hele code niet (of foutief) werkt. Zorg dat je alle lectures van tevoren kijkt en de discipline opbrengt om de tijd er in te steken die ervoor wordt opgegeven en behandel eerst alle noodzakelijke punten voordat je je code 'opleukt' met extra functies."
-
-> "Hou er rekening mee dat er veel tijd in kan gaan zitten en je soms echt moet doorzetten. Voor de rest laat je lekker verrassen."
-
-> "Klamp zoveel mogelijk vast aan de studentassistenten als je iets niet snapt. Wees niet bang om te vragen, soms heb je net dat zetje nodig."
-
-> "Oefening baart kunst. Bij Programmeren 1 & 2 was er echt een hele goede opbouw in de moeilijkheidsgraad van de programma's, waardoor je echt merkt dat je steeds in stappen verder komt. Verder was het fijn dat er een bepaald soort flexibiliteit was qua werken en aanwezigheid, en tegelijkertijd ook genoeg oplettendheid om je niet het gevoel te geven dat je voor niks kwam of juist wegbleef. En verder een goeie sfeer, ongeacht het feit dat er toch vaak genoeg gefrustreerd naar computerschermen gekeken wordt."
-
 ## FAQ
 
 Heb je nog een vraag? Stuur ons een e-mail. Binnenkort verschijnen hier dan meer vragen en antwoorden zoals die gesteld zijn.
@@ -130,7 +102,7 @@ Heb je nog een vraag? Stuur ons een e-mail. Binnenkort verschijnen hier dan meer
 
 Is het mogelijk afwezig te zijn bij een werkcollege, practicum e.d.? Ja, maar hou het beperkt zodat je een vaste regelmaat hebt.
 
-Ben je ziek? Dan helpen we je graag weer op de rails! Het is dan belangrijk dat je het direct meldt en ons op de hoogte houdt!
+Ben je ziek? Dan helpen we je graag weer op de rails! Het is dan belangrijk dat je het direct meldt en ons op de hoogte houdt.
 
 ### Afronden
 
