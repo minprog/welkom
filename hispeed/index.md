@@ -44,6 +44,7 @@ We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse a
 - Oefening: basisboek met veel kleine haalbare "sommen"
 - Tussentoetsen: over de basisconcepten
 - Oefening: typische programmeerproblemen uitpluizen en leren herkennen
+- Werkcollege: leren over het aanpakken van programmeerproblemen
 - Opdrachten: oefenen met problem solving in leuke, grotere opdrachten
 - Tentamen: gemengde vragen over de verschillende onderdelen
 

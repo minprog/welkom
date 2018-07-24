@@ -30,7 +30,7 @@ We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse a
 - Oefening: basisboek met veel kleine haalbare "sommen"
 - Tussentoetsen: over de basisconcepten
 - Oefening: typische programmeerproblemen uitpluizen en leren herkennen
-- Opdrachten: oefenen met problem solving in leuke, grotere opdrachten
+- Opdrachten: oefenen met probleemoplossen in uitdagende opdrachten
 - Tentamen: gemengde vragen over de verschillende onderdelen
 
 ### Fase 2: Verdieping en toepassingen
