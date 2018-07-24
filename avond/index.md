@@ -25,6 +25,7 @@ We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse a
 - Voorbereiding: videocollege van Harvard
 - Oefening: basisboek met veel kleine haalbare "sommen"
 - Tussentoetsen: over de basisconcepten
+- Oefening: typische programmeerproblemen uitpluizen en leren herkennen
 - Opdrachten: oefenen met problem solving in leuke, grotere opdrachten
 - Tentamen: gemengde vragen over de verschillende onderdelen
 
@@ -117,7 +118,7 @@ Is het mogelijk afwezig te zijn bij het practicum? Ja, maar hou het beperkt zoda
 
 ### Opdrachten
 
-Mag je opdrachten overslaan? Nee, om het de vakken te halen moet je alle opdrachten en toetsen volledig en succesvol hebben afgerond. Het is wel mogelijk om je opdrachten of toetsen uit te stellen, maar let op dat je het tentamen pas mag maken als alles verder af is! Bespreek je plannen vooral gewoon met je mentor, die je daarover kan adviseren.
+Mag je opdrachten overslaan? Nee, om de vakken te halen moet je alle opdrachten en toetsen volledig en succesvol hebben afgerond. Het is wel mogelijk om je opdrachten of toetsen uit te stellen, maar let op dat je het tentamen pas mag maken als alles verder af is! Bespreek je plannen vooral gewoon met je mentor, die je daarover kan adviseren.
 
 ### Afronden
 

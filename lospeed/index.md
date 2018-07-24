@@ -22,7 +22,16 @@ Als je de hele minor gaat volgen, dan zul je drie fases doorlopen, die we hier b
 
 ### Fase 1: Programmeren
 
-Onze eerste vakken zijn **Programmeren 1** en **Programmeren 2**. Daar ga je vanaf het allereerste begin leren programmeren in een hele reeks talen, zoals Scratch, C, Javascript en Python. De essentie van deze vakken is ontzettend veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Daarom vinden we het belangrijk dat je een groot deel van de tijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
+Onze eerste vakken zijn **Programmeren 1** en **Programmeren 2**. Daar ga je vanaf het allereerste begin leren programmeren in een hele reeks talen, zoals Scratch, C en Python. De essentie van deze vakken is ontzettend veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Daarom vinden we het belangrijk dat je een groot deel van de tijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
+
+We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse activiteiten die allemaal samenhangen. Alle onderdelen moeten daarom ook op volgorde gedaan worden!
+
+- Voorbereiding: videocollege van Harvard
+- Oefening: basisboek met veel kleine haalbare "sommen"
+- Tussentoetsen: over de basisconcepten
+- Oefening: typische programmeerproblemen uitpluizen en leren herkennen
+- Opdrachten: oefenen met problem solving in leuke, grotere opdrachten
+- Tentamen: gemengde vragen over de verschillende onderdelen
 
 ### Fase 2: Verdieping en toepassingen
 
@@ -33,16 +42,6 @@ De toepassingskant krijg je bij **Native App Studio** en **Data Processing** waa
 ### Fase 3: Project
 
 Het slot van de minor is het **Programmeerproject**. Daar ga je een heel eigen idee voor een app of visualisatie verzinnen, uitwerken, en implementeren. We begeleiden je procesmatig, maar je bent al zo ver gevorderd, dat je zelf grotendeels weet hoe je dingen moet uitzoeken die je nog niet kan, maar wel nodig hebt om je plan tot een goed einde te brengen. Natuurlijk sluiten we af met een epic demonstratie van alle games, apps en visualisaties - en nodig vooral vrienden en familie uit om mee te kijken!
-
-## Activiteiten
-
-We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse activiteiten die allemaal samenhangen. Alle onderdelen moeten daarom ook op volgorde gedaan worden!
-
-- Voorbereiding: videocollege van Harvard
-- Oefening: basisboek met veel kleine haalbare "sommen"
-- Tussentoetsen: over de basisconcepten
-- Opdrachten: oefenen met problem solving in leuke, grotere opdrachten
-- Tentamen: gemengde vragen over de verschillende onderdelen
 
 ## Verwachtingen
 
@@ -92,9 +91,7 @@ Alle lessen vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw alda
 
 ### Toetsen
 
-Onze programmeervakken bestaan uit een heleboel kleinere en grotere opdrachten. Met sommige opdrachten oefen je tot je de stof doorhebt, bij andere oefen je met probleemoplossen. Sommige tussentoetsen doe je bij ons op locatie. Er zijn wekelijks mogelijkheden om deze tussentoetsen te doen.
-
-Programmeren 1 en 2 hebben elk een tentamen. Je kunt deelnemen aan de tentamens op de volgende data:
+Programmeren 1 en 2 hebben elk een eindtentamen. Je kunt deelnemen aan de tentamens op de volgende data:
 
 | vak            | type        | datum                   |  
 | -------------- | ----------- | ----------------------- |  
@@ -103,7 +100,7 @@ Programmeren 1 en 2 hebben elk een tentamen. Je kunt deelnemen aan de tentamens 
 | Programmeren 2 | tentamen    | ma 17 december om 17:00 |  
 | Programmeren 2 | hertentamen | begin januari om 17:00  |  
 
-Let op dat je het tentamen van Programmeren 1 gehaald moet hebben vóór je verder kunt met Programmeren 2, maar gezien de intensieve tussentoetsen mag dat geen probleem zijn.
+Let op dat je het tentamen van Programmeren 1 gehaald moet hebben vóór je verder kunt met Programmeren 2, maar gezien de intensieve tussentoetsen mag dat geen probleem zijn. Ook Programmeren 2 moet je halen vóór je de vervolgvakken kunt starten.
 
 ### Team
 
@@ -123,7 +120,7 @@ Je hebt geen boeken nodig.
 
 ### Programma aanpassen
 
-Wil je toch nog aanpassingen doen in het minorprogramma waarvoor je bent ingeschreven? Stuur dan nu een bericht naar <help@mprog.nl> of neem na aanvang contact op met je mentor.
+Wil je toch nog aanpassingen doen in het minorprogramma waarvoor je bent ingeschreven? Stuur dan nu een bericht naar <help@mprog.nl> of, als de cursus al begonnen is, neem contact op met je mentor.
 
 ### Administratie
 
@@ -165,10 +162,10 @@ Meld je eventuele calamiteiten pas naderhand? Dan is de kans groot dat je het va
 
 ### Opdrachten
 
-Mag je opdrachten overslaan? Nee, om het de vakken te halen moet je alle opdrachten en toetsen volledig en succesvol hebben afgerond. Het is wel mogelijk om je opdrachten of toetsen uit te stellen, maar let op dat je het tentamen pas mag maken als alles verder af is! Bespreek je plannen vooral gewoon met je mentor, die je daarover kan adviseren.
+Mag je opdrachten overslaan? Nee, om de vakken te halen moet je alle opdrachten en toetsen volledig en succesvol hebben afgerond. Het is wel mogelijk om je opdrachten of toetsen uit te stellen, maar let op dat je het tentamen pas mag maken als alles verder af is! Bespreek je plannen vooral gewoon met je mentor, die je daarover kan adviseren.
 
 ### Afronden
 
-Kun je een certificaat krijgen voor de minor? Nee. Als je UvA-student bent, is het wel vaak mogelijk een minor op te nemen op je diploma. Daarvoor moeten wij, als de minor afgerond is, een aantekening in SIS registreren. De administratie van je eigen studie kan dit dan op je diploma zetten. Het is ook mogelijk om een cijferlijst uit te laten printen bij de onderwijsbalie; dan heb je een mooi overzicht van je minorcijfers.
+Kun je een certificaat krijgen voor de minor? Nee! Als je UvA-student bent, is het wel vaak mogelijk een minor op te nemen op je diploma. Daarvoor moeten wij, als de minor afgerond is, een aantekening in SIS registreren. De administratie van je eigen studie kan dit dan op je diploma zetten. Het is ook mogelijk om een cijferlijst uit te laten printen bij de onderwijsbalie; dan heb je een mooi overzicht van je minorcijfers.
 
 <small>Copyright 2015–2018 Martijn Stegeman. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>
