@@ -22,7 +22,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 <a href="https://www.theaterdeomval.nl"><img src="/omval.jpg" style="max-width:150px;"><br><small>De Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
 </div>
 
-Op de eerste lesdag 3 september komen we bijeen om 9:15 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste lesdag, 3 september, komen we bijeen om 9:15 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 ## Aanwezigheid
 
@@ -83,7 +83,7 @@ Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle me
 
 Omdat we vragen dat jij aanwezig bent, willen we ook dat dat zin heeft. Natuurlijk is het essentieel dat je met je medestudenten discussieert en overlegt over de opdrachten en de stof, maar je mag ook verwachten dat wij regelmatig aanwezig zijn en je terzijde staan. Kun je ons niet vinden? Stuur een mail!
 
-We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom zijn er tutoren, die bijhouden hoe het met je gaat, je opdrachten nakijken en werkcolleges organiseren.
+We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom zijn er tutoren, die bijhouden hoe het met je gaat, je opdrachten nakijken en werkcolleges organiseren. Daarnaast zijn er enkele mentoren, zeer ervaren assistenten en docenten, die je bijstaan op het moment dat je er echt niet meer uitkomt.
 
 Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg feedback krijgt. We kijken je werk elke week na en geven je dan ideeën om het beter te doen. Krijg je niet genoeg feedback, of wil je meer horen over een specifiek onderwerp? Gewoon vragen!
 
