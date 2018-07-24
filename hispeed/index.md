@@ -180,6 +180,6 @@ Mag je opdrachten overslaan? Nee, om de vakken te halen moet je alle opdrachten 
 
 ### Afronden
 
-Kun je een certificaat krijgen voor de minor? Nee! Als je UvA-student bent, is het wel vaak mogelijk een minor op te nemen op je diploma. Daarvoor moeten wij, als de minor afgerond is, een aantekening in SIS registreren. De administratie van je eigen studie kan dit dan op je diploma zetten. Het is ook mogelijk om een cijferlijst uit te laten printen bij de onderwijsbalie; dan heb je een mooi overzicht van je minorcijfers.
+Kun je een certificaat krijgen voor de minor? Nee, maar er zijn alternatieven! Als je UvA-student bent, is het wel vaak mogelijk een minor op te nemen op je diploma. Daarvoor moeten wij, als de minor afgerond is, een aantekening in SIS registreren. De administratie van je eigen studie kan dit dan op je diploma zetten. Het is ook mogelijk om een cijferlijst uit te laten printen bij de onderwijsbalie; dan heb je een mooi overzicht van je minorcijfers.
 
 <small>Copyright 2015–2018 Martijn Stegeman. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>
