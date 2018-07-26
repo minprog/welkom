@@ -73,7 +73,7 @@ Alle lessen vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw alda
 
 ### Toetsen
 
-Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor. Je kunt als avondcursus kiezen welk tentamen je doet. Bij het intakegesprek kijken we welke tentamengelegenheden goed aansluiten bij je planning.
+Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor. Je kunt als avondcursist kiezen welk tentamen je doet. Bij het intakegesprek kijken we welke tentamengelegenheden goed aansluiten bij je planning.
 
 | vak            | datum                   |  
 | -------------- | ----------------------- |  
