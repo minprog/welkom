@@ -106,16 +106,14 @@ Alle lessen (behalve het introductiecollege!) vinden plaats in het Science Park 
 
 ### Tentamens
 
-Programmeren 1 en 2 hebben elk een eindtentamen. Het hertentamen is al **twee weken** na het tentamen!
+Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor.
 
-| vak            | type        | datum                   |  
-| -------------- | ----------- | ----------------------- |  
-| Programmeren 1 | tentamen    | 24 september 9--11      |  
-| Programmeren 1 | hertentamen | ca. 2 weken na tentamen |  
-| Programmeren 2 | tentamen    | 22 oktober 9--11        |  
-| Programmeren 2 | hertentamen | ca. 2 weken na tentamen |  
-
-Let op dat je het tentamen van Programmeren 1 gehaald moet hebben vóór je verder kunt met Programmeren 2, maar gezien de intensieve tussentoetsen mag dat geen probleem zijn. Ook Programmeren 2 moet je halen vóór je de vervolgvakken kunt starten.
+| vak            | type        | datum                                   |  
+| -------------- | ----------- | --------------------------------------- |  
+| Programmeren 1 | tentamen    | ma 24 september om 9:00                    |  
+| Programmeren 1 | hertentamen | ma 22 oktober om 17:00 (onder voorbehoud)  |  
+| Programmeren 2 | tentamen    | ma 22 oktober om 9:00                      |  
+| Programmeren 2 | hertentamen | ma 17 december om 17:00 (onder voorbehoud) |  
 
 ### Team
 

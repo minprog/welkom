@@ -73,20 +73,16 @@ Alle lessen vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw alda
 
 ### Toetsen
 
-Onze programmeervakken bestaan uit een heleboel kleinere en grotere opdrachten. Met sommige opdrachten oefen je tot je de stof doorhebt, bij andere oefen je met probleemoplossen. Sommige tussentoetsen doe je bij ons op locatie. Er zijn wekelijks mogelijkheden om deze tussentoetsen te doen.
+Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor.
 
-Programmeren 1 en 2 hebben elk een tentamen. Je kunt deelnemen aan de tentamens op de volgende data:
-
-| vak            | datum                   |  
-| -------------- | ----------------------- |  
-| Programmeren 1 | ma 22 oktober om 17:00  |  
-| Programmeren 1 | begin januari om 17:00  |  
-| Programmeren 2 | ma 17 december om 17:00 |  
-| Programmeren 2 | begin januari om 17:00  |  
+| vak            | type        | datum                   |  
+| -------------- | ----------- | ----------------------- |  
+| Programmeren 1 | tentamen    | ma 22 oktober om 17:00  |  
+| Programmeren 1 | hertentamen | ma 14 januari om 17:00  |  
+| Programmeren 2 | tentamen    | ma 17 december om 17:00 |  
+| Programmeren 2 | hertentamen | ma 14 januari om 17:00  |  
 
 Intekenen voor de tentamens is verplicht, en doe je normaal na afronding van je laatste opdracht. Hiervoor wordt een uitnodiging rondgestuurd!
-
-Let op dat je het tentamen van Programmeren 1 gehaald moet hebben vóór je verder kunt met Programmeren 2, maar gezien de intensieve tussentoetsen mag dat geen probleem zijn.
 
 ### Website
 
