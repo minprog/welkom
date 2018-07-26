@@ -32,7 +32,7 @@ Natuurlijk is er wél ruimte voor een keer een trouwerij of doktersbezoek, maar 
 
 ## Wat ga je doen?
 
-Als je de hele minor gaat volgen, dan zul je drie fases doorlopen, die we hier beschrijven. We geven ook aan wanneer de vakken gegeven worden.
+Als je de hele minor gaat volgen, dan zul je drie fases doorlopen, die we hier beschrijven.
 
 ### Fase 1: Programmeren
 
@@ -50,9 +50,9 @@ We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse a
 
 ### Fase 2: Verdieping en toepassingen
 
-Nu je kunt programmeren gaan we je verder helpen om je theoretisch te ontwikkelen en om uitgebreid te kijken naar de richting die je op wil. Dat eerste gebeurt bij het vak **Programmeertheorie**, waar je met een groep aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen.
+Nu je kunt programmeren gaan we je verder helpen je theoretisch te ontwikkelen. Dat gebeurt bij het vak **Programmeertheorie**, waar je met een groepje aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen.
 
-De toepassingskant krijg je bij **Native App Studio** en **Data Processing**[^1] waar we volop de *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen te hergebruiken. Platforms zoals iOS of Android geven je een heleboel van die onderdelen cadeau. Tegelijkertijd is er elke paar jaar wel weer een nieuw platform beschikbaar om andere soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe platforms aan kunt leren.
+De toepassingskant krijg je tegelijkertijd bij **Native App Studio** en **Data Processing**[^1] waar we volop de *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen te hergebruiken. Platforms zoals iOS of Android geven je een heleboel van die onderdelen cadeau. Maar toch is er elke paar jaar wel weer een nieuw platform beschikbaar om nieuwe soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe aan kunt leren.
 
 [^1]: Als het goed is heb je al gekozen welk van beide richtingen je op gaat!
 
@@ -84,7 +84,7 @@ Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle me
 
 Omdat we vragen dat jij aanwezig bent, willen we ook dat dat zin heeft. Natuurlijk is het essentieel dat je met je medestudenten discussieert en overlegt over de opdrachten en de stof, maar je mag ook verwachten dat wij regelmatig aanwezig zijn en je terzijde staan. Kun je ons niet vinden? Stuur een mail!
 
-We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom zijn er tutoren, die bijhouden hoe het met je gaat, je opdrachten nakijken en werkcolleges organiseren. Daarnaast zijn er enkele mentoren, zeer ervaren assistenten en docenten, die je bijstaan op het moment dat je er echt niet meer uitkomt.
+We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom is er voor jou een tutor, die bijhoudt hoe het met je gaat, je opdrachten nakijkt en werkcolleges organiseert. Daarnaast zijn er enkele mentoren, zeer ervaren assistenten en docenten, die je bijstaan op het moment dat je er echt even niet meer uitkomt.
 
 Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg feedback krijgt. We kijken je werk elke week na en geven je dan ideeën om het beter te doen. Krijg je niet genoeg feedback, of wil je meer horen over een specifiek onderwerp? Gewoon vragen!
 
@@ -92,7 +92,7 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### Roosters
 
-Op onze faculteit (FNWI) werken we voor de roosters met de website <https://www.datanose.nl/>. Je kunt daar direct vanaf de homepage je persoonlijke rooster inkijken door je studentnummer in te tikken. Let op! Niet alle activiteiten staan in het rooster. Je moet altijd aanwezig zijn tussen 9:00--17:00! Soms zijn er verplichte colleges buiten die tijden, en die staan wél in het rooster.
+Op onze faculteit (FNWI) werken we voor de roosters met de website <https://www.datanose.nl/>. Je kunt daar direct vanaf de homepage je persoonlijke rooster inkijken door je studentnummer in te tikken. Let op! Niet alle activiteiten staan in het rooster. Je moet altijd aanwezig zijn tussen 9 en 5! De hoorcolleges en tentamens staan wél in het rooster.
 
 Oh, er is géén herfstvakantie bij de UvA! (:
 
@@ -108,12 +108,12 @@ Alle lessen (behalve het introductiecollege!) vinden plaats in het Science Park 
 
 Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor.
 
-| vak            | type        | datum                                   |  
-| -------------- | ----------- | --------------------------------------- |  
-| Programmeren 1 | tentamen    | ma 24 september om 9:00                    |  
-| Programmeren 1 | hertentamen | ma 22 oktober om 17:00 (onder voorbehoud)  |  
-| Programmeren 2 | tentamen    | ma 22 oktober om 9:00                      |  
-| Programmeren 2 | hertentamen | ma 17 december om 17:00 (onder voorbehoud) |  
+| vak    | type        | datum                                      |  
+| ------ | ----------- | ------------------------------------------ |  
+| Prog 1 | tentamen    | ma 24 september om 9:00                    |  
+| Prog 1 | hertentamen | ma 22 oktober om 17:00 (onder voorbehoud)  |  
+| Prog 2 | tentamen    | ma 22 oktober om 9:00                      |  
+| Prog 2 | hertentamen | ma 17 december om 17:00 (onder voorbehoud) |  
 
 ### Team
 
@@ -149,7 +149,7 @@ Studenten uit vorige edities hebben ons deze tips gestuurd om door te geven:
 
 > "Deze minor is een enorm goede kickstarter als je ook maar een beetje interesse hebt in programmeren of zou willen weten hoe het is om te programmeren. Aan het einde van deze minor heb je de gereedschappen—en, misschien wel belangrijker—een manier van denken aangeleerd om verder te gaan met programmeren op je eigen kracht."
 
-> "Onderschat niet hoeveel tijd het kost om te leren programmeren from scratch. Heb je al wat ervaring dan is dit vak goed te volgen, maar ik kan me voorstellen dat de werkdruk voor beginners erg hoog is."
+> "Onderschat niet hoeveel tijd het kost om te leren programmeren from scratch!
 
 > "Plan bewust een moment in dat je de video's gaat bekijken, anders ga je het overslaan en dat is niet goed voor je tempo bij de problem sets."
 
@@ -169,16 +169,14 @@ Heb je nog een vraag? Stuur ons een e-mail. Binnenkort verschijnen hier dan meer
 
 Is het mogelijk afwezig te zijn bij een werkcollege, practicum e.d.? Ja, maar heel beperkt (enkele dagen maximaal per semester) en alleen als je dit van te voren meldt en vooruit werkt. Stuur dus een mail naar <help@mprog.nl> en doe een voorstel.
 
-Doe je de minor fulltime en word je ziek? Dan helpen we je graag weer op de rails. Het is dan belangrijk dat je het direct meldt en ons op de hoogte houdt! Door het heftige programma heeft dit hoogstwaarschijnlijk wel effect op je eindcijfers, maar we komen er vast uit.
+### Ziekte
+
+Doe je de minor fulltime en word je ziek? Dan helpen we je graag weer op de rails. Het is dan belangrijk dat je het direct meldt en ons op de hoogte houdt! Door het heftige programma is er weinig tijd om bij te komen, maar juist op zo'n moment kunnen we je bijstaan.
 
 Meld je eventuele calamiteiten pas naderhand? Dan is de kans groot dat je het vak op een ander moment weer moet opstarten. Dat is geen probleem, maar betekent doorgaans dat je de minor niet meer in één semester kunt afronden.
 
 ### Opdrachten
 
 Mag je opdrachten overslaan? Nee, om de vakken te halen moet je alle opdrachten en toetsen volledig en succesvol hebben afgerond. In de studiewijzer van elk vak staat welke opdrachten en toetsen dat zijn.
-
-### Afronden
-
-Kun je een certificaat krijgen voor de minor? Nee, maar er zijn alternatieven! Als je UvA-student bent, is het wel vaak mogelijk een minor op te nemen op je diploma. Daarvoor moeten wij, als de minor afgerond is, een aantekening in SIS registreren. De administratie van je eigen studie kan dit dan op je diploma zetten. Het is ook mogelijk om een cijferlijst uit te laten printen bij de onderwijsbalie; dan heb je een mooi overzicht van je minorcijfers.
 
 <small>Copyright 2015–2018 Martijn Stegeman. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>
