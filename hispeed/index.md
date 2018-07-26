@@ -108,12 +108,12 @@ Alle lessen (behalve het introductiecollege!) vinden plaats in het Science Park 
 
 Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor.
 
-| vak    | type        | datum                                      |  
-| ------ | ----------- | ------------------------------------------ |  
-| Prog 1 | tentamen    | ma 24 september om 9:00                    |  
-| Prog 1 | hertentamen | ma 22 oktober om 17:00 (onder voorbehoud)  |  
-| Prog 2 | tentamen    | ma 22 oktober om 9:00                      |  
-| Prog 2 | hertentamen | ma 17 december om 17:00 (onder voorbehoud) |  
+| vak    | type        | datum                                   |  
+| ------ | ----------- | --------------------------------------- |  
+| Prog 1 | tentamen    | 24 september om 9:00                    |  
+| Prog 1 | hertentamen | 22 oktober om 17:00 (onder voorbehoud)  |  
+| Prog 2 | tentamen    | 22 oktober om 9:00                      |  
+| Prog 2 | hertentamen | 17 december om 17:00 (onder voorbehoud) |  
 
 ### Team
 
