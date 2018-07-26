@@ -79,7 +79,7 @@ De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast 
 
 ### Roosters
 
-Je kunt zelf indelen wanneer je komt; we staan in de eerste periode voor je klaar op maandag t/m vrijdag 9--11 en 15--17 uur. Op andere momenten bereid je je voor met behulp van de videocolleges.
+Je kunt zelf indelen wanneer je komt; we staan in de eerste periode voor je klaar op maandag t/m vrijdag 9--11 en 15--17 uur.
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
 <img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
@@ -134,7 +134,7 @@ Studenten uit vorige edities hebben ons deze tips gestuurd om door te geven:
 
 > "Deze minor is een enorm goede kickstarter als je ook maar een beetje interesse hebt in programmeren of zou willen weten hoe het is om te programmeren. Aan het einde van deze minor heb je de gereedschappen—en, misschien wel belangrijker—een manier van denken aangeleerd om verder te gaan met programmeren op je eigen kracht."
 
-> "Onderschat niet hoeveel tijd het kost om te leren programmeren from scratch. Heb je al wat ervaring dan is dit vak goed te volgen, maar ik kan me voorstellen dat de werkdruk voor beginners erg hoog is."
+> "Onderschat niet hoeveel tijd het kost om te leren programmeren from scratch!"
 
 > "Plan bewust een moment in dat je de video's gaat bekijken, anders ga je het overslaan en dat is niet goed voor je tempo bij de problem sets."
 
@@ -154,16 +154,14 @@ Heb je nog een vraag? Stuur ons een e-mail. Binnenkort verschijnen hier dan meer
 
 Is het mogelijk afwezig te zijn bij een werkcollege, practicum e.d.? Ja, maar alleen als je dit van te voren meldt. Stuur dus een mail naar je mentor op <help@mprog.nl> en doe een voorstel.
 
+### Ziekte
+
 Ben je ziek geweest? Dan helpen we je graag weer op de rails! Het is dan belangrijk dat je het direct meldt en ons op de hoogte houdt. Misschien moet je je planning aanpassen.
 
-Meld je eventuele calamiteiten pas naderhand? Dan is de kans groot dat je het vak op een ander moment weer moet opstarten. Dat is geen probleem, maar betekent waarschijnlijk dat je het vak later zult afronden dan gepland.
+Meld je eventuele calamiteiten pas naderhand? Dan is de kans groot dat je het vak op een ander moment weer moet opstarten. Dat is geen probleem, maar betekent waarschijnlijk dat je je vakken later zult afronden dan gepland.
 
 ### Opdrachten
 
 Mag je opdrachten overslaan? Nee, om de vakken te halen moet je alle opdrachten en toetsen volledig en succesvol hebben afgerond. Het is wel mogelijk om je opdrachten of toetsen uit te stellen, maar let op dat je het tentamen pas mag maken als alles verder af is! Bespreek je plannen vooral gewoon met je mentor, die je daarover kan adviseren.
-
-### Afronden
-
-Kun je een certificaat krijgen voor de minor? Nee! Als je UvA-student bent, is het wel vaak mogelijk een minor op te nemen op je diploma. Daarvoor moeten wij, als de minor afgerond is, een aantekening in SIS registreren. De administratie van je eigen studie kan dit dan op je diploma zetten. Het is ook mogelijk om een cijferlijst uit te laten printen bij de onderwijsbalie; dan heb je een mooi overzicht van je minorcijfers.
 
 <small>Copyright 2015–2018 Martijn Stegeman. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>
