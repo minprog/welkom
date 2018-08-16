@@ -55,6 +55,11 @@ Om goed te leren van je eigen "fouten", mag je daarnaast van ons verwachten dat 
 
 ### Planning
 
+|            | startdatum          | einddatum           |  
+| ---------- | ------------------- | ------------------- |  
+| semester 1 | dinsdag 4 september | vrijdag 21 december |  
+| semester 2 | dinsdag 5 februari  | vrijdag 31 mei      |  
+
 De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast van 160 uur. Bij de avondcursus kun je het tempo van de cursus aanpassen. Rond de start van het semester ontvang je van ons een uitnodiging om een eerste afspraak te maken waarbij je je planning opstelt.
 
 Afhankelijk van het aantal uur dat je per week kunt reserveren, bepalen we samen wat een realistische einddatum is, en wat de deadlines moeten worden. Let wel op dat bij een inzet van minder dan 10 uur per week de slagingskans erg laag wordt.

@@ -75,6 +75,11 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### Planning
 
+|            | startdatum          | einddatum           |  
+| ---------- | ------------------- | ------------------- |  
+| semester 1 | dinsdag 4 september | vrijdag 21 december |  
+| semester 2 | dinsdag 5 februari  | vrijdag 31 mei      |  
+
 De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast van 160 uur. Rond de start van het semester ontvang je van ons een uitnodiging om een eerste afspraak te maken waarbij je je planning opstelt.
 
 ### Roosters
