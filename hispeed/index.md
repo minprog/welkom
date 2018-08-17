@@ -92,7 +92,11 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### Roosters
 
-Op onze faculteit (FNWI) werken we voor de roosters met de website <https://www.datanose.nl/>. Je kunt daar direct vanaf de homepage je persoonlijke rooster inkijken door je studentnummer in te tikken. Let op! Niet alle activiteiten staan in het rooster. Je moet altijd aanwezig zijn tussen 9 en 5! De hoorcolleges en tentamens staan wél in het rooster.
+In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team.
+
+Soms zijn er activiteiten zoals werkcolleges of tentamens. Deze worden normaliter tijdens de practicumuren gepland. De tentamendata zijn hieronder vermeld, de werkcolleges worden na aanvang ingedeeld.
+
+Hoorcolleges en tentamens staan normaliter in je persoonlijke rooster dat je op <https://www.datanose.nl/> kunt opvragen. In november--december is er een hoorcollege op dinsdagavond 17--21 uur. Dan beginnen we de dag natuurlijk ook wat later.
 
 Oh, er is géén herfstvakantie bij de UvA! (:
 
