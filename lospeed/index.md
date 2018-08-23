@@ -84,7 +84,7 @@ De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast 
 
 ### Roosters
 
-Je kunt zelf indelen wanneer je komt; we staan in de eerste periode voor je klaar op maandag t/m vrijdag 9--11 en 15--17 uur.
+Als je afspreekt ons vaste programma te volgen, dan moet je 6 uur per week bij het practicum aanwezig zijn. Je kunt zelf indelen wanneer je komt; we staan in de eerste periode voor je klaar op maandag t/m vrijdag 9--11 en 15--17 uur.
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
 <img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
