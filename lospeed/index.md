@@ -24,7 +24,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 Op de eerste dag van het semester, 4 februari om 9:30 ben je van harte welkom in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard.
 
-Het is niet noodzakelijk of verplicht, maar wel een kans voor een vliegende start! Naast deze bijeenkomst plannen we met alle deelnemers een intakegesprek. Hiervoor ontvang je *in de eerste lesweek* een uitnodiging.
+Het is niet noodzakelijk of verplicht om naar deze bijeenkomst te komen, maar wel een kans voor een vliegende start! Naast deze bijeenkomst plannen we met alle deelnemers een intakegesprek. Hiervoor ontvang je *in de eerste lesweek* een uitnodiging.
 
 ## Wat ga je doen?
 
@@ -45,9 +45,9 @@ We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse a
 
 ### Fase 2: Verdieping en toepassingen
 
-Nu je kunt programmeren gaan we je verder helpen om je theoretisch te ontwikkelen en om uitgebreid te kijken naar de richting die je op wil. Dat eerste gebeurt bij het vak **Programmeertheorie**, waar je met een groep aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen.
+In het volgende semester gaan we je verder helpen om je theoretisch te ontwikkelen en om uitgebreid te kijken naar de richting die je op wil. Dat eerste gebeurt bij het vak **Programmeertheorie**, waar je met een groep aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen.
 
-De toepassingskant krijg je bij **Native App Studio** en **Data Processing** waar we volop de *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen te hergebruiken. Platforms zoals iOS of Android geven je een heleboel van die onderdelen cadeau. Tegelijkertijd is er elke paar jaar wel weer een nieuw platform beschikbaar om andere soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe platforms aan kunt leren.
+De toepassingskant krijg je bij één van de vakken waar we volop de *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen te hergebruiken. Platforms geven je een heleboel van die onderdelen cadeau. Tegelijkertijd is er elke paar jaar wel weer een nieuw platform beschikbaar om andere soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe platforms aan kunt leren.
 
 ### Fase 3: Project
 
@@ -65,7 +65,7 @@ Je belangrijkste activiteit is héél veel programmeren, en we verwachten dus oo
 
 Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je een behoorlijk aantal uren bij ons aanwezig bent, zodat je hulp kunt krijgen van onze assistenten zodra het nodig is.
 
-> Voor parttime-studenten gaat het zo: je moet je 6 uur per week aanwezig zijn binnen de practicumtijden maandag t/m vrijdag 9--11 en 15--17 uur. Je kunt zelf kiezen hoe je de 6 uur indeelt, bijvoorbeeld afhankelijk van andere activiteiten.
+> Voor parttime-studenten gaat het zo: je moet 6 uur per week aanwezig zijn binnen de practicumtijden. Je kunt zelf kiezen hoe je de 6 uur indeelt, bijvoorbeeld afhankelijk van andere activiteiten.
 
 Nu je toch zoveel aanwezig bent, vinden we het ook heel belangrijk dat je openstaat voor vragen van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
 
@@ -94,7 +94,7 @@ De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast 
 
 ### Roosters
 
-Als je afspreekt ons vaste programma te volgen, dan moet je 6 uur per week bij het practicum aanwezig zijn. Je kunt zelf indelen wanneer je komt; we staan in de eerste periode voor je klaar op maandag t/m vrijdag 9--11 en 15--17 uur.
+Als je afspreekt ons vaste programma te volgen, dan moet je 6 uur per week bij het practicum aanwezig zijn. Er is aardig wat keuze; de volledige tijden worden bij aanvang van het vak bekend gemaakt, maar dinsdag van het einde van de middag tot 20:00 uur is een optie voor mensen die overdag werken.
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
 <img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
@@ -108,12 +108,14 @@ Alle lessen vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw alda
 
 Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor.
 
-| vak            | type        | datum                   |  
-| -------------- | ----------- | ----------------------- |  
-| Programmeren 1 | tentamen    | ma 22 oktober om 17:00  |  
-| Programmeren 1 | hertentamen | ma 14 januari om 17:00  |  
-| Programmeren 2 | tentamen    | ma 17 december om 17:00 |  
-| Programmeren 2 | hertentamen | ma 14 januari om 17:00  |  
+| vak            | type        | datum                |  
+| -------------- | ----------- | -------------------- |  
+| Programmeren 1 | tentamen    | ma 25 maart om 18:00 |  
+| Programmeren 1 | hertentamen | (nog te plannen)     |  
+| Programmeren 2 | tentamen    | ma 25 mei om 18:00   |  
+| Programmeren 2 | hertentamen | (nog te plannen)     |  
+
+Als je Programmeren 1 en 2 in één semester af wil krijgen, moet je vóór de eerste tentamendatum alle opdrachten volledig afhebben, en ook het eerste tentamen halen. Als je voldoende tijd in het vak steekt (20 uur per week) en proactief hulp zoekt dan gaat dit prima lukken.
 
 ### Team
 

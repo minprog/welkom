@@ -26,11 +26,11 @@ Op de eerste lesdag, 4 februari, komen we bijeen om 9:30 in Theater de Omval (Di
 
 ## Aanwezigheid
 
-We hebben een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent er **elke werkdag** tussen 9:00 en 17:00 uur, en daarnaast de eventuele hoor/werkcolleges in de avond gepland zijn (niet veel!). Dit geldt voor het hele semester.
+We hebben een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent er **elke werkdag** tussen 9:00 en 17:00 uur, en daarnaast de eventuele hoor/werkcolleges in de avond gepland zijn (niet veel!). Dit geldt voor het hele semester, dus t/m vrijdag 28 juni. Op die laatste dag zijn de eindpresentaties!
 
 Natuurlijk is er wél ruimte voor een keer een trouwerij of doktersbezoek, maar niet voor tentamens van andere vakken. Kun je de aanwezigheid op die manier niet volbrengen? Dan moet je switchen naar de parttime-minor, en dat kan nog! Neem direct contact op met <help@mprog.nl>.
 
-Er is ook géén mogelijkheid om vakantie te nemen. Wel hebben wij middenin het semester een korte vakantie ingepland van 19 april (goede vrijdag) t/m 28 april!
+Er is ook géén mogelijkheid om vakantie te nemen, behalve van 19 april (goede vrijdag) t/m 28 april!
 
 ## Wat ga je doen?
 
@@ -84,7 +84,7 @@ Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle me
 
 ### Wat je van ons mag verwachten
 
-Omdat we vragen dat jij aanwezig bent, willen we ook dat dat zin heeft. Natuurlijk is het essentieel dat je met je medestudenten discussieert en overlegt over de opdrachten en de stof, maar je mag ook verwachten dat wij regelmatig aanwezig zijn en je terzijde staan. Kun je ons niet vinden? Stuur een mail!
+Omdat we vragen dat jij aanwezig bent, willen we ook dat dat zin heeft. Natuurlijk is het essentieel dat je met je medestudenten discussieert en overlegt over de opdrachten en de stof, maar je mag ook verwachten dat wij regelmatig aanwezig zijn en je terzijde staan.
 
 We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom is er voor jou een tutor, die bijhoudt hoe het met je gaat, je opdrachten nakijkt en werkcolleges organiseert. Daarnaast zijn er enkele mentoren, zeer ervaren assistenten en docenten, die je bijstaan op het moment dat je er echt even niet meer uitkomt.
 
@@ -121,15 +121,15 @@ Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het te
 
 ### Team
 
-Verdeeld over de vakken zijn er vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen). Soms zijn we herkenbaar aan een t-shirt of nekkoord. Op onze website staan binnenkort weer up-to-date foto's van alle medewerkers!
+Verdeeld over de vakken zijn er vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen). In het begin zijn we herkenbaar aan een t-shirt of een naamplaatje. Op onze website staan binnenkort weer up-to-date foto's van alle medewerkers!
 
 ### Website
 
-Alle cursusmaterialen zullen via een website beschikbaar worden gesteld; bij aanvang van de cursus krijg je een linkje!
+Alle cursusmaterialen zullen via een website beschikbaar worden gesteld; bij aanvang van de cursus krijg je een linkje! (Eerder beginnen is niet de bedoeling, we geven je graag de begeleiding die je nodig hebt tijdens de eerste stappen!)
 
 ### Benodigdheden
 
-Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is soms ook wel goed, maar voor latere vakken niet meer). Mac, Windows of Linux maakt niet uit. Dat je WiFi werkt is wel een vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
+Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is soms ook wel goed, maar voor latere vakken misschien niet meer). Mac, Windows of Linux maakt niet uit. Dat je WiFi werkt is wel een vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
 
 Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot.
 
@@ -145,7 +145,7 @@ Heb je vragen over de administratie van cijfers? Neem dan contact op met de serv
 
 Mocht je vragen hebben over je inschrijving bij de UvA (bijvoorbeeld als bijvakker), neem dan contact op met de Student Service Desk, Roetersstraat 11, telefoon (020) 525 8080.
 
-Voor bijvakkers: heb je je inschrijving helemaal geregeld, maar ben je nog niet toegelaten? Stuur dan een mail naar <help@mprog.nl> en wij zorgen dat dit snel gebeurt.
+Voor bijvakkers: heb je je inschrijving helemaal geregeld, maar staat op studielink niet dat je volledig ingeschreven bent bij de UvA? Stuur dan een screenshot van studielink naar <help@mprog.nl> en wij kijken wat we kunnen doen.
 
 ## Adviezen
 
