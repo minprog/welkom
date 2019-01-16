@@ -115,7 +115,7 @@ Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het te
 | Programmeren 2 | tentamen    | ma 25 mei om 18:00   |  
 | Programmeren 2 | hertentamen | (nog te plannen)     |  
 
-Als je Programmeren 1 en 2 in één semester af wil krijgen, moet je vóór de eerste tentamendatum alle opdrachten volledig afhebben, en ook het eerste tentamen halen. Als je voldoende tijd in het vak steekt (20 uur per week) en proactief hulp zoekt dan gaat dit prima lukken.
+Als je Programmeren 1 en 2 in één semester af wil krijgen, moet je vóór de eerste tentamendatum alle opdrachten volledig afhebben, en natuurlijk ook de tentamens halen. Als je voldoende tijd in het vak steekt (20 uur per week) en proactief hulp zoekt dan gaat dit prima lukken.
 
 ### Team
 
