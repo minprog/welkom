@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: herfst 2018, hi-speed*
+*Versie: lente 2019, hi-speed*
 
 Welkom! De komende maanden gaan we hard aan de slag om jou te leren zelfstandig een programmeerproject op je te nemen, bijvoorbeeld om een app te maken of een interactieve datavisualisatie. We hebben er veel zin in!
 
@@ -22,13 +22,15 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 <a href="https://www.theaterdeomval.nl"><img src="/omval.jpg" style="max-width:150px;"><br><small>De Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
 </div>
 
-Op de eerste lesdag, 3 september, komen we bijeen om 9:15 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste lesdag, 4 februari, komen we bijeen om 9:30 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 ## Aanwezigheid
 
 We hebben een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent er **elke werkdag** tussen 9:00 en 17:00 uur, en daarnaast de eventuele hoor/werkcolleges in de avond gepland zijn (niet veel!). Dit geldt voor het hele semester.
 
 Natuurlijk is er wél ruimte voor een keer een trouwerij of doktersbezoek, maar niet voor tentamens van andere vakken. Kun je de aanwezigheid op die manier niet volbrengen? Dan moet je switchen naar de parttime-minor, en dat kan nog! Neem direct contact op met <help@mprog.nl>.
+
+Er is ook géén mogelijkheid om vakantie te nemen. Wel hebben wij middenin het semester een korte vakantie ingepland van 19 april (goede vrijdag) t/m 28 april!
 
 ## Wat ga je doen?
 
@@ -96,9 +98,7 @@ In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practic
 
 Soms zijn er activiteiten zoals werkcolleges of tentamens. Deze worden normaliter tijdens de practicumuren gepland. De tentamendata zijn hieronder vermeld, de werkcolleges worden na aanvang ingedeeld.
 
-Hoorcolleges en tentamens staan normaliter in je persoonlijke rooster dat je op <https://www.datanose.nl/> kunt opvragen. In november--december is er een hoorcollege op dinsdagavond 17--21 uur. Dan beginnen we de dag natuurlijk ook wat later.
-
-Oh, er is géén herfstvakantie bij de UvA! (:
+Hoorcolleges en tentamens staan normaliter in je persoonlijke rooster dat je op <https://www.datanose.nl/> kunt opvragen. In april--mei is er een hoorcollege op dinsdagavond 17--21 uur. Dan beginnen we de dag natuurlijk ook wat later.
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
 <img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
@@ -112,12 +112,12 @@ Alle lessen (behalve het introductiecollege!) vinden plaats in het Science Park 
 
 Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor.
 
-| vak    | type        | datum                                   |  
-| ------ | ----------- | --------------------------------------- |  
-| Prog 1 | tentamen    | 24 september om 9:00                    |  
-| Prog 1 | hertentamen | 22 oktober om 17:00 (onder voorbehoud)  |  
-| Prog 2 | tentamen    | 22 oktober om 9:00                      |  
-| Prog 2 | hertentamen | 17 december om 17:00 (onder voorbehoud) |  
+| vak    | type        | datum               |  
+| ------ | ----------- | ------------------- |  
+| Prog 1 | tentamen    | 25 februari om 9:00 |  
+| Prog 1 | hertentamen | (nog te plannen)    |  
+| Prog 2 | tentamen    | 25 maart om 9:00    |  
+| Prog 2 | hertentamen | (nog te plannen)    |  
 
 ### Team
 
@@ -133,7 +133,7 @@ Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met
 
 Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot.
 
-Je hebt geen boeken nodig.
+Je hoeft van tevoren geen boeken te bestellen.
 
 ### Programma aanpassen
 

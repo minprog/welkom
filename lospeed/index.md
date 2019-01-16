@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: herfst 2018, lo-speed*
+*Versie: lente 2019, lo-speed*
 
 Welkom! De komende tijd gaan we hard aan de slag om jou te leren zelfstandig een programmeerproject op je te nemen, bijvoorbeeld om een app te maken of een interactieve datavisualisatie. We hebben er veel zin in!
 
@@ -15,6 +15,16 @@ Wat kun je verwachten komende tijd? Heel veel zelf programmeren, dat staat op nu
 We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar mocht je nu al even iets willen toelichten stuur dan gerust een mailtje naar <help@mprog.nl>. We nemen dan snel contact met je op.
 
 > **Geen paniek!** In de komende tijd zul je merken dat bij de minor studenten rondlopen met méér en met minder ervaring. Dat is heel mooi, want dan kunnen we van elkaar leren, en bovendien hebben we opdrachten op niveau voor elk van deze studenten. Maar voel je niet geïntimideerd, dat is veel belangrijker. Iedereen komt hier om iets te leren, en je gaat heel ver komen, verder dan je misschien zou denken.
+
+## Introductiebijeenkomst
+
+<div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
+<a href="https://www.theaterdeomval.nl"><img src="/omval.jpg" style="max-width:150px;"><br><small>De Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
+</div>
+
+Op de eerste dag van het semester, 4 februari om 9:30 ben je van harte welkom in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard.
+
+Het is niet noodzakelijk of verplicht, maar wel een kans voor een vliegende start! Naast deze bijeenkomst plannen we met alle deelnemers een intakegesprek. Hiervoor ontvang je *in de eerste lesweek* een uitnodiging.
 
 ## Wat ga je doen?
 
