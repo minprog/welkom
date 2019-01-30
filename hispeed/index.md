@@ -115,9 +115,9 @@ Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het te
 | vak    | type        | datum               |  
 | ------ | ----------- | ------------------- |  
 | Prog 1 | tentamen    | 25 februari om 9:00 |  
-| Prog 1 | hertentamen | (nog te plannen)    |  
+| Prog 1 | hertentamen | 25 maart om 18:00   |  
 | Prog 2 | tentamen    | 25 maart om 9:00    |  
-| Prog 2 | hertentamen | (nog te plannen)    |  
+| Prog 2 | hertentamen | 27 mei om 18:00     |  
 
 ### Team
 
