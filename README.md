@@ -1,8 +1,6 @@
-# Welkom!
+# Welkom bij de Minor Programmeren
 
-De komende maanden gaan we hard aan de slag om jou te leren zelfstandig een programmeerproject op je te nemen, bijvoorbeeld om een app te maken of een interactieve datavisualisatie. We hebben er veel zin in!
+Dit is de Minor Programmeren van de Universiteit van Amsterdam. Een uitdagende omgeving om te leren je eigen tools te maken voor wetenschappelijk onderzoek. Om apps te leren maken, of dynamische visualisaties. Je volgt de beste videocolleges en bent vrijwel dagelijks aan de slag met het maken van je eigen programma's. Wij bieden je uitstekende begeleiding en een plek waar je je helemaal kan storten op het leren programmeren. Daarna ben je niet alleen een ervaring rijker, maar zul je anders naar computers kijken dan je ooit gedaan had.
 
-Kies een pagina op basis van hoe jij de minor gaat volgen:
-
-- [Hi-speed](hispeed): de hele minor in &eacute;&eacute;n semester
-- [Lo-speed](lospeed): de minor in langere tijd
+- [Fulltime](/fulltime): de hele minor in &eacute;&eacute;n semester
+- [Parttime](/parttime): &eacute;&eacute;n of meer vakken van de minor, in een wat rustiger tempo
