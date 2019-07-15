@@ -24,7 +24,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 <a href="https://www.theaterdeomval.nl"><img src="/omval.jpg" style="max-width:150px;"><br><small>De Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
 </div>
 
-Op de eerste lesdag, 2 september, komen we bijeen om 9:30 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste lesdag, maandag 2 september, komen we bijeen om 9:30 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 ## Aanwezigheid
 
@@ -94,11 +94,7 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### Roosters
 
-In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team.
-
-Soms zijn er activiteiten zoals werkcolleges of tentamens. Deze worden normaliter tijdens de practicumuren gepland. De tentamendata zijn hieronder vermeld, de werkcolleges worden na aanvang ingedeeld.
-
-Hoorcolleges en tentamens staan normaliter in je persoonlijke rooster dat je op <https://www.datanose.nl/> kunt opvragen. Aangezien de minor flink van structuur is veranderd kan dit nog wijzigen.
+In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. Soms zijn er activiteiten zoals werkcolleges of tentamens. Deze worden vrijwel allemaal tijdens de standaarduren gepland. Vanaf de aanvang van de minor (begin september) zullen o.a. de tentamens juist in het rooster vermeld staan. Andere activiteiten staan er niet in, omdat je gewoon van 9 tot 17 uur aanwezig moet zijn.
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
 <img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
