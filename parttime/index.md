@@ -2,7 +2,7 @@
 
 *Versie: lente 2019, lo-speed*
 
-Welkom! De komende tijd gaan we hard aan de slag om jou te leren zelfstandig een programmeerproject op je te nemen, bijvoorbeeld om een app te maken of een interactieve datavisualisatie. We hebben er veel zin in!
+Welkom! De komende tijd gaan we hard aan de slag om jou te leren programma's te schrijven en webapplicaties te ontwerpen. We hebben er veel zin in!
 
 In dit document vind je praktische informatie over de minor en over regels die wij belangrijk vinden. Let op: het gaat er bij ons soms nogal anders aan toe dan bij andere opleidingen.
 
@@ -12,19 +12,9 @@ Bron: <em>What is code?</em> van Paul Ford. Lees dat essay!</a>
 
 Wat kun je verwachten komende tijd? Heel veel zelf programmeren, dat staat op nummer één. Daarnaast geven we je elke week weer kleine stukjes informatica om over na te denken, zodat je een goede basis in de theorie hebt. En ook heel belangrijk: begeleiding van ervaren programmeurs, studenten en docenten.
 
-We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar mocht je nu al even iets willen toelichten stuur dan gerust een mailtje naar <help@mprog.nl>. We nemen dan snel contact met je op.
+We hopen jullie allemaal te spreken in de eerste weken van de minor, maar mocht je nu al even iets willen toelichten stuur dan gerust een mailtje naar <help@mprog.nl>. We nemen dan snel contact met je op.
 
 > **Geen paniek!** In de komende tijd zul je merken dat bij de minor studenten rondlopen met méér en met minder ervaring. Dat is heel mooi, want dan kunnen we van elkaar leren, en bovendien hebben we opdrachten op niveau voor elk van deze studenten. Maar voel je niet geïntimideerd, dat is veel belangrijker. Iedereen komt hier om iets te leren, en je gaat heel ver komen, verder dan je misschien zou denken.
-
-## Introductiebijeenkomst
-
-<div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
-<a href="https://www.theaterdeomval.nl"><img src="/omval.jpg" style="max-width:150px;"><br><small>De Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
-</div>
-
-Op de eerste dag van het semester, 4 februari om 9:30 ben je van harte welkom in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard.
-
-Het is niet noodzakelijk of verplicht om naar deze bijeenkomst te komen, maar wel een kans voor een vliegende start! Naast deze bijeenkomst plannen we met alle deelnemers een intakegesprek. Hiervoor ontvang je *in de eerste lesweek* een uitnodiging.
 
 ## Wat ga je doen?
 
@@ -34,24 +24,25 @@ Als je de hele minor gaat volgen, dan zul je drie fases doorlopen, die we hier b
 
 Onze eerste vakken zijn **Programmeren 1** en **Programmeren 2**. Daar ga je vanaf het allereerste begin leren programmeren in een hele reeks talen, zoals Scratch, C en Python. De essentie van deze vakken is ontzettend veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Daarom vinden we het belangrijk dat je een groot deel van de tijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
 
-We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse activiteiten die allemaal samenhangen. Alle onderdelen moeten daarom ook op volgorde gedaan worden!
+We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse activiteiten die allemaal samenhangen. Alle onderdelen moeten daarom ook op volgorde gedaan worden! Om een indruk te krijgen van wat je zoal doet:
 
-- Voorbereiding: videocollege van Harvard
+- Voorbereiding: videocollege (van Harvard)
 - Oefening: basisboek met veel kleine haalbare "sommen"
 - Tussentoetsen: over de basisconcepten
 - Oefening: typische programmeerproblemen uitpluizen en leren herkennen
+- Werkgroep: met je medestudenten en assistent kennis maken en uitwisselen
 - Opdrachten: oefenen met probleemoplossen in uitdagende opdrachten
 - Tentamen: gemengde vragen over de verschillende onderdelen
 
 ### Fase 2: Verdieping en toepassingen
 
-In het volgende semester gaan we je verder helpen om je theoretisch te ontwikkelen en om uitgebreid te kijken naar de richting die je op wil. Dat eerste gebeurt bij het vak **Programmeertheorie**, waar je met een groep aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen.
+De toepassingskant krijg je bij **Web App Studio** waar we volop de *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen te hergebruiken. Frameworks om websites te bouwen geven je een heleboel van die onderdelen cadeau. Maar toch is er elke paar jaar wel weer een nieuw platform beschikbaar om nieuwe soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe aan kunt leren.
 
-De toepassingskant krijg je bij één van de vakken waar we volop de *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen te hergebruiken. Platforms geven je een heleboel van die onderdelen cadeau. Tegelijkertijd is er elke paar jaar wel weer een nieuw platform beschikbaar om andere soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe platforms aan kunt leren.
+Dan is er het **Programmeerproject**. Daar ga je een heel eigen idee voor een web app verzinnen, uitwerken, en implementeren. We begeleiden je procesmatig, maar je bent al zo ver gevorderd, dat je zelf grotendeels weet hoe je dingen moet uitzoeken die je nog niet kan, maar wel nodig hebt om je plan tot een goed einde te brengen. Natuurlijk sluiten we, vlak voor de kerst, af met een epic demonstratie van alle games, apps en visualisaties - en nodig vooral vrienden en familie uit om mee te kijken!
 
 ### Fase 3: Project
 
-Het slot van de minor is het **Programmeerproject**. Daar ga je een heel eigen idee voor een app of visualisatie verzinnen, uitwerken, en implementeren. We begeleiden je procesmatig, maar je bent al zo ver gevorderd, dat je zelf grotendeels weet hoe je dingen moet uitzoeken die je nog niet kan, maar wel nodig hebt om je plan tot een goed einde te brengen. Natuurlijk sluiten we af met een epic demonstratie van alle games, apps en visualisaties - en nodig vooral vrienden en familie uit om mee te kijken!
+Nu je kunt programmeren gaan we je verder helpen je theoretisch te ontwikkelen. Dat gebeurt bij het vak **Programmeertheorie**, waar je met een team van 3 studenten aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen. Een pittig einde van de minor, maar ook een kans om lekker experimenteel te leren en een kijkje in de keuken van de informatica te krijgen. Dit vak sluit formeel af met een middag waarop elk team hun nieuwe inzichten presenteert. (Dit vak is alleen fulltime te volgen.)
 
 ## Verwachtingen
 
@@ -63,9 +54,7 @@ Je hebt géén voorkennis nodig. Er zijn altijd studenten die al eens geprogramm
 
 Je belangrijkste activiteit is héél veel programmeren, en we verwachten dus ook dat je dit doet. Leren programmeren kost heel veel tijd, en je zult waarschijnlijk meer uren maken dan je gewend bent van andere vakken. Maar zonder deze oefening kom je niet vooruit!
 
-Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je een behoorlijk aantal uren bij ons aanwezig bent, zodat je hulp kunt krijgen van onze assistenten zodra het nodig is.
-
-> Voor parttime-studenten gaat het zo: je moet 6 uur per week aanwezig zijn binnen de practicumtijden. Je kunt zelf kiezen hoe je de 6 uur indeelt, bijvoorbeeld afhankelijk van andere activiteiten.
+Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je een behoorlijk aantal uren bij ons aanwezig bent, zodat je hulp kunt krijgen van onze assistenten zodra het nodig is. Zie onder hoe dit werkt.
 
 Nu je toch zoveel aanwezig bent, vinden we het ook heel belangrijk dat je openstaat voor vragen van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
 
@@ -77,24 +66,15 @@ Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle me
 
 Omdat we vragen dat jij aanwezig bent, willen we ook dat dat zin heeft. Natuurlijk is het essentieel dat je met je medestudenten discussieert en overlegt over de opdrachten en de stof, maar je mag ook verwachten dat wij regelmatig aanwezig zijn en je terzijde staan. Kun je ons niet vinden? Stuur een mail!
 
-We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom krijg je een mentor, met wie je elke twee weken afspreekt. Deze mentor houdt bij hoe het met je gaat en kan je op extra studiematerialen wijzen.
+We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom is er voor jou een groepsassistent, die bijhoudt hoe het met je gaat, je opdrachten nakijkt en werkgroepen organiseert. Deze assistent houdt bij hoe het met je gaat en kan je op extra studiematerialen wijzen.
 
 Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg feedback krijgt. We kijken je werk elke week na en geven je dan ideeën om het beter te doen. Krijg je niet genoeg feedback, of wil je meer horen over een specifiek onderwerp? Gewoon vragen!
 
 ## Praktische zaken
 
-### Planning
-
-|            | startdatum          | einddatum           |  
-| ---------- | ------------------- | ------------------- |  
-| semester 1 | dinsdag 4 september | vrijdag 21 december |  
-| semester 2 | dinsdag 5 februari  | vrijdag 31 mei      |  
-
-De vakken Programmeren 1 en Programmeren 2 behelzen elk ongeveer een studielast van 160 uur. Rond de start van het semester ontvang je van ons een uitnodiging om een eerste afspraak te maken waarbij je je planning opstelt.
-
 ### Roosters
 
-Als je afspreekt ons vaste programma te volgen, dan moet je 6 uur per week bij het practicum aanwezig zijn. Er is aardig wat keuze; de volledige tijden worden bij aanvang van het vak bekend gemaakt, maar dinsdag van het einde van de middag tot 20:00 uur is een optie voor mensen die overdag werken.
+Je moet 6 uur per week bij het practicum aanwezig zijn. Er is aardig wat keuze; de opties worden bij start van het semester bekend gemaakt. Je kunt dan zelf kiezen wanneer je komt. Daarnaast moet je een werkgroep kiezen, met een vaste assistent, die je elke week bijwoont. Ook daarvoor zijn diverse opties.
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
 <img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
@@ -102,7 +82,7 @@ Als je afspreekt ons vaste programma te volgen, dan moet je 6 uur per week bij h
 
 ### Locatie
 
-Alle lessen vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokalen zijn A1.16 en A1.30 op de eerste verdieping. Bovendien kun je terecht op "het balkon", direct voor de lokalen.
+Alle bijeenkomsten vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904. De lokalen worden bekend gemaakt samen met het rooster.
 
 ### Toetsen
 
@@ -115,23 +95,29 @@ Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het te
 | Programmeren 2 | tentamen    | ma 27 mei om 18:00   |  
 | Programmeren 2 | hertentamen | ma 17 juni om 17:00  |  
 
-Als je Programmeren 1 en 2 in één semester af wil krijgen, moet je vóór de eerste tentamendatum alle opdrachten volledig afhebben, en natuurlijk ook de tentamens halen. Als je voldoende tijd in het vak steekt (20 uur per week) en proactief hulp zoekt dan gaat dit prima lukken.
+Je moet vóór de eerste tentamendatum alle opdrachten volledig afhebben, en natuurlijk ook de tentamens halen. Als je voldoende tijd in het vak steekt (20 uur per week) en proactief hulp zoekt dan gaat dit prima lukken.
 
 ### Team
 
-Verdeeld over de vakken zijn er vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen). Soms zijn we herkenbaar aan een t-shirt of nekkoord. Op onze website staan binnenkort weer up-to-date foto's van alle medewerkers!
+Verdeeld over de vakken zijn er vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen). In het begin zijn we herkenbaar aan een t-shirt of een naamplaatje. Op onze [website](https://www.mprog.nl/team) staan binnenkort weer up-to-date foto's van alle medewerkers!
 
 ### Website
 
-Alle cursusmaterialen zullen via een website beschikbaar worden gesteld; bij aanvang van de cursus krijg je een linkje!
+Alle cursusmaterialen zullen via een website beschikbaar worden gesteld; bij aanvang van de cursus krijg je een linkje! Er zal géén gebruik worden gemaakt van Blackboard of Canvas, dus het heeft ook geen zin om onze cursussen in die omgeving op te zoeken.
+
+### Voorbereiding
+
+Sommige studenten willen zich graag voorbereiden voor de minor, maar dat is niet de bedoeling. Wij gaan er vanuit dat je zonder ervaring binnenkomt en je laat "meevoeren" door onze videocolleges, opdrachten en toetsjes. Een leuke manier om toch nog wat te doen, is het lezen van het essay "What is code," zoals bovenaan deze pagina gelinkt. Dit is een algemene inleiding in allerlei aspecten van het programmeren en software bouwen in bedrijven.
 
 ### Benodigdheden
 
-Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is soms ook wel goed, maar voor latere vakken niet meer). Mac, Windows of Linux maakt niet uit. Dat je WiFi werkt is wel een vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
+1.  Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is soms ook wel goed, maar voor latere vakken misschien niet meer). Mac, Windows of Linux maakt niet uit. Dat je WiFi werkt is wel een grote vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
 
-Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot.
+    Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot. In de zomer is er altijd een actie waarmee je niet alleen korting krijgt maar ook nog een gratis headphone en/of een tegoedbon.
 
-Je hebt geen boeken nodig.
+2.  Je hoeft geen software op je laptop te installeren voor de start van de minor. Een webbrowser is voldoende.
+
+3.  Je hoeft van tevoren geen boeken te bestellen.
 
 ### Programma aanpassen
 
@@ -143,25 +129,7 @@ Heb je vragen over de administratie van cijfers? Neem dan contact op met de serv
 
 Mocht je vragen hebben over je inschrijving bij de UvA (bijvoorbeeld als bijvakker), neem dan contact op met de Student Service Desk, Roetersstraat 11, telefoon (020) 525 8080.
 
-Voor bijvakkers: heb je je inschrijving helemaal geregeld, maar ben je nog niet toegelaten? Stuur dan een mail naar <help@mprog.nl> en wij zorgen dat dit snel gebeurt.
-
-## Adviezen
-
-Studenten uit vorige edities hebben ons deze tips gestuurd om door te geven:
-
-> "Deze minor is een enorm goede kickstarter als je ook maar een beetje interesse hebt in programmeren of zou willen weten hoe het is om te programmeren. Aan het einde van deze minor heb je de gereedschappen—en, misschien wel belangrijker—een manier van denken aangeleerd om verder te gaan met programmeren op je eigen kracht."
-
-> "Onderschat niet hoeveel tijd het kost om te leren programmeren from scratch!"
-
-> "Plan bewust een moment in dat je de video's gaat bekijken, anders ga je het overslaan en dat is niet goed voor je tempo bij de problem sets."
-
-> "Vraag op tijd om hulp als er dingen zijn die je niet snapt of onduidelijk vind, want kleine probleempjes kunnen er voor zorgen dat je hele code niet (of foutief) werkt. Zorg dat je alle lectures van tevoren kijkt en de discipline opbrengt om de tijd er in te steken die ervoor wordt opgegeven en behandel eerst alle noodzakelijke punten voordat je je code 'opleukt' met extra functies."
-
-> "Hou er rekening mee dat er veel tijd in kan gaan zitten en je soms echt moet doorzetten. Voor de rest laat je lekker verrassen."
-
-> "Klamp zoveel mogelijk vast aan de studentassistenten als je iets niet snapt. Wees niet bang om te vragen, soms heb je net dat zetje nodig."
-
-> "Oefening baart kunst. Bij Programmeren 1 & 2 was er echt een hele goede opbouw in de moeilijkheidsgraad van de programma's, waardoor je echt merkt dat je steeds in stappen verder komt."
+Voor bijvakkers: heb je je inschrijving helemaal geregeld, maar staat op studielink niet dat je volledig ingeschreven bent bij de UvA? Stuur dan een screenshot van studielink naar <help@mprog.nl> en wij kijken wat we kunnen doen.
 
 ## FAQ
 
@@ -169,7 +137,7 @@ Heb je nog een vraag? Stuur ons een e-mail. Binnenkort verschijnen hier dan meer
 
 ### Afwezigheid
 
-Is het mogelijk afwezig te zijn bij een werkcollege, practicum e.d.? Ja, maar alleen als je dit van te voren meldt. Stuur dus een mail naar je mentor op <help@mprog.nl> en doe een voorstel.
+Is het mogelijk afwezig te zijn bij een werkgroep, practicum e.d.? Ja, maar alleen als je dit van te voren meldt en je in de regel aanwezig blijft. Stuur dus een mail naar de docenten op <help@mprog.nl> en doe een voorstel.
 
 ### Ziekte
 
