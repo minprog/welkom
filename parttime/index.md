@@ -58,7 +58,7 @@ Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, w
 
 Nu je toch zoveel aanwezig bent, vinden we het ook heel belangrijk dat je openstaat voor vragen van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
 
-We vragen van jou een actieve bemoeienis met je eigen voortgang. Zorg dat je goed bijhoudt waar je staat en wat je nog moet doen, en neem bij vragen en problemen meteen contact op. Kun je je assistent niet vinden? Stuur dan meteen een mail naar <help@mprog.nl>.
+We vragen van jou een actieve bemoeienis met je eigen voortgang. Zorg dat je goed bijhoudt waar je staat en wat je nog moet doen, en neem bij vragen en problemen meteen contact op. De docenten bereik je via <help@mprog.nl>.
 
 Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle mededelingen op de websites én alle mededelingen in je e-mail goed bijhoudt. Dat je dit document aan het lezen bent is al een goed begin!
 
@@ -66,7 +66,7 @@ Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle me
 
 Omdat we vragen dat jij aanwezig bent, willen we ook dat dat zin heeft. Natuurlijk is het essentieel dat je met je medestudenten discussieert en overlegt over de opdrachten en de stof, maar je mag ook verwachten dat wij regelmatig aanwezig zijn en je terzijde staan. Kun je ons niet vinden? Stuur een mail!
 
-We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom is er voor jou een groepsassistent, die bijhoudt hoe het met je gaat, je opdrachten nakijkt en werkgroepen organiseert. Deze assistent houdt bij hoe het met je gaat en kan je op extra studiematerialen wijzen.
+We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom is er voor jou een tutor, die bijhoudt hoe het met je gaat, je opdrachten nakijkt en werkgroepen organiseert. Deze tutor houdt bij hoe het met je gaat en kan je op extra studiematerialen wijzen.
 
 Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg feedback krijgt. We kijken je werk elke week na en geven je dan ideeën om het beter te doen. Krijg je niet genoeg feedback, of wil je meer horen over een specifiek onderwerp? Gewoon vragen!
 
@@ -74,7 +74,7 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### Roosters
 
-Je moet 6 uur per week bij het practicum aanwezig zijn. Er is aardig wat keuze; de opties worden bij start van het semester bekend gemaakt. Je kunt dan zelf kiezen wanneer je komt. Daarnaast moet je een werkgroep kiezen, met een vaste assistent, die je elke week bijwoont. Ook daarvoor zijn diverse opties.
+Je moet 6 uur per week bij het practicum aanwezig zijn. Er is aardig wat keuze; de opties worden bij start van het semester bekend gemaakt. Je kunt dan zelf kiezen wanneer je komt. Daarnaast moet je een werkgroep kiezen, met een vaste tutor, die je elke week bijwoont. Ook daarvoor zijn diverse opties.
 
 **Let op: het rooster zoals dat nu online staat is niet af. Doordat er zoveel keuze is, kunnen wij onze activiteiten niet goed in de algemene roostersystemen krijgen. Wacht dus de startmail af die wij begin september rondsturen.**
 
@@ -140,6 +140,6 @@ Meld je eventuele calamiteiten pas naderhand? Dan is de kans groot dat je het va
 
 ### Opdrachten
 
-Mag je opdrachten overslaan? Nee, om de vakken te halen moet je alle opdrachten en toetsen volledig en succesvol hebben afgerond. Het is wel mogelijk om je opdrachten of toetsen uit te stellen, maar let op dat je het tentamen pas mag maken als alles verder af is! Bespreek je plannen vooral gewoon met je mentor, die je daarover kan adviseren.
+Mag je opdrachten overslaan? Nee, om de vakken te halen moet je alle opdrachten en toetsen volledig en succesvol hebben afgerond. In de studiewijzer van elk vak staat welke opdrachten en toetsen dat zijn. Bespreek je plannen vooral gewoon met je tutor, die je daarover kan adviseren.
 
 <small>Copyright 2015–2019 Martijn Stegeman. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>

@@ -78,7 +78,7 @@ Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, w
 
 Nu je toch zoveel aanwezig bent, vinden we het ook heel belangrijk dat je openstaat voor vragen van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
 
-We vragen van jou een actieve bemoeienis met je eigen voortgang. Zorg dat je goed bijhoudt waar je staat en wat je nog moet doen, en neem bij vragen en problemen meteen contact op. Kun je je assistent niet vinden? Stuur dan meteen een mail naar <help@mprog.nl>.
+We vragen van jou een actieve bemoeienis met je eigen voortgang. Zorg dat je goed bijhoudt waar je staat en wat je nog moet doen, en neem bij vragen en problemen meteen contact op. De docenten bereik je via <help@mprog.nl>.
 
 Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle mededelingen op de websites én alle mededelingen in je e-mail goed bijhoudt. Dat je dit document aan het lezen bent is al een goed begin!
 
@@ -86,7 +86,7 @@ Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle me
 
 Omdat we vragen dat jij aanwezig bent, willen we ook dat dat zin heeft. Natuurlijk is het essentieel dat je met je medestudenten discussieert en overlegt over de opdrachten en de stof, maar je mag ook verwachten dat wij regelmatig aanwezig zijn en je terzijde staan. Zeker in het begin zijn er dus vrijwel altijd assistenten aanwezig om je nét even die drempel over te helpen of een moeilijke vraag door te spreken.
 
-We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom is er voor jou een groepsassistent, die bijhoudt hoe het met je gaat, je opdrachten nakijkt en werkgroepen organiseert. Daarnaast zijn er enkele zeer ervaren assistenten en docenten, die je bijstaan op het moment dat je er echt even niet meer uitkomt.
+We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom is er voor jou een tutor, die bijhoudt hoe het met je gaat, je opdrachten nakijkt en werkgroepen organiseert. Daarnaast zijn er enkele zeer ervaren assistenten en docenten, die je bijstaan op het moment dat je er echt even niet meer uitkomt.
 
 Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg feedback krijgt. We kijken je werk elke week na en geven je dan ideeën om het beter te doen. Krijg je niet genoeg feedback, of wil je meer horen over een specifiek onderwerp? Gewoon vragen!
 
