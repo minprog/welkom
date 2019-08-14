@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: lente 2019, lo-speed*
+*Versie: herfst 2019, parttime*
 
 Welkom! De komende tijd gaan we hard aan de slag om jou te leren programma's te schrijven en webapplicaties te ontwerpen. We hebben er veel zin in!
 
