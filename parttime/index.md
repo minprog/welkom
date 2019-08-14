@@ -76,6 +76,8 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 Je moet 6 uur per week bij het practicum aanwezig zijn. Er is aardig wat keuze; de opties worden bij start van het semester bekend gemaakt. Je kunt dan zelf kiezen wanneer je komt. Daarnaast moet je een werkgroep kiezen, met een vaste assistent, die je elke week bijwoont. Ook daarvoor zijn diverse opties.
 
+**Let op: het rooster zoals dat nu online staat is niet af. Doordat er zoveel keuze is, kunnen wij onze activiteiten niet goed in de algemene roostersystemen krijgen.**
+
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
 <img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
 </div>
