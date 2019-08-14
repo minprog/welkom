@@ -132,7 +132,7 @@ Sommige studenten willen zich graag voorbereiden voor de minor, maar dat is niet
 
 ### Programma aanpassen
 
-Wil je toch nog aanpassingen doen in het minorprogramma waarvoor je bent ingeschreven? Stuur dan gerust een e-mailtje naar <help@mprog.nl> of, als de cursus al begonnen is, neem contact op met je docent.
+Wil je toch nog aanpassingen doen in het minorprogramma waarvoor je bent ingeschreven? Stuur dan een bericht naar <help@mprog.nl>.
 
 ### Administratie
 
