@@ -140,7 +140,7 @@ Heb je vragen over de administratie van cijfers? Neem dan contact op met de serv
 
 Mocht je vragen hebben over je inschrijving bij de UvA (bijvoorbeeld als bijvakker), neem dan contact op met de Student Service Desk, Roetersstraat 11, telefoon (020) 525 8080.
 
-Voor bijvakkers: heb je je inschrijving helemaal geregeld, maar staat op studielink niet dat je volledig ingeschreven bent bij de UvA? Stuur dan een screenshot van studielink naar <help@mprog.nl> en wij kijken wat we kunnen doen.
+Voor bijvakkers: heb je je inschrijving helemaal geregeld, maar staat op Studielink niet dat je volledig ingeschreven bent bij de UvA? Stuur dan een screenshot van de status op Studielink naar <help@mprog.nl> en wij kijken wat we kunnen doen.
 
 ## FAQ
 
