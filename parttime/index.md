@@ -106,7 +106,7 @@ Sommige studenten willen zich graag voorbereiden voor de minor, maar dat is niet
 
 1.  Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is soms ook wel goed, maar voor latere vakken misschien niet meer). Mac, Windows of Linux maakt niet uit. Dat je wifi werkt is wel een grote vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
 
-    Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot. In de zomer is er altijd een actie waarmee je niet alleen korting krijgt maar ook nog een gratis headphone en/of een tegoedbon.
+    Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot. In de zomer is er altijd een actie waarmee je niet alleen korting krijgt maar ook nog een gratis headphone en/of een tegoedbon. Macs zijn echter duur, dus voel je vrij om een stuk minder geld uit te geven!
 
 2.  Je hoeft geen software op je laptop te installeren voor de start van de minor. Een webbrowser is voldoende.
 
