@@ -76,7 +76,7 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 Je moet 6 uur per week bij het practicum aanwezig zijn. Er is aardig wat keuze; de opties worden bij start van het semester bekend gemaakt. Je kunt dan zelf kiezen wanneer je komt. Daarnaast moet je een werkgroep kiezen, met een vaste assistent, die je elke week bijwoont. Ook daarvoor zijn diverse opties.
 
-**Let op: het rooster zoals dat nu online staat is niet af. Doordat er zoveel keuze is, kunnen wij onze activiteiten niet goed in de algemene roostersystemen krijgen.**
+**Let op: het rooster zoals dat nu online staat is niet af. Doordat er zoveel keuze is, kunnen wij onze activiteiten niet goed in de algemene roostersystemen krijgen. Wacht dus de startmail af die wij begin september rondsturen.**
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
 <img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
@@ -88,16 +88,7 @@ Alle bijeenkomsten vinden plaats in het Science Park in Amsterdam. Het hoofdgebo
 
 ### Toetsen
 
-Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor.
-
-| vak            | type        | datum                |  
-| -------------- | ----------- | -------------------- |  
-| Programmeren 1 | tentamen    | ma 25 maart om 18:00 |  
-| Programmeren 1 | hertentamen | ma 27 mei om 18:00   |  
-| Programmeren 2 | tentamen    | ma 27 mei om 18:00   |  
-| Programmeren 2 | hertentamen | ma 17 juni om 17:00  |  
-
-Je moet vóór de eerste tentamendatum alle opdrachten volledig afhebben, en natuurlijk ook de tentamens halen. Als je voldoende tijd in het vak steekt (20 uur per week) en proactief hulp zoekt dan gaat dit prima lukken.
+Je moet vóór de eerste tentamendatum alle opdrachten volledig afhebben, en natuurlijk ook de tentamens halen. Dan heb je een vak gehaald en mag je door naar het volgende. Als je voldoende tijd in het vak steekt (20 uur per week) en proactief hulp zoekt dan gaat dit prima lukken.
 
 ### Team
 
