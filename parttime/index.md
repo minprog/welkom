@@ -100,7 +100,7 @@ Er zijn diverse opties voor werkgroepen. Je kunt een werkgroep kiezen die goed b
 
 ### Locatie
 
-Alle bijeenkomsten vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904. De lokalen worden bekend gemaakt samen met het rooster.
+Alle bijeenkomsten vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904.
 
 ### Toetsen
 
