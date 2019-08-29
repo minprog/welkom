@@ -92,7 +92,7 @@ Buiten deze tijden is het lokaal voor andere activiteiten gereserveerd, maar je 
 
 Er zijn diverse opties voor werkgroepen. Je kunt een werkgroep kiezen die goed bij je schema past. In principe ga je wekelijks naar dezelfde werkgroep, met de zelfde mentor, die dan ook je opdrachten nakijkt en van feedback voorziet!
 
-[Schrijf je in voor een werkgroep](https://doodle.com/poll/a2fv9vh7ic442qu2)
+[Schrijf je in voor een werkgroep](https://doodle.com/poll/a2fv9vh7ic442qu2) (vul je voor- en achternaam goed in!)
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
 <img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
