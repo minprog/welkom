@@ -74,9 +74,25 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### Roosters
 
-Je moet 6 uur per week bij het practicum aanwezig zijn. Er is aardig wat keuze; de opties worden bij start van het semester bekend gemaakt. Je kunt dan zelf kiezen wanneer je komt. Daarnaast moet je een werkgroep kiezen, met een vaste tutor, die je elke week bijwoont. Ook daarvoor zijn diverse opties.
+Je moet 6 uur per week bij het practicum aanwezig zijn. Er is aardig wat keuze; de opties worden bij start van het semester bekend gemaakt. Je kunt dan zelf kiezen wanneer je komt. Daarnaast moet je een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Ook daarvoor zijn diverse opties.
 
-**Let op: het rooster zoals dat nu online staat is niet af. Doordat er zoveel keuze is, kunnen wij onze activiteiten niet goed in de algemene roostersystemen krijgen. Wacht dus de startmail af die wij begin september rondsturen.**
+**Openingstijden lab: (lokaal A1.22)**
+
+- maandag 11--15 uur
+- dinsdag 11--13 uur
+- woensdag 13--17 uur
+- donderdag 13--15 uur
+- vrijdag 11-15 uur
+
+Je hoeft geen plek te reserveren, je kunt gewoon komen! Spreek de betreffende docent/assistent even aan als je voor het eerst komt.
+
+Buiten deze tijden is het lokaal voor andere activiteiten gereserveerd, maar je kunt voor de deur wel een plekje claimen. Binnen de tijden moet je voor hulp wel in het lokaal zitten, en niet erbuiten.
+
+**Werkgroepen**
+
+Er zijn diverse opties voor werkgroepen. Je kunt een werkgroep kiezen die goed bij je schema past. In principe ga je wekelijks naar dezelfde werkgroep, met de zelfde mentor, die dan ook je opdrachten nakijkt en van feedback voorziet!
+
+[Kies een werkgroep](https://doodle.com/poll/a2fv9vh7ic442qu2)
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
 <img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
