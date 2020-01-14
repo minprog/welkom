@@ -94,7 +94,7 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### Roosters
 
-In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. Soms zijn er activiteiten zoals werkcolleges of tentamens. Deze worden vrijwel allemaal tijdens de standaarduren gepland. Vanaf de aanvang van de minor (begin september) zullen o.a. de tentamens juist in het rooster vermeld staan. Andere activiteiten staan er niet in, omdat je gewoon van 9 tot 17 uur aanwezig moet zijn.
+In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. Soms zijn er activiteiten zoals werkcolleges of tentamens. Deze worden vrijwel allemaal tijdens de standaarduren gepland. Vanaf de aanvang van de minor (begin februari) zullen o.a. de tentamens juist in het rooster vermeld staan. Andere activiteiten staan er niet in, omdat je gewoon van 9 tot 17 uur aanwezig moet zijn.
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
 <img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
@@ -102,11 +102,11 @@ In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practic
 
 ### Locatie
 
-Alle lessen (behalve het introductiecollege!) vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokalen zijn A1.16, A1.18 en A1.24 op de eerste verdieping. Mocht je al bij ons bekend zijn, dan zul je zien dat er deze zomer flink verbouwd wordt aan de lokalen!
+Alle lessen (behalve het introductiecollege!) vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokaal is A1.16 op de eerste verdieping.
 
 ### Tentamens
 
-Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor. De precieze data worden op een later moment bekend gemaakt.
+Programmeren 1 en 2 hebben een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor. De precieze data worden op een later moment bekend gemaakt.
 
 ### Team
 
@@ -124,7 +124,7 @@ Sommige studenten willen zich graag voorbereiden voor de minor, maar dat is niet
 
 1.  Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is soms ook wel goed, maar voor latere vakken misschien niet meer). Mac, Windows of Linux maakt niet uit. Dat je wifi werkt is wel een grote vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
 
-    Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot. In de zomer is er altijd een actie waarmee je niet alleen korting krijgt maar ook nog een gratis headphone en/of een tegoedbon. Macs zijn echter duur, dus voel je vrij om een stuk minder geld uit te geven!
+    <!-- Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot. In de zomer is er altijd een actie waarmee je niet alleen korting krijgt maar ook nog een gratis headphone en/of een tegoedbon. Macs zijn echter duur, dus voel je vrij om een stuk minder geld uit te geven! -->
 
 2.  Je hoeft geen software op je laptop te installeren voor de start van de minor. Een webbrowser is voldoende.
 
