@@ -32,7 +32,7 @@ We hebben een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent er
 
 Natuurlijk is er wél ruimte voor een keer een trouwerij of doktersbezoek, maar niet voor tentamens van andere vakken. Kun je de aanwezigheid op die manier niet volbrengen? Dan moet je switchen naar de parttime-minor, en dat kan nog! Neem direct contact op met <help@mprog.nl>.
 
-Let op dat de UvA géén herfstvakantie heeft ingepland, alleen de kerstvakantie van 21 december t/m 5 januari. Het is dus niet mogelijk om op een ander moment nog vakantie te plannen.
+Wij hebben dit semester een **meivakantie** ingepland, namelijk van 25 april t/m 5 mei. Lekker lang, en mooi in het midden van het semester! In ruil betekent dat dat je op geen enkel ander moment vakantie zult kunnen nemen (er zijn nog wel een paar losse dagen zoals Hemelvaart).
 
 ## Wat ga je doen?
 
