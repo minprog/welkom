@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: herfst 2019, fulltime*
+*Versie: lente 2020, fulltime*
 
 Welkom! De komende maanden gaan we hard aan de slag om jou te leren zelfstandig een website op te zetten en te bouwen, bijvoorbeeld met datavisualisaties voor je onderzoek, of een informatieve website voor je eigen bedrijf of onderzoeksgroep. Of misschien een webshop, waar je zelfgemaakte producten gaat verkopen, of misschien wel een website voor het verzamelen van onderzoeksgegevens onder grote groepen deelnemers. Het kan van alles zijn. We hebben er veel zin in!
 
@@ -21,10 +21,10 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 ## Introductiebijeenkomst
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
-<a href="https://www.theaterdeomval.nl"><img src="/omval.jpg" style="max-width:150px;"><br><small>De Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
+<a href="https://www.codam.nl"><img src="/codam.jpg" style="max-width:150px;"><br><small>Codam, gebouw 039, Kattenburgerstraat&nbsp;7, Amsterdam</small></a>
 </div>
 
-Op de eerste lesdag, maandag 2 september, komen we bijeen om 9:30 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste lesdag, maandag 3 februari, komen we bijeen om 9:30 bij onze vrienden van Codam voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard en vertellen we hoe wij werken. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 ## Aanwezigheid
 
