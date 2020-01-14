@@ -28,7 +28,7 @@ Op de eerste lesdag, maandag 3 februari, komen we bijeen om 9:30 bij onze vriend
 
 ## Aanwezigheid
 
-We hebben een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent er **elke werkdag** tussen 9:00 en 17:00 uur. Dit geldt voor het hele semester, dus t/m vrijdag 31 januari. Op die laatste dag zijn de eindpresentaties!
+We hebben een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent er **elke werkdag** tussen 9:00 en 17:00 uur. Dit geldt voor het hele semester, dus t/m vrijdag 26 juni. Op die laatste dag zijn de eindpresentaties!
 
 Natuurlijk is er wél ruimte voor een keer een trouwerij of doktersbezoek, maar niet voor tentamens van andere vakken. Kun je de aanwezigheid op die manier niet volbrengen? Dan moet je switchen naar de parttime-minor, en dat kan nog! Neem direct contact op met <help@mprog.nl>.
 
