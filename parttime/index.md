@@ -76,13 +76,13 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 Je moet 6 uur per week bij het practicum aanwezig zijn. Er is aardig wat keuze; de opties worden bij start van het semester bekend gemaakt. Je kunt dan zelf kiezen wanneer je komt. Daarnaast moet je een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Ook daarvoor zijn diverse opties.
 
-**Openingstijden programmeerlab (lokaal A1.22)**
+**Openingstijden programmeerlab (parttime, lokaal A1.22)**
 
-- maandag 11--15 uur
-- dinsdag 11--13 uur
-- woensdag 13--17 uur
-- donderdag 13--15 uur
-- vrijdag 11-15 uur
+- maandag 9--13 uur
+- dinsdag 9--13 uur
+- woensdag 9--13 uur
+- donderdag 9--13 uur
+- vrijdag 9--13 uur
 
 Je hoeft geen plek te reserveren, je kunt gewoon komen! Spreek de betreffende docent/assistent even aan als je voor het eerst komt.
 
