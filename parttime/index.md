@@ -78,7 +78,7 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### Locatie
 
-Alle bijeenkomsten vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904.
+Alle bijeenkomsten, met als mogelijke uitzondering de tentamens, vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904.
 
 ### Roosters
 
