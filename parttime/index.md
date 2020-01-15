@@ -72,9 +72,17 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ## Praktische zaken
 
+<div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
+<img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
+</div>
+
+### Locatie
+
+Alle bijeenkomsten vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904.
+
 ### Roosters
 
-Je moet 6 uur per week bij het practicum aanwezig zijn. Er is aardig wat keuze; de opties worden bij start van het semester bekend gemaakt. Je kunt dan zelf kiezen wanneer je komt. Daarnaast moet je een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Ook daarvoor zijn diverse opties.
+Je moet 6 uur per week bij het practicum aanwezig zijn. Er is aardig wat keuze; je kunt dan zelf kiezen wanneer je komt.
 
 **Openingstijden programmeerlab (parttime, lokaal A1.22)**
 
@@ -90,21 +98,23 @@ Buiten deze tijden is het lokaal voor andere activiteiten gereserveerd, maar je 
 
 **Werkgroepen**
 
-Er zijn diverse opties voor werkgroepen. Je kunt een werkgroep kiezen die goed bij je schema past. In principe ga je wekelijks naar dezelfde werkgroep, met de zelfde mentor, die dan ook je opdrachten nakijkt en van feedback voorziet!
+Daarnaast moet je een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Ook daarvoor zijn diverse opties. In principe ga je wekelijks naar dezelfde werkgroep, met de zelfde mentor, die dan ook je opdrachten nakijkt en van feedback voorziet!
+
+**De verschillende opties voor de werkgroepen worden uiterlijk 27 januari bekend gemaakt.**
 
 [Schrijf je in voor een werkgroep](https://doodle.com/poll/a2fv9vh7ic442qu2) (vul je voor- en achternaam goed in!)
 
-<div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
-<img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
-</div>
+### Opdrachten en toetsen
 
-### Locatie
+Om de vakken Programmeren 1 en 2 goed te volbrengen moet je:
 
-Alle bijeenkomsten vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904.
+- wekelijkse opdrachten maken, waar je soms wat kan schuiven met de deadline (er is een coulante regeling voor puntenaftrek bij later inleveren)
 
-### Toetsen
+- wekelijkse toetsjes doen, die je kunt (en moet) herkansen tot je ze haalt --- op zelf ingeplande momenten --- en deze toetsjes dienen dan ook als het tentamen voor Programmeren 1
 
-Je moet vóór de eerste tentamendatum alle opdrachten volledig afhebben, en natuurlijk ook de tentamens halen. Dan heb je een vak gehaald en mag je door naar het volgende. Als je voldoende tijd in het vak steekt (20 uur per week) en proactief hulp zoekt dan gaat dit prima lukken.
+- bij Programmeren 2 mogelijk enkele toetsjes doen, en dan nog een tentamen op de vooraf geplande tentamendatum
+
+Je moet vóór de eerste tentamendatum alle opdrachten volledig afhebben, en natuurlijk ook de tentamens halen. Dan heb je een vak gehaald en mag je door naar het volgende. Als je voldoende tijd in het vak steekt (ruim 20 uur per week) en proactief hulp zoekt dan gaat het prima lukken om de vakken de geplande tijd te volbrengen.
 
 ### Team
 
