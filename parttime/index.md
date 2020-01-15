@@ -92,7 +92,7 @@ Je moet 6 uur per week bij het practicum aanwezig zijn. Er is aardig wat keuze; 
 - donderdag 9--13 uur
 - vrijdag 9--13 uur
 
-Je hoeft geen plek te reserveren, je kunt gewoon komen! Spreek de betreffende docent/assistent even aan als je voor het eerst komt.
+Je hoeft geen plek te reserveren, je kunt gewoon komen! En spreek de betreffende docent/assistent even aan als je voor het eerst komt; het is belangrijk kennis te maken.
 
 Buiten deze tijden is het lokaal voor andere activiteiten gereserveerd, maar je kunt voor de deur wel een plekje claimen. Binnen de tijden moet je voor hulp wel in het lokaal zitten, en niet erbuiten.
 
@@ -100,9 +100,9 @@ Buiten deze tijden is het lokaal voor andere activiteiten gereserveerd, maar je 
 
 Daarnaast moet je een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Ook daarvoor zijn diverse opties. In principe ga je wekelijks naar dezelfde werkgroep, met de zelfde mentor, die dan ook je opdrachten nakijkt en van feedback voorziet!
 
-**De verschillende opties voor de werkgroepen worden uiterlijk 27 januari bekend gemaakt.**
-
-[Schrijf je in voor een werkgroep](https://doodle.com/poll/a2fv9vh7ic442qu2) (vul je voor- en achternaam goed in!)
+> **De verschillende opties voor de werkgroepen worden uiterlijk 27 januari bekend gemaakt.**
+> 
+> [Schrijf je in voor een werkgroep](https://doodle.com/poll/a2fv9vh7ic442qu2) (vul je voor- en achternaam goed in!)
 
 ### Opdrachten en toetsen
 
