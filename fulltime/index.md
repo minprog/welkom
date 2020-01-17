@@ -24,7 +24,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 <a href="https://www.codam.nl"><img src="/codam.jpg" style="max-width:150px;"><br><small>Codam, gebouw 039, Kattenburgerstraat&nbsp;7, Amsterdam</small></a>
 </div>
 
-Op de eerste lesdag, maandag 3 februari, komen we bijeen om 9:30 bij onze vrienden van Codam voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard en vertellen we hoe wij werken. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste dag, maandag 3 februari, komen we bijeen om 9:30 bij onze vrienden van Codam voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard en vertellen we hoe wij werken. Daarna ga je meteen aan de slag, dus neem je opgeladen laptop mee!
 
 ## Aanwezigheid
 
@@ -102,11 +102,11 @@ In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practic
 
 ### Locatie
 
-Alle lessen (behalve het introductiecollege!) vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokaal is A1.16 op de eerste verdieping.
+Alle colleges (behalve de introductie en eventuele tentamens!) vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokaal is A1.16 op de eerste verdieping.
 
 ### Tentamens
 
-Programmeren 1 en 2 hebben een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor. De precieze data worden op een later moment bekend gemaakt.
+Programmeren 1 heeft een aantal toetsjes die regelmatig worden afgenomen. Programmeren 2 heeft een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor. De precieze data worden op een later moment bekend gemaakt.
 
 ### Team
 
