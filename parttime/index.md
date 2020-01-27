@@ -100,9 +100,7 @@ Buiten deze tijden is het lokaal voor andere activiteiten gereserveerd, maar je 
 
 Daarnaast moet je een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Ook daarvoor zijn diverse opties. In principe ga je wekelijks naar dezelfde werkgroep, met de zelfde mentor, die dan ook je opdrachten nakijkt en van feedback voorziet!
 
-> **De verschillende opties voor de werkgroepen worden uiterlijk 27 januari bekend gemaakt.**
-> 
-> [Schrijf je in voor een werkgroep](https://doodle.com/poll/a2fv9vh7ic442qu2) (vul je voor- en achternaam goed in!)
+> **De verschillende opties voor de werkgroepen worden uiterlijk 27 januari bekend gemaakt. Hierover ontvang je een e-mail...**
 
 ### Opdrachten en toetsen
 
