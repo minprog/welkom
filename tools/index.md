@@ -6,7 +6,7 @@
 
 [![Ga naar Ed](ed.png) Ga naar Ed](https://us.edstem.org/courses/341)
 
-De eerste en beste manier om hulp te krijgen met je opdrachten is het insturen van een vraag op Ed. Dit platform is alleen voor studenten van de minor beschikbaar. Alle vragen zijn gegroepeerd op opdracht, zodat je snel kunt bladeren om antwoorden te vinden.
+De eerste en beste manier om hulp te krijgen met je opdrachten is het insturen van een vraag op Ed. Dit platform is voor studenten en assistenten van de minor beschikbaar. Alle vragen zijn gegroepeerd op opdracht, zodat je snel kunt bladeren om antwoorden te vinden.
 
 > *Let op! Plaats geen stukken code op Ed langer dan een paar regels! Dit in verband met het risico op plagiaat. Kom je er niet uit, maak dan een afspraak voor videohulp (zie onder).* 
 
