@@ -22,6 +22,8 @@ De drempel om een vraag te stellen kan best hoog zijn! Maar oefen er mee en het 
 
 ## Zoom: detectivewerk met assistenten
 
+![Zoom](zoom.png) (geen link)
+
 > *Deze week: zoveel mogelijk de normale tijden. Volgende week kan dit veranderen.*
 
 Regelmatig is het te lastig om een vraag via Ed te beantwoorden, omdat er bijvoorbeeld veel informatie mist of omdat er allerlei mogelijkheden zijn. Dan kun je gerust een afspraak inplannen met een studentassistent voor een gesprek via Zoom videochat. De afspraak maak je via Calendly:
