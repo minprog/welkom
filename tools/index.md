@@ -4,7 +4,7 @@
 
 ## Ed: vraag en antwoord over de opdrachten
 
-[![Ga naar Ed](ed.png) Ga naar Ed](https://us.edstem.org/)
+[![Ga naar Ed](ed.png) Ga naar Ed](https://us.edstem.org/courses/341)
 
 De eerste en beste manier om hulp te krijgen met je opdrachten is het insturen van een vraag op Ed. Dit platform is alleen voor studenten van de minor beschikbaar. Alle vragen zijn gegroepeerd op opdracht, zodat je snel kunt bladeren om antwoorden te vinden.
 
