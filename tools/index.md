@@ -2,16 +2,6 @@
 
 *Versie: 16 maart 2020*
 
-## Slack: snelle berichten tussen studenten
-
-[![Ga naar Slack](slack.png) Ga naar Slack als je de app hebt](slack://)
-
-Het is goed om een plek te hebben om snel contact te leggen. Slack is daar de perfecte tool voor: snelle interacties, mogelijkheden om snel even samen te overleggen, en je kunt zelfs een videochat starten (klik op een naam en kies "Call"). En gelukkig kun je de notifications ook uit zetten, als het te onrustig wordt.
-
-Deel op Slack gerust interessante linkjes die relevant zijn voor je studie of de situatie. Snelle vragen over de opdracht zijn natuurlijk bij uitstek goed om hier te stellen.
-
-Als het goed is heb je al een uitnodiging gehad om deel te nemen aan Slack. Mocht dat niet zo zijn: stuur gerust een mailtje. De medewerkers en assistenten zijn in de regel niet beschikbaar op Slack en reageren niet op privéberichten. Komt er een vraag uit de discussie, stuur dan een mailtje of maak een afspraak. Maar er is nog een mogelijkheid: Ed.
-
 ## Ed: vraag en antwoord over de opdrachten
 
 [![Ga naar Ed](ed.png) Ga naar Ed](https://us.edstem.org/)
@@ -19,6 +9,18 @@ Als het goed is heb je al een uitnodiging gehad om deel te nemen aan Slack. Moch
 De eerste en beste manier om hulp te krijgen met je opdrachten is het insturen van een vraag op Ed. Dit platform is alleen voor studenten van de minor beschikbaar. Alle vragen zijn gegroepeerd op opdracht, zodat je snel kunt bladeren om antwoorden te vinden.
 
 De drempel om een vraag te stellen kan best hoog zijn! Maar oefen er mee en het wordt makkelijker. We verwachten dat je ongeveer elke dag, elke twee dagen een vraag stelt. Doen dus! Het is belangrijk dat studenten elkaars vragen ook beantwoorden op Ed, net als dat gebeurt in het fysieke lokaal.
+
+Als het goed is heb je al een uitnodiging gehad om deel te nemen aan Ed. Mocht dat niet zo zijn: check je spam-box en stuur gerust een mailtje. 
+
+## Slack: snelle berichten tussen studenten
+
+[![Ga naar Slack](slack.png) Ga naar Slack als je de app hebt](slack://)
+
+Het is goed om een plek te hebben om snel contact te leggen. Slack is daar de perfecte tool voor: snelle interacties, mogelijkheden om snel even samen te overleggen, en je kunt zelfs een videochat starten (klik op een naam en kies "Call"). En gelukkig kun je de notifications ook uit zetten, als het te onrustig wordt.
+
+Slack is niet voor vragen & antwoorden! De medewerkers en assistenten zijn in de regel niet beschikbaar op Slack en reageren niet op privéberichten. Komt er een (praktische?) vraag uit de discussie, stuur dan een mailtje of maak een afspraak.
+
+Als het goed is heb je al een uitnodiging gehad om deel te nemen aan Slack. Mocht dat niet zo zijn: check je spam-box en stuur gerust een mailtje. 
 
 ## Zoom: detectivewerk met assistenten
 
@@ -45,10 +47,8 @@ Informatie over code reviews volgt later op deze pagina.
 
 ## Zoom: werkcollege
 
-Voor werkcollege krijg je een link gestuurd voor een Zoom-meeting. Je mentor zal je ontvangen op het gebruikelijke tijdstip -- ook te zien in de uitnodiging. 
+Voor werkcollege krijg je een link gestuurd voor een Zoom-meeting. Je mentor zal je ontvangen op het gebruikelijke tijdstip -- ook te zien in de uitnodiging.
 
-De verwachting is dat zoveel mogelijk mensen video gebruiken bij het werkcollege. Als je dit echt niet wil hoeft het niet.
-
-
+De verwachting is dat zoveel mogelijk mensen video gebruiken bij het werkcollege. Als je dit echt niet wilt hoeft het niet. Let op dat je tijdens het werkcollege liefst niet gestoord wordt, probeer een plek op te zoeken met Wifi en een dichte deur!
 
 
