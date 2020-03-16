@@ -8,6 +8,8 @@
 
 De eerste en beste manier om hulp te krijgen met je opdrachten is het insturen van een vraag op Ed. Dit platform is alleen voor studenten van de minor beschikbaar. Alle vragen zijn gegroepeerd op opdracht, zodat je snel kunt bladeren om antwoorden te vinden.
 
+> *Let op! Plaats geen stukken code op Ed langer dan een paar regels! Dit in verband met het risico op plagiaat. Kom je er niet uit, maak dan een afspraak voor videohulp (zie onder).* 
+
 De drempel om een vraag te stellen kan best hoog zijn! Maar oefen er mee en het wordt makkelijker. We verwachten dat je ongeveer elke dag, elke twee dagen een vraag stelt. Doen dus! Het is belangrijk dat studenten elkaars vragen ook beantwoorden op Ed, net als dat gebeurt in het fysieke lokaal.
 
 Als het goed is heb je al een uitnodiging gehad om deel te nemen aan Ed. Mocht dat niet zo zijn: check je spam-box en stuur gerust een mailtje. 
