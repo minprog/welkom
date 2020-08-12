@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: lente 2020, parttime*
+*Versie: herfst 2020, parttime*
 
 Welkom! De komende tijd gaan we hard aan de slag om jou te leren programma's te schrijven en webapplicaties te ontwerpen. We hebben er veel zin in!
 
@@ -28,7 +28,6 @@ We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse a
 
 - Voorbereiding: videocollege (van Harvard)
 - Oefening: basisboek met veel kleine haalbare "sommen"
-- Tussentoetsen: over de basisconcepten
 - Oefening: typische programmeerproblemen uitpluizen en leren herkennen
 - Werkgroep: met je medestudenten en assistent kennis maken en uitwisselen
 - Opdrachten: oefenen met probleemoplossen in uitdagende opdrachten
@@ -36,9 +35,9 @@ We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse a
 
 ### Fase 2: Verdieping en toepassingen
 
-De toepassingskant krijg je bij **Web App Studio** waar we volop de *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen te hergebruiken. Frameworks om websites te bouwen geven je een heleboel van die onderdelen cadeau. Maar toch is er elke paar jaar wel weer een nieuw platform beschikbaar om nieuwe soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe aan kunt leren.
+De toepassingskant krijg je bij **Programmeerplatform**, waar we volop de... *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen te hergebruiken. Frameworks om websites te bouwen geven je een heleboel van die onderdelen cadeau. Maar toch is er elke paar jaar wel weer een nieuw platform beschikbaar om nieuwe soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe aan kunt leren.
 
-Dan is er het **Programmeerproject**. Daar ga je een heel eigen idee voor een web app verzinnen, uitwerken, en implementeren. We begeleiden je procesmatig, maar je bent al zo ver gevorderd, dat je zelf grotendeels weet hoe je dingen moet uitzoeken die je nog niet kan, maar wel nodig hebt om je plan tot een goed einde te brengen. Natuurlijk sluiten we, vlak voor de kerst, af met een epic demonstratie van alle games, apps en visualisaties - en nodig vooral vrienden en familie uit om mee te kijken!
+Dan is er het **Programmeerproject**. Daar ga je een heel eigen idee voor een web app verzinnen, uitwerken, en implementeren. We begeleiden je procesmatig, maar je bent al zo ver gevorderd, dat je zelf grotendeels weet hoe je dingen moet uitzoeken die je nog niet kan, maar wel nodig hebt om je plan tot een goed einde te brengen. Natuurlijk sluiten we, vlak voor de kerst, af met een epic demonstratie van alle games, apps en visualisaties!
 
 ### Fase 3: Project
 
@@ -50,73 +49,53 @@ Hier proberen we een overzicht te geven van de belangrijkste verwachtingen die w
 
 ### Wat we van jou verwachten
 
-Je hebt géén voorkennis nodig. Er zijn altijd studenten die al eens geprogrammeerd hebben, en die hebben het in het begin natuurlijk iets makkelijker, maar ons programma is ingericht op volledig onervaren studenten.
+Je hebt géén voorkennis nodig. Er zijn altijd studenten die al eens geprogrammeerd hebben, en die hebben het in het begin natuurlijk iets makkelijker, maar ons programma is ingericht op volledig onervaren studenten, en die krijgen verreweg de meeste aandacht.
 
 Je belangrijkste activiteit is héél veel programmeren, en we verwachten dus ook dat je dit doet. Leren programmeren kost heel veel tijd, en je zult waarschijnlijk meer uren maken dan je gewend bent van andere vakken. Maar zonder deze oefening kom je niet vooruit!
 
-Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je een behoorlijk aantal uren bij ons aanwezig bent, zodat je hulp kunt krijgen van onze assistenten zodra het nodig is. Zie onder hoe dit werkt.
+Om de frustratie te beperken, en om te kunnen zien dat jij je eigen werk doet, willen we dat je samenwerkt met studenten uit je mentorgroep. Daarnaast is het belangrijk om regelmatig vragen te stellen, via ons online forum of via videoverbinding met een assistent.
 
 Nu je toch zoveel aanwezig bent, vinden we het ook heel belangrijk dat je openstaat voor vragen van je medestudenten en zelf regelmatig de mensen om je heen om hulp vraagt. Natuurlijk is het niet de bedoeling om elkaar de hele opdracht voor te zeggen, maar als je veel discussieert over de opdracht en je ideeën voor oplossingen, dan help je elkaar enorm verder!
 
-We vragen van jou een actieve bemoeienis met je eigen voortgang. Zorg dat je goed bijhoudt waar je staat en wat je nog moet doen, en neem bij vragen en problemen meteen contact op. De docenten bereik je via <help@mprog.nl>.
+We vragen van jou een actieve bemoeienis met je eigen voortgang. Zorg dat je goed bijhoudt waar je staat en wat je nog moet doen, en neem bij vragen en problemen meteen contact op. Je mentor is je eerste aanspreekpunt, en de docenten bereik je via <help@mprog.nl>.
 
 Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle mededelingen op de websites én alle mededelingen in je e-mail goed bijhoudt. Dat je dit document aan het lezen bent is al een goed begin!
 
 ### Wat je van ons mag verwachten
 
-Omdat we vragen dat jij aanwezig bent, willen we ook dat dat zin heeft. Natuurlijk is het essentieel dat je met je medestudenten discussieert en overlegt over de opdrachten en de stof, maar je mag ook verwachten dat wij regelmatig aanwezig zijn en je terzijde staan. Kun je ons niet vinden? Stuur een mail!
+Omdat we vragen dat jij veel met het vak bezig bent, willen we ook dat dat zin heeft. Natuurlijk is het essentieel dat je met je medestudenten discussieert en overlegt over de opdrachten en de stof, maar je mag ook verwachten dat wij regelmatig beschikbaar zijn en je terzijde staan. Kun je ons niet vinden? Stuur een mail!
 
-We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom is er voor jou een tutor, die bijhoudt hoe het met je gaat, je opdrachten nakijkt en werkgroepen organiseert. Deze tutor houdt bij hoe het met je gaat en kan je op extra studiematerialen wijzen.
+We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom is er voor jou een mentor, die bijhoudt hoe het met je gaat, je opdrachten nakijkt en werkgroepen organiseert. Daarnaast zijn er enkele zeer ervaren assistenten en docenten, die je bijstaan op het moment dat je er echt even niet meer uitkomt.
 
 Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg feedback krijgt. We kijken je werk elke week na en geven je dan ideeën om het beter te doen. Krijg je niet genoeg feedback, of wil je meer horen over een specifiek onderwerp? Gewoon vragen!
 
 ## Praktische zaken
 
-<div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
-<img src="../fnwi.jpg" style="max-width:150px;"><br><small>Faculteit der Natuurwetenschappen, Wiskunde en Informatica, Science Park 904, Amsterdam</small>
-</div>
+### E-mail
 
-### Locatie
-
-Alle bijeenkomsten, met als mogelijke uitzondering de tentamens, vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904.
+Wij sturen veel mededelingen per e-mail rond. Als je een adres van Hotmail/Outlook hebt, dan is de kans heel groot dat sommige van de mededelingen in je SPAM terecht komen. Je moet er zelf voor zorgdragen dat je deze e-mails niet mist. De beste remedie is om de mails consequent als "niet spam" te markeren. De ervaring leert dat Outlook hier na een tijdje naar luistert.
 
 ### Roosters
 
-Je moet 6 uur per week bij het practicum aanwezig zijn. Er is aardig wat keuze; je kunt dan zelf kiezen wanneer je komt.
-
-**Openingstijden programmeerlab (parttime, lokaal A1.22)**
-
-- maandag 9--13 uur
-- dinsdag 9--13 uur
-- woensdag 9--13 uur
-- donderdag 9--13 uur
-- vrijdag 9--13 uur
-
-Je hoeft geen plek te reserveren, je kunt gewoon komen! En spreek de betreffende docent/assistent even aan als je voor het eerst komt; het is belangrijk kennis te maken.
-
-Buiten deze tijden is het lokaal voor andere activiteiten gereserveerd, maar je kunt voor de deur wel een plekje claimen. Binnen de tijden moet je voor hulp wel in het lokaal zitten, en niet erbuiten.
-
-**Werkgroepen**
+Je moet zelf een goed werkschema vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarnaast heb je altijd toegang tot ons forum, waar medestudenten en assistenten je vragen kunnen beantwoorden. Bovendien is er dagelijks tussen 13 en 17 uur hulp beschikbaar via video, voor de vragen die je niet zo makkelijk op het forum kunt stellen.
 
 Daarnaast moet je een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Ook daarvoor zijn diverse opties. In principe ga je wekelijks naar dezelfde werkgroep, met de zelfde mentor, die dan ook je opdrachten nakijkt en van feedback voorziet!
 
-> **De verschillende opties voor de werkgroepen worden uiterlijk 27 januari bekend gemaakt. Hierover ontvang je een e-mail...**
+### Tools
 
-### Opdrachten en toetsen
+Voor het programmeren en communiceren gebruiken we een heleboel verschillende tools, waarmee je in de eerste weken kennis maakt. Voor de eerste dag hoef je niks te regelen, als je maar naar het videocollege komt. Je krijgt nog een link per e-mail.
 
-Om de vakken Programmeren 1 en 2 goed te volbrengen moet je:
+### Webcams
 
-- wekelijkse opdrachten maken, waar je soms wat kan schuiven met de deadline (er is een coulante regeling voor puntenaftrek bij later inleveren)
+Het gebruik van een webcam is verplicht tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten). Alleen zo kunnen we een sfeer verkrijgen waarmee we met z'n allen 5 maanden online onderwijs kunnen doorkomen. Zorg dus dat je een omgeving voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit onmogelijk voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of het voor jou mogelijk is om regelmatig op de universiteit te werken.
 
-- wekelijkse toetsjes doen, die je kunt (en moet) herkansen tot je ze haalt --- op zelf ingeplande momenten --- en deze toetsjes dienen dan ook als het tentamen voor Programmeren 1
+### Tentamens
 
-- bij Programmeren 2 mogelijk enkele toetsjes doen, en dan nog een tentamen op de vooraf geplande tentamendatum
-
-Je moet vóór de eerste tentamendatum alle opdrachten volledig afhebben, en natuurlijk ook de tentamens halen. Dan heb je een vak gehaald en mag je door naar het volgende. Als je voldoende tijd in het vak steekt (ruim 20 uur per week) en proactief hulp zoekt dan gaat het prima lukken om de vakken de geplande tijd te volbrengen.
+Programmeren 1 en Programmeren 2 hebben (mogelijk) een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor. De precieze data worden op een later moment bekend gemaakt. Alle andere vakken hebben sowieso geen tentamen.
 
 ### Team
 
-Verdeeld over de vakken zijn er vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen). In het begin zijn we herkenbaar aan een t-shirt of een naamplaatje. Op onze [website](https://www.mprog.nl/team) staan binnenkort weer up-to-date foto's van alle medewerkers!
+Jouw vaste aanspreekpunt is je mentor. Daarnaast zijn er verdeeld over de vakken vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen). Op onze [website](https://www.proglab.nl/) staan enkele foto's van alle medewerkers!
 
 ### Website
 
@@ -128,9 +107,7 @@ Sommige studenten willen zich graag voorbereiden voor de minor, maar dat is niet
 
 ### Benodigdheden
 
-1.  Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is soms ook wel goed, maar voor latere vakken misschien niet meer). Mac, Windows of Linux maakt niet uit. Zelfs een Chromebook kan al genoeg zijn voor Programmeren 1 en 2. Dat je wifi werkt is wel een grote vereiste! Heb je problemen met het instellen van je draadloos internet? Loop dan alvast een keer langs bij de bibliotheekbalie op de eerste verdieping van ons gebouw.
-
-    <!-- Wil je een goede korting op een Mac? Gebruik dan [deze link](http://www.apple.com/nl_edu_124399/shop) van Surfspot. In de zomer is er altijd een actie waarmee je niet alleen korting krijgt maar ook nog een gratis headphone en/of een tegoedbon. Macs zijn echter duur, dus voel je vrij om een stuk minder geld uit te geven! -->
+1.  Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is soms ook wel goed, maar voor latere vakken misschien niet meer). Mac, Windows of Linux maakt niet uit.
 
 2.  Je hoeft geen software op je laptop te installeren voor de start van de minor. Een webbrowser is voldoende.
 
@@ -142,11 +119,11 @@ Wil je toch nog aanpassingen doen in het minorprogramma waarvoor je bent ingesch
 
 ### Administratie
 
-Heb je vragen over de administratie van cijfers? Neem dan contact op met de servicedesk van onze faculteit via (020) 525 7100 of stuur een mail. Je kunt ook gewoon even langsgaan: de balie bevindt zich op de eerste verdieping van ons gebouw en is elke werkdag open tussen 9 en 17 uur.
-
 Mocht je vragen hebben over je inschrijving bij de UvA (bijvoorbeeld als bijvakker), neem dan contact op met de Student Service Desk, Roetersstraat 11, telefoon (020) 525 8080.
 
 Voor bijvakkers: heb je je inschrijving helemaal geregeld, maar staat op Studielink niet dat je volledig ingeschreven bent bij de UvA? Stuur dan een screenshot van de status op Studielink naar <help@mprog.nl> en wij kijken wat we kunnen doen.
+
+Heb je na het volgen van de minor vragen over de administratie van cijfers? Neem dan contact op met de servicedesk van onze faculteit via (020) 525 7100 of stuur een [mail](servicedesk-esc-science@uva.nl).
 
 ## FAQ
 
@@ -164,6 +141,6 @@ Meld je eventuele calamiteiten pas naderhand? Dan is de kans groot dat je het va
 
 ### Opdrachten
 
-Mag je opdrachten overslaan? Nee, om de vakken te halen moet je alle opdrachten en toetsen volledig en succesvol hebben afgerond. In de studiewijzer van elk vak staat welke opdrachten en toetsen dat zijn. Bespreek je plannen vooral gewoon met je tutor, die je daarover kan adviseren.
+Mag je opdrachten overslaan? Nee, om de vakken te halen moet je alle opdrachten en toetsen volledig en succesvol hebben afgerond. In de studiewijzer van elk vak staat welke opdrachten en toetsen dat zijn. Bespreek je plannen vooral gewoon met je mentor, die je daarover kan adviseren.
 
 <small>Copyright 2015–2020 Martijn Stegeman. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>

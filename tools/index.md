@@ -52,5 +52,3 @@ Informatie over code reviews volgt later op deze pagina.
 Voor werkcollege krijg je een link gestuurd voor een Zoom-meeting. Je mentor zal je ontvangen op het gebruikelijke tijdstip -- ook te zien in de uitnodiging.
 
 De verwachting is dat zoveel mogelijk mensen video gebruiken bij het werkcollege. Als je dit echt niet wilt hoeft het niet. Let op dat je tijdens het werkcollege liefst niet gestoord wordt, probeer een plek op te zoeken met Wifi en een dichte deur!
-
-
