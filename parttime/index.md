@@ -133,7 +133,7 @@ Heb je nog een vraag? Stuur ons een e-mail. Binnenkort verschijnen hier dan meer
 
 ### Afwezigheid
 
-Is het mogelijk afwezig te zijn bij een werkgroep, practicum e.d.? Ja, maar alleen als je dit van te voren meldt en je in de regel aanwezig blijft. Stuur dus een mail naar de docenten op <help@mprog.nl> en doe een voorstel.
+Is het mogelijk afwezig te zijn bij een werkgroep, practicum e.d.? Ja, maar alleen als je dit van te voren meldt en je in de regel aanwezig blijft. Je regelt dit met je mentor, die er een notitie van maakt. Het heeft geen zin om nu al een e-mail te sturen om afwezigheid te melden.
 
 ### Ziekte
 

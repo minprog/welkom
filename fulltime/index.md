@@ -103,7 +103,7 @@ Voor het programmeren en communiceren gebruiken we een heleboel verschillende to
 
 ### Webcams
 
-Het gebruik van een webcam is verplicht tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten). Alleen zo bouwen we een goede omgeving op waarin langdurig online onderwijs voor iedereen haalbaar blijft. Zorg dus dat je een werkplek voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit onmogelijk voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of het voor jou mogelijk is om regelmatig op de universiteit te werken.
+Het gebruik van een webcam is verplicht tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten). Alleen zo bouwen we een goede omgeving op waarin langdurig online onderwijs voor iedereen haalbaar blijft. Zorg dus dat je een werkplek voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit onmogelijk voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of het voor jou mogelijk is om regelmatig op de universiteit te werken (mits je in de buurt woont).
 
 ### Tentamens
 
@@ -147,7 +147,7 @@ Heb je nog een vraag? Stuur ons een e-mail. Binnenkort verschijnen hier dan meer
 
 ### Afwezigheid
 
-Is het mogelijk afwezig te zijn bij een werkcollege, practicum e.d.? Ja, maar heel beperkt (enkele dagen maximaal per semester) en alleen als je dit van te voren meldt en vooruit werkt. Je regelt dit met je mentor, die er een notitie van maakt.
+Is het mogelijk afwezig te zijn bij een werkcollege, practicum e.d.? Ja, maar heel beperkt (enkele dagen maximaal per semester) en alleen als je dit van te voren meldt en vooruit werkt. Je regelt dit met je mentor, die er een notitie van maakt. Het heeft geen zin om nu al een e-mail te sturen om afwezigheid te melden.
 
 ### Ziekte
 
