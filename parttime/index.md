@@ -4,7 +4,7 @@
 
 Welkom! De komende tijd gaan we hard aan de slag om jou te leren programma's te schrijven en webapplicaties te ontwerpen. We hebben er veel zin in!
 
-> **De vakken van de minor zullen in het komende semester geheel online zijn.**
+> **De vakken van de minor zullen in het komende semester geheel online zijn.** Dat betekent dat alle interacties met je mentor, je medestudenten en docenten via een videoverbinding of andere tools plaatsvinden.
 
 In dit document vind je praktische informatie over de minor en over regels die wij belangrijk vinden. Let op: het gaat er bij ons soms nogal anders aan toe dan bij andere opleidingen.
 

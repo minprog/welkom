@@ -22,6 +22,8 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 Op de eerste dag, maandag 31 augustus, komen we online bijeen om 9:30 voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens dit college tonen we de eerste fragmenten uit de colleges van Harvard en vertellen we hoe wij werken. Daarna ga je meteen aan de slag, dus zorg dat je computer er helemaal klaar voor is!
 
+Een linkje voor de online bijeenkomst ontvang je enkele dagen van tevoren per e-mail.
+
 ## Aanwezigheid
 
 **De minor zal in het komende semester geheel online zijn.** Dat betekent dat alle interacties met je mentor, je medestudenten en docenten via een videoverbinding of andere tools plaatsvinden.
@@ -101,7 +103,7 @@ Voor het programmeren en communiceren gebruiken we een heleboel verschillende to
 
 ### Webcams
 
-Het gebruik van een webcam is verplicht tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten). Alleen zo kunnen we een sfeer verkrijgen waarmee we met z'n allen 5 maanden online onderwijs kunnen doorkomen. Zorg dus dat je een omgeving voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit onmogelijk voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of het voor jou mogelijk is om regelmatig op de universiteit te werken.
+Het gebruik van een webcam is verplicht tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten). Alleen zo bouwen we een goede omgeving op waarin langdurig online onderwijs voor iedereen haalbaar blijft. Zorg dus dat je een werkplek voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit onmogelijk voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of het voor jou mogelijk is om regelmatig op de universiteit te werken.
 
 ### Tentamens
 
