@@ -20,7 +20,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 ## Introductie
 
-Op de eerste dag, maandag 31 augustus, komen we **online** bijeen om 9:30 voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens dit college tonen we de eerste fragmenten uit de colleges van Harvard en vertellen we hoe wij werken. Daarna ga je meteen aan de slag, dus zorg dat je een werkplek hebt en dat je laptop klaarstaat!
+Op de eerste dag, maandag 31 augustus, komen we **online** bijeen om 9:00 voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens dit college tonen we de eerste fragmenten uit de colleges van Harvard en vertellen we hoe wij werken. Daarna ga je meteen aan de slag, dus zorg dat je een werkplek hebt en dat je laptop klaarstaat!
 
 ⚠︎ Een linkje voor de online-bijeenkomst ontvang je enkele dagen van tevoren per e-mail.
 
