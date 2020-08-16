@@ -4,7 +4,7 @@
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig een website op te zetten en te bouwen, bijvoorbeeld met datavisualisaties voor je onderzoek, of een informatieve website voor je eigen bedrijf of onderzoeksgroep. Of misschien een webshop, waar je zelfgemaakte producten gaat verkopen, of misschien wel een website voor het verzamelen van onderzoeksgegevens onder grote groepen deelnemers. Het kan van alles zijn. We hebben er veel zin in!
 
-Dit semester zal **geheel online** zijn. Dat betekent dat alle interacties met je mentor, je medestudenten en docenten via een videoverbinding of andere tools plaatsvinden. De minor lijkt verder gewoon erg op wat we altijd al aanboden: veel videocolleges, veel zelfwerkzaamheid, en een enorme hoeveelheid studentassistenten om alles in goede banen te leiden. Verschil is dat we niet meer aanwezig kunnen zijn in ons lab, en dat de mentorgroepen kleiner zijn, zodat je een team hebt dat je goed kunt leren kennen.
+Dit semester zal **geheel online** zijn. Dat betekent dat alle interacties met je mentor, je medestudenten en docenten via een videoverbinding of andere tools plaatsvinden. De minor lijkt verder gewoon erg op wat we altijd al aanboden: veel videocolleges, veel zelfwerkzaamheid, en een enorme hoeveelheid studentassistenten om alles in goede banen te leiden. Verschil is dat we niet meer aanwezig kunnen zijn in ons lab, en dat de mentorgroepen kleiner zijn, zodat je een clubje medestudenten hebt dat je goed kunt leren kennen.
 
 In dit document vind je praktische informatie over de minor en over regels die wij belangrijk vinden. Let op: het gaat er bij ons soms nogal anders aan toe dan bij andere opleidingen.
 
@@ -92,7 +92,7 @@ Wij sturen veel mededelingen per e-mail rond. Als je een adres van Hotmail/Outlo
 
 ### Roosters
 
-In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. Daarnaast zijn er diverse activiteiten per groep, die meestal niet in het rooster staan. Check dus vooral de studiewijzer per vak en hou mededelingen in de gaten.
+In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. 's Ochtends zijn er activiteiten met je team en 's middags is er altijd mogelijkheid om assistentie te krijgen. De grote deadlines vallen meestal op donderdag maar zullen je de hele week flink bezig houden. Daarnaast zijn er diverse activiteiten per groep, die meestal niet in het rooster staan. Check dus vooral de studiewijzer per vak en hou mededelingen in de gaten.
 
 ### Tools
 
