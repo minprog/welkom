@@ -4,7 +4,7 @@
 
 Welkom! De komende tijd gaan we hard aan de slag om jou te leren programma's te schrijven en webapplicaties te ontwerpen. We hebben er veel zin in!
 
-> **De vakken van de minor zullen in het komende semester geheel online zijn.** Dat betekent dat alle interacties met je mentor, je medestudenten en docenten via een videoverbinding of andere tools plaatsvinden.
+Dit semester zal **geheel online** zijn. Dat betekent dat alle interacties met je mentor, je medestudenten en docenten via een videoverbinding of andere tools plaatsvinden. De minor lijkt verder erg op wat we een jaar geleden aanboden: veel videocolleges, veel zelfwerkzaamheid, en een enorme hoeveelheid studentassistenten om alles in goede banen te leiden. Verschil is dat we niet meer aanwezig kunnen zijn in ons lab, en dat de mentorgroepen kleiner zijn, zodat je een team hebt dat je goed kunt leren kennen.
 
 In dit document vind je praktische informatie over de minor en over regels die wij belangrijk vinden. Let op: het gaat er bij ons soms nogal anders aan toe dan bij andere opleidingen.
 
@@ -16,7 +16,7 @@ Wat kun je verwachten komende tijd? Heel veel zelf programmeren, dat staat op nu
 
 We hopen jullie allemaal te spreken in de eerste weken van de minor, maar mocht je nu al even iets willen toelichten stuur dan gerust een mailtje naar <help@mprog.nl>. We nemen dan snel contact met je op.
 
-> **Geen paniek!** In de komende tijd zul je merken dat bij de minor studenten rondlopen met méér en met minder ervaring. Dat is heel mooi, want dan kunnen we van elkaar leren, en bovendien hebben we opdrachten op niveau voor elk van deze studenten. Maar voel je niet geïntimideerd, dat is veel belangrijker. Iedereen komt hier om iets te leren, en je gaat heel ver komen, verder dan je misschien zou denken.
+> **Geen paniek!** In de komende tijd zul je merken dat bij de minor studenten rondlopen met méér en met minder ervaring. Dat is heel mooi, want dan kunnen we van elkaar leren, en bovendien hebben we opdrachten op niveau voor elk van deze studenten. Maar voel je niet geïntimideerd, dat is veel belangrijker. Iedereen komt hier om iets te leren, en je gaat heel ver komen, verder dan je misschien zou denken. Daarnaast is de aandacht van de staf vol gericht op studenten die nog geen ervaring hebben. Dat zijn onze belangrijkste studenten, die nog veel te leren hebben.
 
 ## Wat ga je doen?
 
@@ -33,7 +33,6 @@ We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse a
 - Oefening: typische programmeerproblemen uitpluizen en leren herkennen
 - Werkgroep: met je medestudenten en assistent kennis maken en uitwisselen
 - Opdrachten: oefenen met probleemoplossen in uitdagende opdrachten
-- Tentamen: gemengde vragen over de verschillende onderdelen
 
 ### Fase 2: Verdieping en toepassingen
 
@@ -67,7 +66,7 @@ Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle me
 
 Omdat we vragen dat jij veel met het vak bezig bent, willen we ook dat dat zin heeft. Natuurlijk is het essentieel dat je met je medestudenten discussieert en overlegt over de opdrachten en de stof, maar je mag ook verwachten dat wij regelmatig beschikbaar zijn en je terzijde staan. Kun je ons niet vinden? Stuur een mail!
 
-We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom is er voor jou een mentor, die bijhoudt hoe het met je gaat, je opdrachten nakijkt en werkgroepen organiseert. Daarnaast zijn er enkele zeer ervaren assistenten en docenten, die je bijstaan op het moment dat je er echt even niet meer uitkomt.
+We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Daarom is er voor jou een mentor, die bijhoudt hoe het met je gaat, je opdrachten nakijkt en werkgroepen organiseert. Daarnaast zijn er zeer ervaren assistenten en docenten, die je bijstaan op het moment dat je er echt even niet meer uitkomt.
 
 Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg feedback krijgt. We kijken je werk elke week na en geven je dan ideeën om het beter te doen. Krijg je niet genoeg feedback, of wil je meer horen over een specifiek onderwerp? Gewoon vragen!
 
@@ -89,15 +88,15 @@ Voor het programmeren en communiceren gebruiken we een heleboel verschillende to
 
 ### Webcams
 
-Het gebruik van een webcam is verplicht tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten). Alleen zo kunnen we een sfeer verkrijgen waarmee we met z'n allen 5 maanden online onderwijs kunnen doorkomen. Zorg dus dat je een omgeving voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit onmogelijk voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of het voor jou mogelijk is om regelmatig op de universiteit te werken.
+Het gebruik van een webcam is verplicht tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten). Alleen zo kunnen we een prettige omgeving bouwen voor online onderwijs. Zorg dus dat je een werkplek voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit niet te doen voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of we voor jou een oplossing kunnen verzinnen.
 
 ### Tentamens
 
-Programmeren 1 en Programmeren 2 hebben (mogelijk) een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor. De precieze data worden op een later moment bekend gemaakt. Alle andere vakken hebben sowieso geen tentamen.
+Op dit moment zijn er geen tentamens ingepland omdat het te lastig is deze op de universiteit te organiseren. Mocht dit echt nog nodig zijn dan laten we het minimaal 30 dagen van tevoren weten. Na de introductievakken zijn er sowieso geen tentamens meer, omdat in de tweede helft van de minor wordt gewerkt met grote zelfontworpen programmeeropdrachten.
 
 ### Team
 
-Jouw vaste aanspreekpunt is je mentor. Daarnaast zijn er verdeeld over de vakken vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen). Op onze [website](https://www.proglab.nl/) staan enkele foto's van alle medewerkers!
+Jouw vaste aanspreekpunt is je mentor. Daarnaast zijn er vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen).
 
 ### Website
 
@@ -133,16 +132,13 @@ Heb je nog een vraag? Stuur ons een e-mail. Binnenkort verschijnen hier dan meer
 
 ### Afwezigheid
 
-Is het mogelijk afwezig te zijn bij een werkgroep, practicum e.d.? Ja, maar alleen als je dit van te voren meldt en je in de regel aanwezig blijft. Je regelt dit met je mentor, die er een notitie van maakt. Het heeft geen zin om nu al een e-mail te sturen om afwezigheid te melden.
+Het is zeker dit semester essentieel om rekening te houden met een paar dagen ziek zijn, dus om andere redenen een dag niet meedoen is niet de bedoeling. Is het toch noodzakelijk, dan bespreek je dit met je mentor, die er een notitie van maakt (stuur dus nu nog geen bericht hierover, omdat nog niet bekend is wie je mentor zal zijn). Daarbij maak je minimaal de afspraak dat je vooruit gaat werken, en niet achteraf inhalen.
 
 ### Ziekte
 
 Ben je ziek geweest? Dan helpen we je graag weer op de rails! Het is dan belangrijk dat je het direct meldt en ons op de hoogte houdt. Misschien moet je je planning aanpassen.
 
-Meld je eventuele calamiteiten pas naderhand? Dan is de kans groot dat je het vak op een ander moment weer moet opstarten. Dat is geen probleem, maar betekent waarschijnlijk dat je je vakken later zult afronden dan gepland.
+Meld je eventuele calamiteiten pas naderhand, ben je een tijd onbereikbaar? Dan wordt het steeds lastiger om nog een oplossing te vinden. We willen heel graag meedenken, dus geef ons zeker die kans. We doen het graag.
 
-### Opdrachten
-
-Mag je opdrachten overslaan? Nee, om de vakken te halen moet je alle opdrachten en toetsen volledig en succesvol hebben afgerond. In de studiewijzer van elk vak staat welke opdrachten en toetsen dat zijn. Bespreek je plannen vooral gewoon met je mentor, die je daarover kan adviseren.
 
 <small>Copyright 2015–2020 Martijn Stegeman. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>

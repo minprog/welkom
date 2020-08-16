@@ -1,2 +1,10 @@
 theme: jekyll-theme-minimal
 title: Minor Programmeren
+plugins:
+  - jekyll-optional-front-matter
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
