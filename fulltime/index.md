@@ -100,7 +100,7 @@ Op dit moment zijn er geen tentamens ingepland omdat het te lastig is deze op de
 
 Voor het programmeren en communiceren gebruiken we een heleboel verschillende tools, waarmee je in de eerste weken kennis maakt. Voor de eerste dag hoef je niks te regelen, als je maar naar het videocollege komt. Je krijgt nog een link per e-mail.
 
-### Webcams
+### Webcams en werkplek
 
 Het gebruik van een webcam is verplicht tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten). Alleen zo kunnen we een prettige omgeving bouwen voor online onderwijs. Zorg dus dat je een werkplek voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit niet te doen voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of we voor jou een oplossing kunnen verzinnen.
 
