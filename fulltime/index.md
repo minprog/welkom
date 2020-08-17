@@ -26,7 +26,7 @@ Op de eerste dag, maandag 31 augustus, komen we **online** bijeen om 9:00 voor h
 
 ## Aanwezigheid
 
-Zelfs met online onderwijs hebben we een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent **elke werkdag** tussen 9:00 en 17:00 uur bezig met programmeren. Dit geldt voor het hele semester, dus t/m vrijdag 29 januari. Op die laatste dag zijn bovendien de eindpresentaties!
+Zelfs met online onderwijs hebben we een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent **elke werkdag** tussen 9:00 en 17:00 uur bezig met programmeren. Dit geldt voor het hele semester, dus t/m vrijdag 29 januari. Plan dus geen vakantie tijdens de normale werkweken.
 
 Natuurlijk is er gewoon ruimte voor een keer een trouwerij of doktersbezoek, maar niet gegarandeerd voor tentamens van andere vakken (we kunnen daar niet altijd omheen plannen). Kun je de aanwezigheid zoals hier benoemd niet volbrengen? Dan moet je switchen naar de parttime-minor! Neem dan nu al contact op met <help@mprog.nl>.
 
@@ -94,6 +94,8 @@ Wij sturen veel mededelingen per e-mail rond. Als je een adres van Hotmail/Outlo
 
 In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. 's Ochtends zijn er activiteiten met je team en 's middags is er altijd mogelijkheid om assistentie te krijgen. De grote deadlines vallen meestal op donderdag maar zullen je de hele week flink bezig houden. Daarnaast zijn er diverse activiteiten per groep, die meestal niet in het rooster staan. Check dus vooral de studiewijzer per vak en hou mededelingen in de gaten.
 
+Op dit moment zijn er geen tentamens ingepland omdat het te lastig is deze op de universiteit te organiseren. Mocht dit echt nog nodig zijn dan laten we het minimaal 30 dagen van tevoren weten. Vanaf half november zijn er sowieso geen tentamens meer, omdat in de tweede helft van de minor wordt gewerkt met grote zelfontworpen programmeeropdrachten.
+
 ### Tools
 
 Voor het programmeren en communiceren gebruiken we een heleboel verschillende tools, waarmee je in de eerste weken kennis maakt. Voor de eerste dag hoef je niks te regelen, als je maar naar het videocollege komt. Je krijgt nog een link per e-mail.
@@ -102,21 +104,13 @@ Voor het programmeren en communiceren gebruiken we een heleboel verschillende to
 
 Het gebruik van een webcam is verplicht tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten). Alleen zo kunnen we een prettige omgeving bouwen voor online onderwijs. Zorg dus dat je een werkplek voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit niet te doen voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of we voor jou een oplossing kunnen verzinnen.
 
-### Tentamens
+### Medewerkers
 
-Op dit moment zijn er geen tentamens ingepland omdat het te lastig is deze op de universiteit te organiseren. Mocht dit echt nog nodig zijn dan laten we het minimaal 30 dagen van tevoren weten. Vanaf half november zijn er sowieso geen tentamens meer, omdat in de tweede helft van de minor wordt gewerkt met grote zelfontworpen programmeeropdrachten.
-
-### Team
-
-Jouw vaste aanspreekpunt is je mentor. Daarnaast zijn er vele docenten en assistenten die hoorcollege en werkcollege geven, die je begeleiden in het lab of die je opdrachten nakijken. Probeer ons te leren kennen (wij proberen ook jou te leren kennen).
+Jouw vaste aanspreekpunt is je mentor. Daarnaast zijn er vele docenten en assistenten die hoorcollege en werkcollege geven, die je vragen beantwoorden, je begeleiden, of die je opdrachten nakijken. We zijn er allemaal op gefocust om iedereen verder te helpen bij het leren. Geef het dus aan als je vastzit! Lukt het niet om de juiste hulp te vinden, mail dan gerust naar de docenten via <help@mprog.nl>.
 
 ### Website
 
-Alle cursusmaterialen zullen via een website beschikbaar worden gesteld; bij aanvang van de cursus krijg je een linkje! Er zal géén gebruik worden gemaakt van Blackboard of Canvas, dus het heeft ook geen zin om onze cursussen in die omgeving op te zoeken.
-
-### Voorbereiding
-
-Sommige studenten willen zich graag voorbereiden voor de minor, maar dat is niet de bedoeling. Wij gaan er vanuit dat je zonder ervaring binnenkomt en je laat "meevoeren" door onze videocolleges, opdrachten en toetsjes. Een leuke manier om toch nog wat te doen, is het lezen van het essay "What is code," zoals bovenaan deze pagina gelinkt. Dit is een algemene inleiding in allerlei aspecten van het programmeren en software bouwen in bedrijven.
+Alle cursusmaterialen zullen via een website beschikbaar worden gesteld; bij aanvang van de cursus krijg je een linkje per mail! Er zal géén gebruik worden gemaakt van Blackboard of Canvas en onze cursussen zijn daar dan ook helemaal niet te vinden.
 
 ### Benodigdheden
 
@@ -138,17 +132,17 @@ Voor bijvakkers: heb je je inschrijving helemaal geregeld, maar staat op Studiel
 
 Heb je na het volgen van de minor vragen over de administratie van cijfers? Neem dan contact op met de servicedesk van onze faculteit via (020) 525 7100 of stuur een [mail](servicedesk-esc-science@uva.nl).
 
-## FAQ
+### Voorbereiding
 
-Heb je nog een vraag? Stuur ons een e-mail. Binnenkort verschijnen hier dan meer vragen en antwoorden zoals die gesteld zijn.
+Sommige studenten willen zich graag voorbereiden voor de minor, maar dat is niet de bedoeling! Wij gaan er vanuit dat je zonder ervaring binnenkomt en je laat "meevoeren" door onze videocolleges, opdrachten en toetsjes. Een leuke manier om toch nog wat te doen voordat we van start gaan, is het lezen van het essay "What is code," zoals bovenaan deze pagina gelinkt. Uit dit artikel kun je een indruk krijgen van allerlei verschillende aspecten van het programmeren.
 
 ### Groepsindeling
 
-De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van bepaalde opleidingen. Daarnaast vinden we het belangrijk dat de mentorgroepen inclusief zijn, met toenadering en samenwerking tussen alle deelnemers, dus delen we over het algemeen groepjes studenten niet bij elkaar in. Tijd om wat nieuwe contacten op te doen!
+De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van bepaalde opleidingen. Daarnaast vinden we het belangrijk dat de mentorgroepen inclusief zijn, met toenadering en samenwerking tussen alle deelnemers, dus we zijn zeer terughoudend met het bij elkaar indelen van groepen studenten die al gewend zijn intens met elkaar samen te werken.
 
 ### Afwezigheid
 
-Het is zeker dit semester essentieel om rekening te houden met een paar dagen ziek zijn, dus om andere redenen een dag niet meedoen is niet de bedoeling. Is het toch noodzakelijk, dan bespreek je dit met je mentor, die er een notitie van maakt (stuur dus nu nog geen bericht hierover, omdat nog niet bekend is wie je mentor zal zijn). Daarbij maak je minimaal de afspraak dat je vooruit gaat werken, en niet achteraf inhalen.
+Het is zeker dit semester essentieel om rekening te houden met een paar dagen ziek zijn, dus om andere redenen een dag niet meedoen is over het algemeen niet de bedoeling. Is het toch noodzakelijk, dan bespreek je dit met je mentor, die het bespreekt met de docenten (stuur dus nu nog geen bericht hierover, omdat nog niet bekend is wie je mentor zal zijn). Daarbij maak je minimaal de afspraak dat je vooruit gaat werken zodat je je aan de deadlines houdt.
 
 ### Ziekte
 
