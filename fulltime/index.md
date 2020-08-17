@@ -138,7 +138,7 @@ Sommige studenten willen zich graag voorbereiden voor de minor, maar dat is niet
 
 ### Groepsindeling
 
-De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van bepaalde opleidingen. Daarnaast vinden we het belangrijk dat de mentorgroepen inclusief zijn, met toenadering en samenwerking tussen alle deelnemers, dus we zijn zeer terughoudend met het bij elkaar indelen van groepen studenten die al gewend zijn intens met elkaar samen te werken.
+De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van bepaalde opleidingen. Daarnaast vinden we het belangrijk dat de mentorgroepen inclusief zijn, met toenadering en afwisselende samenwerking tussen alle deelnemers, dus we zijn zeer terughoudend met het bij elkaar indelen van groepen studenten die al gewend zijn intens met elkaar samen te werken.
 
 ### Afwezigheid
 
