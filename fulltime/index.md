@@ -6,6 +6,8 @@ De komende maanden gaan we hard aan de slag om jou te leren zelfstandig een webs
 
 Dit semester zal **geheel online** zijn. Dat betekent dat alle interacties met je mentor, je medestudenten en docenten via een videoverbinding of andere tools plaatsvinden. De minor lijkt verder gewoon erg op wat we altijd al aanboden: veel videocolleges, veel zelfwerkzaamheid, en een enorme hoeveelheid studentassistenten om alles in goede banen te leiden. Verschil is dat we niet meer aanwezig kunnen zijn in ons lab, en dat de mentorgroepen kleiner zijn, zodat je een clubje medestudenten hebt dat je goed kunt leren kennen.
 
+Check straks ook nog even de [thuiswerktips](https://www.uva.nl/shared-content/studentensites/uva-studentensite/nl/az/thuisstuderen-tijdens-corona/thuisstuderen-tijdens-de-coronacrisis.html) van de UvA, die speciaal gericht zijn op de situatie waarin je langdurig vanuit huis moet werken.
+
 In dit document vind je praktische informatie over de minor en over regels die wij belangrijk vinden. Let op: het gaat er bij ons soms nogal anders aan toe dan bij andere opleidingen.
 
 <iframe style="width:100%; height: 280px;" src="https://player.vimeo.com/video/130987431?color=ff9933&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
