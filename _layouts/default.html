@@ -19,7 +19,7 @@
       {
         font-family:Palatino;
       }
-      .wrapper
+      div.wrapper
       {
         width:65em;
       }
@@ -30,6 +30,13 @@
       section
       {
         width:40em;
+      }
+      @media print, screen and (max-width: 960px)
+      {
+        div.wrapper, header, section
+        {
+          width:auto;
+        }
       }
     </style>
   </head>
