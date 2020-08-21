@@ -20,9 +20,11 @@ We hopen jullie allemaal te spreken in de eerste weken van de minor, maar mocht 
 
 ## Introductie
 
+⚠︎ Een linkje voor de online-bijeenkomst ontvang je enkele dagen van tevoren per e-mail.
+
 Op de eerste dag, maandag 31 augustus, komen we **online** bijeen om 10:00 voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens dit college tonen we de eerste fragmenten uit de colleges van Harvard en vertellen we hoe wij werken. Daarna ga je meteen aan de slag, dus zorg dat je een werkplek hebt en dat je laptop klaarstaat!
 
-⚠︎ Een linkje voor de online-bijeenkomst ontvang je enkele dagen van tevoren per e-mail.
+Lukt het niet om hier bij te zijn? Dan vind je alle belangrijke informatie gewoon in de studiewijzer van Programmeren 1, je eerste vak. Na afloop sturen we alle informatie rond.
 
 ## Wat ga je doen?
 
@@ -88,13 +90,15 @@ Je moet zelf een goed werkschema vinden voor het maken van de opdrachten en het 
 
 Daarnaast moet je een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Ook daarvoor zijn diverse opties. In principe ga je wekelijks naar dezelfde werkgroep, met de zelfde mentor, die dan ook je opdrachten nakijkt en van feedback voorziet!
 
+⚠︎ Je krijgt per e-mail nog een verzoek om aan te geven in welke werkgroep je ingedeeld kan worden.
+
 ### Tools
 
 Voor het programmeren en communiceren gebruiken we een heleboel verschillende tools, waarmee je in de eerste weken kennis maakt. Voor de eerste dag hoef je niks te regelen, als je maar naar het videocollege komt. Je krijgt nog een link per e-mail.
 
-### Webcams
+### Webcams en werkplek
 
-Het gebruik van een webcam is verplicht tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten). Alleen zo kunnen we een prettige omgeving bouwen voor online onderwijs. Zorg dus dat je een werkplek voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit niet te doen voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of we voor jou een oplossing kunnen verzinnen.
+Het gebruik van een webcam is **verplicht** tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten). Alleen zo kunnen we een prettige omgeving bouwen voor online onderwijs. Zorg dus dat je een werkplek voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit niet te doen voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of we voor jou een oplossing kunnen verzinnen. Overigens, bij grotere bijeenkomsten en het 1-op-1 assisteren is de webcam niet verplicht.
 
 ### Tentamens
 
