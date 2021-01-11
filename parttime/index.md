@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: herfst 2020, parttime*
+*Versie: lente 2021, parttime*
 
 Welkom! De komende tijd gaan we hard aan de slag om jou te leren programma's te schrijven en webapplicaties te ontwerpen. We hebben er veel zin in!
 
@@ -22,9 +22,21 @@ We hopen jullie allemaal te spreken in de eerste weken van de minor, maar mocht 
 
 ⚠︎ Een linkje voor de online-bijeenkomst ontvang je enkele dagen van tevoren per e-mail.
 
-Op de eerste dag, maandag 31 augustus, komen we **online** bijeen om 10:00 voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens dit college tonen we de eerste fragmenten uit de colleges van Harvard en vertellen we hoe wij werken. Daarna ga je meteen aan de slag, dus zorg dat je een werkplek hebt en dat je laptop klaarstaat!
+Op de eerste dag, maandag 31 augustus, komen we **online** bijeen vanaf 9:00 voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens dit college tonen we de eerste fragmenten uit de colleges van Harvard en vertellen we hoe wij werken. Daarna ga je meteen aan de slag, dus zorg dat je een werkplek hebt en dat je laptop klaarstaat!
 
 Lukt het niet om hier bij te zijn? Dan vind je alle belangrijke informatie gewoon in de studiewijzer van Programmeren 1, je eerste vak. Na afloop sturen we alle informatie rond.
+
+## Aanwezigheid
+
+Zelfs met online onderwijs hebben we een aanwezigheidsplicht voor de werkgroepen, en de verwachting dat je een minimaal aantal uren "aanwezig" bent in ons online klaslokaal met videoverbinding. Plan dus geen vakantie tijdens de normale werkweken.
+
+In het tweede semester kun je in ieder geval wel rekenen op de volgende vrije dagen:
+
+- 1 t/m 7 februari, de eerste week van het semester, starten wij nog niet
+- 29 maart t/m 5 april is vrij, inclusief de tweede paasdag
+- 3 t/m 9 mei is voor de hele UvA een vrije week
+
+Let op: onder andere Koningsdag valt niet in de bovengenoemde weken. Natuurlijk is er op dergelijke feestdagen niets geroosterd, maar hou er rekening mee dat je rondom die dagen wel deadlines kunt hebben.
 
 ## Wat ga je doen?
 
@@ -50,7 +62,7 @@ Dan is er het **Programmeerproject**. Daar ga je een heel eigen idee voor een we
 
 ### Fase 3: Project
 
-Nu je kunt programmeren gaan we je verder helpen je theoretisch te ontwikkelen. Dat gebeurt bij het vak **Programmeertheorie**, waar je met een team van 3 studenten aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen. Een pittig einde van de minor, maar ook een kans om lekker experimenteel te leren en een kijkje in de keuken van de informatica te krijgen. Dit vak sluit formeel af met een middag waarop elk team hun nieuwe inzichten presenteert. (Dit vak is alleen fulltime te volgen.)
+Nu je kunt programmeren gaan we je verder helpen je theoretisch te ontwikkelen. Dat gebeurt bij het vak **Programmeertheorie**, waar je met een team van 3 studenten aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen. Een pittig einde van de minor, maar ook een kans om lekker experimenteel te leren en een kijkje in de keuken van de informatica te krijgen. Dit vak sluit formeel af met een middag waarop elk team hun nieuwe inzichten presenteert. (Dit vak is overigens op dit moment alleen fulltime te volgen.)
 
 ## Verwachtingen
 
@@ -90,7 +102,7 @@ Je moet zelf een goed werkschema vinden voor het maken van de opdrachten en het 
 
 Daarnaast moet je een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Ook daarvoor zijn diverse opties. In principe ga je wekelijks naar dezelfde werkgroep, met de zelfde mentor, die dan ook je opdrachten nakijkt en van feedback voorziet!
 
-⚠︎ Je krijgt per e-mail nog een verzoek om aan te geven in welke werkgroep je ingedeeld kan worden.
+⚠︎ Je krijgt per e-mail nog een verzoek om aan te geven in welke werkgroep je ingedeeld kan worden. Dit verzoek komt pas vlak voor de start, maar er zullen diverse opties zijn, dus het moet lukken om iets te kiezen.
 
 ### Tools
 
@@ -98,7 +110,7 @@ Voor het programmeren en communiceren gebruiken we een heleboel verschillende to
 
 ### Webcams en werkplek
 
-Het gebruik van een webcam is **verplicht** tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten). Alleen zo kunnen we een prettige omgeving bouwen voor online onderwijs. Zorg dus dat je een werkplek voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit niet te doen voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of we voor jou een oplossing kunnen verzinnen. Overigens, bij grotere bijeenkomsten en het 1-op-1 assisteren is de webcam niet verplicht.
+Het gebruik van een webcam is **verplicht** tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten) en bij het 1-op-1 assisteren. Alleen zo kunnen we een prettige omgeving bouwen voor online onderwijs. Zorg dus dat je een werkplek voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit niet te doen voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of we voor jou een oplossing kunnen verzinnen. Overigens, bij grotere bijeenkomsten is de webcam niet verplicht.
 
 ### Tentamens
 

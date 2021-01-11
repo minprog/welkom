@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: herfst 2020, fulltime*
+*Versie: lente 2021, fulltime*
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig een website op te zetten en te bouwen, bijvoorbeeld met datavisualisaties voor je onderzoek, of een informatieve website voor je eigen bedrijf of onderzoeksgroep. Of misschien een webshop, waar je zelfgemaakte producten gaat verkopen, of misschien wel een website voor het verzamelen van onderzoeksgegevens onder grote groepen deelnemers. Het kan van alles zijn. We hebben er veel zin in!
 
@@ -24,17 +24,23 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 ## Introductie
 
-Op de eerste dag, maandag 31 augustus, komen we **online** bijeen om 9:00 voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens dit college tonen we de eerste fragmenten uit de colleges van Harvard en vertellen we hoe wij werken. Daarna ga je meteen aan de slag, dus zorg dat je een werkplek hebt en dat je laptop klaarstaat!
+Op de eerste dag, maandag 8 februari, komen we **online** bijeen om 9:00 voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens dit college tonen we de eerste fragmenten uit de colleges van Harvard en vertellen we hoe wij werken. Daarna ga je meteen aan de slag, dus zorg dat je een werkplek hebt en dat je laptop klaarstaat!
 
 ⚠︎ Een linkje voor de online-bijeenkomst ontvang je enkele dagen van tevoren per e-mail.
 
 ## Aanwezigheid
 
-Zelfs met online onderwijs hebben we een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent **elke werkdag** tussen 9:00 en 17:00 uur bezig met programmeren. Dit geldt voor het hele semester, dus t/m vrijdag 29 januari. Plan dus geen vakantie tijdens de normale werkweken.
+Zelfs met online onderwijs hebben we een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent **elke werkdag** tussen 9:00 en 17:00 uur bezig met programmeren. Dit geldt voor het hele semester, dus t/m vrijdag 25 juni. Plan dus geen vakantie tijdens de normale werkweken.
 
 Natuurlijk is er gewoon ruimte voor een keer een trouwerij of doktersbezoek, maar niet gegarandeerd voor tentamens van andere vakken (we kunnen daar niet altijd omheen plannen). Kun je de aanwezigheid zoals hier benoemd niet volbrengen? Dan moet je switchen naar de parttime-minor! Neem dan nu al contact op met <help@mprog.nl>.
 
-Er is dit semester in ieder geval een **kerstvakantie**, namelijk van 19 december t/m 3 januari. Er is bij de UvA géén herfstvakantie gepland (we zijn nog aan het kijken of we hier iets aan kunnen doen).
+In het tweede semester kun je in ieder geval wel rekenen op de volgende vrije dagen:
+
+- 1 t/m 7 februari, de eerste week van het semester, starten wij nog niet
+- 31 maart t/m 5 april is vrij als je tot die tijd gewoon aanwezig hebt kunnen zijn (denk aan ziekte)
+- 3 t/m 9 mei is voor de hele UvA een vrije week
+
+Let op: onder andere Koningsdag valt niet in de bovengenoemde weken. Natuurlijk is er op dergelijke feestdagen niets geroosterd, maar hou er rekening mee dat je rondom die dagen wel deadlines kunt hebben.
 
 ## Wat ga je doen?
 
@@ -96,9 +102,9 @@ Wij sturen veel mededelingen per e-mail rond. Als je een adres van Hotmail/Outlo
 
 ### Roosters
 
-In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. 's Ochtends zijn er activiteiten met je team en 's middags is er altijd mogelijkheid om assistentie te krijgen. De grote deadlines vallen meestal op donderdag maar zullen je de hele week flink bezig houden. Daarnaast zijn er diverse activiteiten per groep, die meestal niet in het rooster staan. Check dus vooral de studiewijzer per vak en hou mededelingen in de gaten.
+In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. 's Ochtends zijn er activiteiten met je team en 's middags is er altijd mogelijkheid om assistentie te krijgen. De grote deadlines vallen meestal op donderdag maar zullen je de hele week flink bezig houden. Daarnaast zijn er diverse activiteiten per groep, die meestal **niet** in het rooster staan. Check dus vooral de studiewijzer per vak en hou mededelingen in de gaten.
 
-Op dit moment zijn er geen tentamens ingepland omdat het te lastig is deze op de universiteit te organiseren. Mocht dit echt nog nodig zijn dan laten we het minimaal 30 dagen van tevoren weten. Vanaf half november zijn er sowieso geen tentamens meer, omdat in de tweede helft van de minor wordt gewerkt met grote zelfontworpen programmeeropdrachten.
+Op dit moment zijn er geen tentamens ingepland omdat het te lastig is deze op de universiteit te organiseren. Mocht dit echt nog nodig zijn dan laten we het minimaal 30 dagen van tevoren weten. Vanaf april zijn er sowieso geen tentamens meer, omdat in de tweede helft van de minor wordt gewerkt met grote zelfontworpen programmeeropdrachten.
 
 ### Tools
 
@@ -106,7 +112,7 @@ Voor het programmeren en communiceren gebruiken we een heleboel verschillende to
 
 ### Webcams en werkplek
 
-Het gebruik van een webcam is verplicht tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten). Alleen zo kunnen we een prettige omgeving bouwen voor online onderwijs. Zorg dus dat je een werkplek voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit niet te doen voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of we voor jou een oplossing kunnen verzinnen.
+Het gebruik van een webcam is **verplicht** tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten) en bij het 1-op-1 assisteren. Alleen zo kunnen we een prettige omgeving bouwen voor online onderwijs. Zorg dus dat je een werkplek voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit niet te doen voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of we voor jou een oplossing kunnen verzinnen. Overigens, bij grotere bijeenkomsten is de webcam niet verplicht.
 
 ### Medewerkers
 
@@ -134,7 +140,7 @@ Mocht je vragen hebben over je inschrijving bij de UvA (bijvoorbeeld als bijvakk
 
 Voor bijvakkers: heb je je inschrijving helemaal geregeld, maar staat op Studielink niet dat je volledig ingeschreven bent bij de UvA? Stuur dan een screenshot van de status op Studielink naar <help@mprog.nl> en wij kijken wat we kunnen doen.
 
-Heb je na het volgen van de minor vragen over de administratie van cijfers? Neem dan contact op met de servicedesk van onze faculteit via (020) 525 7100 of stuur een [mail](servicedesk-esc-science@uva.nl).
+Heb je na het volgen van de minor vragen over de administratie van cijfers? Neem dan contact op met de servicedesk van onze faculteit via (020) 525 7100 of stuur een [mail](mailto:servicedesk-esc-science@uva.nl).
 
 ### Voorbereiding
 
