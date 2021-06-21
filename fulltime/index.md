@@ -1,22 +1,16 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: herfst 2020, fulltime*
+*Versie: herfst 2021, fulltime*
 
-De komende maanden gaan we hard aan de slag om jou te leren zelfstandig een website op te zetten en te bouwen, bijvoorbeeld met datavisualisaties voor je onderzoek, of een informatieve website voor je eigen bedrijf of onderzoeksgroep. Of misschien een webshop, waar je zelfgemaakte producten gaat verkopen, of misschien wel een website voor het verzamelen van onderzoeksgegevens onder grote groepen deelnemers. Het kan van alles zijn. We hebben er veel zin in!
+De komende maanden gaan we hard aan de slag om jou te leren zelfstandig programmeerproblemen op te lossen, kleine visualisaties te maken, en tools voor je eigen onderzoek te bouwen, en je gaat kennis maken met een heleboel tools, technieken, talen en theorieën die je nodig hebt om succesvol (mee) te werken aan grotere programma's.
 
-Dit semester zal **geheel online** zijn. Dat betekent dat alle interacties met je mentor, je medestudenten en docenten via een videoverbinding of andere tools plaatsvinden. De minor lijkt verder gewoon erg op wat we altijd al aanboden: veel videocolleges, veel zelfwerkzaamheid, en een enorme hoeveelheid studentassistenten om alles in goede banen te leiden. Verschil is dat we niet meer aanwezig kunnen zijn in ons lab.
+Het semester zal weer geheel op locatie plaatsvinden (zie verderop), en je zult kennis maken met onze manier van onderwijs verzorgen waar je elke werkdag van 9 tot 17 uur aanwezig zult zijn en samen met medestudenten en assistenten aan de slag gaat met oefeningen, grote opdrachten en toetsjes. Je zult letterlijk elke dag programma's schrijven!
 
-Toch hebben we ook wat aanpassingen gedaan. De mentorgroepen zijn kleiner, zodat je een clubje medestudenten hebt dat je goed kunt leren kennen. Bovendien zal er bijna dagelijks **samengewerkt** worden, met wisselende duo's en teams. Er zal dus veel interactie zijn!
-
-Check straks ook nog even de [thuiswerktips](https://www.uva.nl/shared-content/studentensites/uva-studentensite/nl/az/thuisstuderen-tijdens-corona/thuisstuderen-tijdens-de-coronacrisis.html) van de UvA, die speciaal gericht zijn op de situatie waarin je langdurig vanuit huis moet werken.
-
-In dit document vind je praktische informatie over de minor en over regels die wij belangrijk vinden. Let op: het gaat er bij ons soms nogal anders aan toe dan bij andere opleidingen.
+In dit document vind je praktische informatie over de minor en over regels die wij belangrijk vinden. Let op: zoals je al las, gaat het er bij ons soms nogal anders aan toe dan bij andere opleidingen.
 
 <iframe style="width:100%; height: 280px;" src="https://player.vimeo.com/video/130987431?color=ff9933&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/"><br>
 Bron: <em>What is code?</em> van Paul Ford. Lees dat essay ter voorbereiding!</a>
-
-Wat kun je verwachten komende tijd? Heel veel zelf programmeren, dat staat op nummer één. Daarnaast geven we je elke week weer kleine stukjes informatica om over na te denken, zodat je een goede basis in de theorie hebt. En ook heel belangrijk: begeleiding van ervaren programmeurs, studenten en docenten.
 
 We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar mocht je nu al even iets willen toelichten stuur dan gerust een mailtje naar <help@mprog.nl>. We nemen dan snel contact met je op.
 
@@ -24,17 +18,29 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 ## Introductie
 
-Op de eerste dag, maandag 31 augustus, komen we **online** bijeen om 9:00 voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens dit college tonen we de eerste fragmenten uit de colleges van Harvard en vertellen we hoe wij werken. Daarna ga je meteen aan de slag, dus zorg dat je een werkplek hebt en dat je laptop klaarstaat!
+<div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em;">
+<a href="https://www.theaterdeomval.nl"><img src="../omval.jpg" style="max-width:150px;"><br><small>Theater de Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
+</div>
 
-⚠︎ Een linkje voor de online-bijeenkomst ontvang je enkele dagen van tevoren per e-mail.
+Op de eerste dag, maandag 6 september, komen we bijeen om 9:30 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 ## Aanwezigheid
 
-Zelfs met online onderwijs hebben we een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent **elke werkdag** tussen 9:00 en 17:00 uur bezig met programmeren. Dit geldt voor het hele semester, dus t/m vrijdag 29 januari. Plan dus geen vakantie tijdens de normale werkweken.
+We hebben een aanwezigheidsplicht bij de fulltime-minor. Heel simpel: je bent er **elke werkdag** tussen 9:00 en 17:00 uur. Dit geldt voor het hele semester, dus t/m vrijdag 4 februari. Op die laatste dag zijn de eindpresentaties van het laatste vak, en je kunt het niet halen als je er niet bent!
 
-Natuurlijk is er gewoon ruimte voor een keer een trouwerij of doktersbezoek, maar niet gegarandeerd voor tentamens van andere vakken (we kunnen daar niet altijd omheen plannen). Kun je de aanwezigheid zoals hier benoemd niet volbrengen? Dan moet je switchen naar de parttime-minor! Neem dan nu al contact op met <help@mprog.nl>.
+Natuurlijk is er tijdens de minor wél gewoon ruimte voor een keer een trouwerij of doktersbezoek. Kun je de aanwezigheid zoals hier benoemd niet volbrengen? Dan moet je switchen naar de parttime-minor! Neem dan nu al contact op met <help@mprog.nl>.
 
-Er is dit semester in ieder geval een **kerstvakantie**, namelijk van 19 december t/m 3 januari. Er is bij de UvA géén herfstvakantie gepland (we zijn nog aan het kijken of we hier iets aan kunnen doen).
+Er is tijdens het semester natuurlijk wel een **kerstvakantie**, namelijk van 25 december t/m 9 januari. Ook hier geldt: als je naar het buitenland gaat kun je niet een paar dagen later terugkomen. Er is daarnaast helemaal geen herfstvakantie bij de UvA.
+
+## Virusmaatregelen
+
+Op dit moment gaan het ministerie van OCW en de UvA er van uit dat al het onderwijs weer als normaal kan plaatsvinden. Er zijn wel scenario's voor het geval er minder mogelijkheden zijn:
+
+- Eén variant is dat alles mag, behalve grote colleges. In dat geval zullen we de algemene introductiebijeenkomst online organiseren. Je kunt dan nog steeds dagelijks met je vaste groep in of bij het minorlokaal aan de slag. Bovendien zijn de meeste van onze hoorcolleges sowieso op video.
+
+- Een strengere variant is dat we 1,5 meter afstand moeten houden. In dat geval zal je een flink deel van je tijd thuis programmeren, of wellicht is er een mogelijkheid om een bubbel te vormen met een groep andere studenten. Werkgroepen en persoonlijke meetings zouden wel gewoon door kunnen gaan.
+
+Maar voordat je teleurgesteld raakt: het lijkt er helemaal op dat ook studenten zich massaal laten vaccineren, en daarmee verwachten we, net als het ministerie, dat de kans zéér groot is dat we weer als vanouds onderwijs kunnen geven, zonder beperkingen. Ga daar vooral van uit!
 
 ## Wat ga je doen?
 
@@ -42,7 +48,7 @@ Als je de hele minor gaat volgen, dan zul je drie fases doorlopen, die we hier b
 
 ### Fase 1: Programmeren
 
-Onze eerste vakken zijn **Programmeren 1** en **Programmeren 2**. Daar ga je vanaf het allereerste begin leren programmeren in een hele reeks talen, zoals Scratch, C en Python. De essentie van deze vakken is ontzettend veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Daarom vinden we het belangrijk dat je een groot deel van de tijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
+Onze eerste vakken zijn **Programmeren 1** en **Programmeren 2**. Daar ga je vanaf het allereerste begin leren programmeren in een hele reeks talen: Scratch, C en Python. De essentie van deze vakken is gewoon heel veel oefenen met kleinere opdrachten om zo goed te begrijpen hoe alles in elkaar zit. Elke week leren we je weer een paar nieuwe mogelijkheden, en elke week begrijp je beter hoe het werkt. Toch kunnen deze vakken ook wel frustrerend zijn, bijvoorbeeld als er iets totaal niet werkt terwijl je toch zeker wist dat... Dat is ook waarom we het belangrijk vinden dat je je werktijd bij ons in het lab besteedt, zodat we je één van de belangrijkste dingen kunnen leren: zelf systematisch zulke problemen overwinnen.
 
 We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse activiteiten die allemaal samenhangen. Alle onderdelen moeten daarom ook op volgorde gedaan worden! Om een indruk te krijgen van wat je zoal doet:
 
@@ -50,17 +56,17 @@ We hebben voor Programmeren 1 en 2 een heel programma samengesteld met diverse a
 - Oefening: basisboek met veel kleine haalbare "sommen"
 - Oefening: typische programmeerproblemen uitpluizen en leren herkennen
 - Werkgroep: met je medestudenten en mentor kennismaken en uitwisselen
-- Opdrachten: oefenen met probleemoplossen in uitdagende opdrachten
+- Opdrachten: oefenen met probleemoplossen aan de hand van uitdagende opdrachten
 
 ### Fase 2: Verdieping en toepassingen
 
-De toepassingskant krijg je bij **Programmeerplatform**, waar we volop de... *platforms* induiken. Om snel een mooi product te maken is het natuurlijk handig om onderdelen te hergebruiken. Frameworks om websites te bouwen geven je een heleboel van die onderdelen cadeau. Maar toch is er elke paar jaar wel weer een nieuw platform beschikbaar om nieuwe soorten applicaties te ontwikkelen. We leren je goed begrijpen hoe dat soort platforms in elkaar zit en hoe je later zelf weer nieuwe aan kunt leren.
+Bij **Programmeerplatform** ga je een totaalbeeld vormen van alle tools die je nodig hebt om software te bouwen. Om snel een mooi product te maken is het natuurlijk handig om onderdelen te hergebruiken. Talen zoals Python geven je een heleboel van die onderdelen cadeau. Toch gaan de ontwikkelingen snel en is het essentieel om nu al te leren hoe je jezelf verder ontwikkelt.
 
-Dan is er het **Programmeerproject**. Daar ga je een heel eigen idee voor een web app verzinnen, uitwerken, en implementeren. We begeleiden je procesmatig, maar je bent al zo ver gevorderd, dat je zelf grotendeels weet hoe je dingen moet uitzoeken die je nog niet kan, maar wel nodig hebt om je plan tot een goed einde te brengen. Natuurlijk sluiten we, vlak voor de kerst, af met een epic demonstratie van alle games, apps en visualisaties!
+Dan is er het **Programmeerproject**. Daar ga je een korte cursus volgen voor een totaal nieuw platform, technologie of techniek en daar ga je meteen een zelfbedacht project mee doen. We begeleiden je procesmatig, maar je bent al zo ver gevorderd, dat je zelf grotendeels weet hoe je dingen moet uitzoeken die je nog niet kan, maar wel nodig hebt om je plan tot een goed einde te brengen.
 
 ### Fase 3: Project
 
-Nu je kunt programmeren gaan we je verder helpen je theoretisch te ontwikkelen. Dat gebeurt bij het vak **Programmeertheorie**, waar je met een team van 3 studenten aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen. Een pittig einde van de minor, maar ook een kans om lekker experimenteel te leren en een kijkje in de keuken van de informatica te krijgen. Dit vak sluit formeel af met een middag waarop elk team hun nieuwe inzichten presenteert.
+Nu je kunt programmeren gaan we je verder helpen je theoretisch te ontwikkelen met een kijkje in de keuken van de kunstmatige intelligentie. Dat gebeurt bij het vak **Programmeertheorie**, waar je met twee andere studenten aan één groot project werkt en elke week nieuwe, betere algoritmes gaat uitproberen. Dit vak sluit formeel af met een middag waarop elk team hun nieuwe inzichten presenteert.
 
 ## Verwachtingen
 
@@ -92,21 +98,19 @@ Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg 
 
 ### E-mail
 
-Wij sturen veel mededelingen per e-mail rond. Als je een adres van Hotmail/Outlook hebt, dan is de kans heel groot dat sommige van de mededelingen in je SPAM terecht komen. Je moet er zelf voor zorgdragen dat je deze e-mails niet mist. De beste remedie is om de mails consequent als "niet spam" te markeren. De ervaring leert dat Outlook hier na een tijdje naar luistert.
+Wij sturen veel mededelingen per e-mail rond. Als je een adres van Hotmail/Outlook/Live hebt, dan is de kans heel groot dat sommige van de mededelingen in je SPAM terecht komen. Je moet er zelf voor zorgdragen dat je deze e-mails niet mist. De beste remedie is om de mails consequent als "niet spam" te markeren. De ervaring leert dat Outlook hier na een tijdje naar luistert.
 
 ### Roosters
 
-In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. 's Ochtends zijn er activiteiten met je team en 's middags is er altijd mogelijkheid om assistentie te krijgen. De grote deadlines vallen meestal op donderdag maar zullen je de hele week flink bezig houden. Daarnaast zijn er diverse activiteiten per groep, die meestal niet in het rooster staan. Check dus vooral de studiewijzer per vak en hou mededelingen in de gaten.
+In beginsel is het rooster vrij eenvoudig: elke werkdag van 9 tot 17 uur practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. 's Ochtends zijn er activiteiten met je team en 's middags is er altijd mogelijkheid om assistentie te krijgen. Er is een dagschema waarin alle opdrachten vermeld staan en we proberen de grote opdrachten niet aan het eind van de week te plannen.
 
-Op dit moment zijn er geen tentamens ingepland omdat het te lastig is deze op de universiteit te organiseren. Mocht dit echt nog nodig zijn dan laten we het minimaal 30 dagen van tevoren weten. Vanaf half november zijn er sowieso geen tentamens meer, omdat in de tweede helft van de minor wordt gewerkt met grote zelfontworpen programmeeropdrachten.
+Omdat bijna alle activiteiten op onze vaste locatie plaatsvinden staan de activiteiten niet vermeld in het normale UvA-rooster. Ga er van uit dat je elke dag van 9 tot 17 uur op Science Park bent.
 
-### Tools
+Alle lessen (behalve het introductiecollege!) vinden plaats in het Science Park in Amsterdam. Het hoofdgebouw aldaar heeft huisnummer 904, en onze vaste lokalen zijn A1.16, A1.18 en A1.24 op de eerste verdieping.
 
-Voor het programmeren en communiceren gebruiken we een heleboel verschillende tools, waarmee je in de eerste weken kennis maakt. Voor de eerste dag hoef je niks te regelen, als je maar naar het videocollege komt. Je krijgt nog een link per e-mail.
+### Tentamens
 
-### Webcams en werkplek
-
-Het gebruik van een webcam is verplicht tijdens bijeenkomsten met je mentor en mentorgroep (ca. 10 studenten). Alleen zo kunnen we een prettige omgeving bouwen voor online onderwijs. Zorg dus dat je een werkplek voor je zelf inricht waar je goed kunt programmeren, maar ook goed kunt videobellen. Is dit niet te doen voor jou? Neem dan nu al contact op per e-mail. Dan kijken we of we voor jou een oplossing kunnen verzinnen.
+Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor. De precieze data worden op een later moment bekend gemaakt en staan nog niet goed in het rooster.
 
 ### Medewerkers
 
@@ -118,11 +122,21 @@ Alle cursusmaterialen zullen via een website beschikbaar worden gesteld; bij aan
 
 ### Benodigdheden
 
-1.  Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is soms ook wel goed, maar voor latere vakken misschien niet meer). Mac, Windows of Linux maakt niet uit.
+1.  Om mee te doen met de minor heb je een laptop nodig. Zo'n beetje elke laptop met 8GB intern geheugen voldoet (4GB is soms ook wel goed, je kunt het gerust proberen maar koop zeker geen laptop met 4GB). Mac, Windows of Linux maakt niet uit.
 
 2.  Je hoeft geen software op je laptop te installeren voor de start van de minor. Een webbrowser is voldoende.
 
 3.  Je hoeft van tevoren geen boeken te bestellen.
+
+In noodgevallen hebben wij laptops te leen die niet geweldig zijn, maar waar je een heel eind mee komt. Stuur gerust een mail als je laptop onverhoopt kapot gaat.
+
+Op zoek naar een goede of goedkope laptop? Kijk dan eens bij de onderwijswinkel van [Apple](https://www.apple.com/nl-edu/shop) en log in bij [Surfspot](https://www.surfspot.nl/) voor een groot aanbod aan nieuwe en "opgeknapte" laptops.
+
+Wil je een Mac kopen? Let dan op dat er een "M1"-chip in zit, dit zou er zeer duidelijk bij moeten staan. Alternatief is een verouderde Intel-chip maar zorg dan dat je flink minder betaalt dan voor de M1.
+
+### Beperkingen
+
+Heb je aanleg voor RSI of een fysieke, auditieve of visuele beperking? Overleg dan even zodat je je werkplek bij ons zo goed mogelijk kunt inrichten. We kunnen dat zonder problemen ondersteunen. Daarnaast zijn alle videocolleges ondertiteld en zijn er lecture notes beschikbaar.
 
 ### Programma aanpassen
 
@@ -134,7 +148,7 @@ Mocht je vragen hebben over je inschrijving bij de UvA (bijvoorbeeld als bijvakk
 
 Voor bijvakkers: heb je je inschrijving helemaal geregeld, maar staat op Studielink niet dat je volledig ingeschreven bent bij de UvA? Stuur dan een screenshot van de status op Studielink naar <help@mprog.nl> en wij kijken wat we kunnen doen.
 
-Heb je na het volgen van de minor vragen over de administratie van cijfers? Neem dan contact op met de servicedesk van onze faculteit via (020) 525 7100 of stuur een [mail](servicedesk-esc-science@uva.nl).
+Heb je na het volgen van de minor vragen over de administratie van cijfers? Neem dan contact op met de servicedesk van onze faculteit via (020) 525 7100 of stuur een mail naar <mailto:servicedesk-esc-science@uva.nl>.
 
 ### Voorbereiding
 
@@ -142,11 +156,7 @@ Sommige studenten willen zich graag voorbereiden voor de minor, maar dat is niet
 
 ### Groepsindeling
 
-De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van bepaalde opleidingen. Daarnaast vinden we het belangrijk dat de mentorgroepen inclusief zijn, met toenadering en afwisselende samenwerking tussen alle deelnemers, dus we zijn zeer terughoudend met het bij elkaar indelen van groepen studenten die al gewend zijn intens met elkaar samen te werken.
-
-### Afwezigheid
-
-Het is zeker dit semester essentieel om rekening te houden met een paar dagen ziek zijn, dus om andere redenen een dag niet meedoen is over het algemeen niet de bedoeling. Is het toch noodzakelijk, dan bespreek je dit met je mentor, die het bespreekt met de docenten (stuur dus nu nog geen bericht hierover, omdat nog niet bekend is wie je mentor zal zijn). Daarbij maak je minimaal de afspraak dat je vooruit gaat werken zodat je je aan de deadlines houdt.
+De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van bepaalde opleidingen. Daarnaast vinden we het belangrijk dat de mentorgroepen inclusief zijn, met toenadering en afwisselende samenwerking tussen alle deelnemers, dus we zijn terughoudend met het bij elkaar indelen van groepen studenten die al gewend zijn intens met elkaar samen te werken. Je kunt dus in normale omstandigheden geen voorkeur doorgeven.
 
 ### Ziekte
 
@@ -154,5 +164,9 @@ Doe je de minor fulltime en word je ziek? Dan helpen we je graag weer op de rail
 
 Meld je eventuele calamiteiten pas naderhand, ben je een tijd onbereikbaar? Dan wordt het steeds lastiger om nog een oplossing te vinden. We willen heel graag meedenken, dus geef ons zeker die kans. We doen het graag.
 
+### Afwezigheid
 
-<small>Copyright 2015–2020 Martijn Stegeman. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>
+Het is ook dit semester essentieel om rekening te houden met een paar dagen ziek zijn, dus om **andere** redenen een dag niet meedoen is over het algemeen niet de bedoeling. Heb je een bijzondere reden, neem dan contact op met de docenten en vraag advies!
+
+
+<small>Copyright 2015–2021 Martijn Stegeman / UvA. Dit werk valt onder een [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal](http://creativecommons.org/licenses/by-sa/4.0/)-licentie.</small>
