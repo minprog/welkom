@@ -126,7 +126,7 @@ Alle cursusmaterialen zullen via een website beschikbaar worden gesteld; bij aan
 
 2.  Je hoeft geen software op je laptop te installeren voor de start van de minor. Een webbrowser is voldoende.
 
-3.  Je hoeft van tevoren geen boeken te bestellen.
+3.  Je hoeft geen boeken te bestellen.
 
 In noodgevallen hebben wij laptops te leen die niet geweldig zijn, maar waar je een heel eind mee komt. Stuur gerust een mail als je laptop onverhoopt kapot gaat.
 
