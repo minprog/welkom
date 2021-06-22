@@ -75,3 +75,5 @@ Bij de start van de cursus moet je een werkgroep kiezen, met een vaste mentor, d
 ## Voorbereiding
 
 {% include voorbereiding.md %}
+
+Kortom, geniet van de zomer en tot in september!

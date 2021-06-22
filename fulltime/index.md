@@ -83,3 +83,5 @@ De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven erv
 ## Voorbereiding
 
 {% include voorbereiding.md %}
+
+Kortom, geniet van de zomer en tot in september!
