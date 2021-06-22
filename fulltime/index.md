@@ -60,7 +60,7 @@ Omdat bijna alle activiteiten op onze vaste locatie plaatsvinden staan de activi
 
 ### Groepsindeling
 
-De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van bepaalde opleidingen. Daarnaast vinden we het belangrijk dat de mentorgroepen inclusief zijn, met toenadering en afwisselende samenwerking tussen alle deelnemers, dus we zijn terughoudend met het bij elkaar indelen van groepen studenten die al gewend zijn intens met elkaar samen te werken. Je kunt dus in normale omstandigheden geen voorkeur doorgeven.
+De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van de verschillende opleidingen. Daarnaast vinden we het belangrijk dat de mentorgroepen inclusief zijn, met toenadering en afwisselende samenwerking tussen alle deelnemers, dus we zijn terughoudend met het bij elkaar indelen van groepen studenten die al gewend zijn intens met elkaar samen te werken. Je kunt dus in normale omstandigheden geen voorkeur doorgeven.
 
 ### Tentamens
 
