@@ -1,0 +1,1 @@
+Programmeren 1 en 2 hebben elk een afsluitend tentamen. Met het halen van het tentamen krijg je toegang tot het volgende vak van de minor. De precieze data worden op een later moment bekend gemaakt en staan nog niet goed in het rooster.
