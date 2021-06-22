@@ -20,9 +20,9 @@ We hopen jullie allemaal te spreken in de eerste weken van de minor, maar mocht 
 
 ## Introductie
 
-Op de eerste dag, maandag 6 september, komen we bijeen in de middag voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens dit college tonen we de eerste fragmenten uit de colleges van Harvard en vertellen we hoe wij werken. De locatie en tijd worden nog bekend gemaakt.
+Op de eerste dag, maandag 6 september, krijg je de beschikking over een inleidend college op video. In de middag zijn de docenten beschikbaar om met je te kletsen en afspraken te maken. Hierover krijg je natuurlijk vlak van tevoren nog meer informatie.
 
-Lukt het niet om hier bij te zijn? Dan vind je alle belangrijke informatie gewoon in de studiewijzer van Programmeren 1, je eerste vak. Na afloop van het college sturen we alle informatie rond en kun je direct aan de slag.
+De eerste dagen ga je meteen aan de slag met verschillende opdrachten. We verwachten je op een aantal momenten aanwezig om hier aan te werken en een goede start te maken. Ook hierover krijg je vooraf meer informatie!
 
 {% include virus.md %}
 
