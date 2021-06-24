@@ -22,7 +22,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 <a href="https://www.theaterdeomval.nl"><img src="../omval.jpg" style="max-width:150px;"><br><small>Theater de Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
 </div>
 
-Op de eerste dag, maandag 6 september, komen we bijeen om 9:00 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste dag, maandag 6 september, komen we bijeen om 9:30 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 ## Aanwezigheid
 

@@ -52,7 +52,7 @@ Je moet zelf een goed werkschema vinden voor het maken van de opdrachten en het 
 
 Bij de start van de cursus moet je een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Voor deze werkgroep zijn diverse opties. Zolang je je week niet helemaal volplant met werk moet het lukken een werkgroep te kiezen die goed past.
 
-⚠︎ Je krijgt rond 1 september per e-mail een verzoek om aan te geven in welke werkgroepen je ingedeeld kan worden.
+⚠︎ Je krijgt rond 1 september per e-mail een verzoek om aan te geven in welke werkgroepen je ingedeeld kan worden. Dit kan niet eerder.
 
 ### Tentamens
 
