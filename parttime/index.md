@@ -48,9 +48,7 @@ Alle colleges vinden plaats op Science Park 904 in Amsterdam.
 
 Je moet zelf een goed werkschema vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarnaast is er dagelijks in de middag hulp beschikbaar op locatie. Je kunt eenvoudig een reservering maken voor assistentie of binnenlopen voor een kleine vraag.
 
-### Groepsindeling
-
-Bij de start van de cursus moet je een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Voor deze werkgroep zijn diverse opties. Zolang je je week niet helemaal volplant met werk moet het lukken een werkgroep te kiezen die goed past.
+De enige activiteit die vooraf moet worden vastgelegd is de werkgroep. Bij de start van de cursus moet je een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Voor deze werkgroep zijn diverse opties. Zolang je je week niet helemaal volplant met werk moet het lukken een werkgroep te kiezen die goed past.
 
 ⚠︎ Je krijgt rond 1 september per e-mail een verzoek om aan te geven in welke werkgroepen je ingedeeld kan worden. Dit kan niet eerder.
 
