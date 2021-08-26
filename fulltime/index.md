@@ -30,7 +30,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 4. Als je door ziekte een langere tijd afwezig moet zijn dan wordt het natuurlijk lastiger om alles in te halen. Vanzelfsprekend kunnen wij je als team zoveel mogelijk ondersteunen. We houden je wel aan de deadlines, maar je zult merken dat we heel redelijk zijn als jij je verder gewoon aan de aanwezigheidsplicht houdt zoals die al vooraf bekend was.
 
-5. Als je nou onverhoopt toch een keer positief test maar niet ziek bent, dan kun je gewoon assistentie van ons krijgen via een videoverbinding.
+5. Als je nou onverhoopt toch een keer positief test maar niet ziek bent, dan kun je waarschijnlijk thuis verder werken. Dan kun je gewoon assistentie van ons krijgen via een videoverbinding. Dit kan natuurlijk niet regelmatig gebeuren.
 
 6. Er gelden nog enkele basisregels om besmettingen van groepen te voorkomen:
     - In de hele UvA mondkapjes op, maar **in** onze eigen lokalen mogen ze af
