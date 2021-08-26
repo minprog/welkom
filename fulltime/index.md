@@ -25,6 +25,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 3. Je mag niet naar de UvA komen als je:
     - Verkoudheidsachtige klachten hebt
     - Positief getest bent met zelftest of officiële test
+
     Heb je buiten de minor nog activiteiten met groepen/groepjes mensen, zorg dan dat je je vaker test. Hoe beter wordt getest, hoe minder mensen tijdelijk uitvallen en achterstand oplopen.
 
 4. Als je door ziekte een langere tijd afwezig moet zijn dan wordt het natuurlijk lastiger om alles in te halen. Vanzelfsprekend kunnen wij je als team zoveel mogelijk ondersteunen. We houden je wel aan de deadlines, maar je zult merken dat we heel redelijk zijn als jij je verder gewoon aan de aanwezigheidsplicht houdt zoals die al vooraf bekend was.
