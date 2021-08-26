@@ -57,8 +57,6 @@ Natuurlijk is er tijdens de minor wél gewoon ruimte voor een keer een trouwerij
 
 Er is tijdens het semester natuurlijk wel een **kerstvakantie**, namelijk van 25 december t/m 9 januari. Ook hier geldt: als je bijvoorbeeld naar het buitenland gaat kun je niet een paar dagen later terugkomen. Misschien ook goed om te weten: er is geen herfstvakantie bij de UvA.
 
-{% include virus.md %}
-
 ## Wat ga je doen?
 
 Als je de hele minor gaat volgen, dan zul je drie fases doorlopen, die we hier beschrijven.
