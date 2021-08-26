@@ -20,13 +20,13 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 1. De bedoeling is dat zoveel mogelijk mensen gevaccineerd zijn en dat iedereen 2x per week een zelftest afneemt. Zelftests bestel je gratis op [deze site](https://www.zelftestonderwijs.nl). Als je niet tijdig beschikt over zelftests laat je het ons weten, dan helpen we je verder.
 
+    Heb je buiten de minor nog activiteiten met groepen/groepjes mensen, zorg dan dat je je vaker test. Hoe beter wordt getest, hoe minder mensen tijdelijk uitvallen en achterstand oplopen.
+
 2. Er is een normale aanwezigheidsplicht voor de dagelijkse werkzaamheden, dus van 9 tot 17 uur. De (fulltime) minor is gebouwd op aanwezigheid, hard werken en intensieve begeleiding van ons. Als je dit op dit moment niet wilt of kunt, overleg dan even voordat je begint! Er zijn alternatieven.
 
 3. Je mag niet naar de UvA komen als je:
     - Verkoudheidsachtige klachten hebt
     - Positief getest bent met zelftest of officiële test
-
-    Heb je buiten de minor nog activiteiten met groepen/groepjes mensen, zorg dan dat je je vaker test. Hoe beter wordt getest, hoe minder mensen tijdelijk uitvallen en achterstand oplopen.
 
 4. Als je door ziekte een langere tijd afwezig moet zijn dan wordt het natuurlijk lastiger om alles in te halen. Vanzelfsprekend kunnen wij je als team zoveel mogelijk ondersteunen. We houden je wel aan de deadlines, maar je zult merken dat we heel redelijk zijn als jij je verder gewoon aan de aanwezigheidsplicht houdt zoals die al vooraf bekend was.
 
