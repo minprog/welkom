@@ -28,7 +28,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
     - Verkoudheidsachtige klachten hebt
     - Positief getest bent met zelftest of officiële test
 
-4. Als je door ziekte een langere tijd afwezig moet zijn dan wordt het natuurlijk lastiger om alles in te halen. Vanzelfsprekend kunnen wij je als team zoveel mogelijk ondersteunen. We houden je wel aan de deadlines, maar je zult merken dat we heel redelijk zijn als jij je verder gewoon aan de aanwezigheidsplicht houdt zoals die al vooraf bekend was.
+4. Als je door ziekte een langere tijd afwezig moet zijn dan wordt het natuurlijk lastiger om alles in te halen. Vanzelfsprekend kunnen wij je als team zoveel mogelijk ondersteunen. We houden je wel aan de deadlines, maar je zult merken dat we heel redelijk zijn als jij je verder gewoon aan de aanwezigheidsplicht houdt. Daarom hebben we deze aanwezigheidsplicht ook op onze website gezet vóór de inschrijvingen werden geopend.
 
 5. Als je nou onverhoopt toch een keer positief test maar niet ziek bent, dan kun je waarschijnlijk thuis verder werken. Dan kun je gewoon assistentie van ons krijgen via een videoverbinding. Dit kan natuurlijk niet regelmatig gebeuren.
 
@@ -36,7 +36,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
     - In de hele UvA mondkapjes op, maar **in** onze eigen lokalen mogen ze af
     - In al onze vaste lokalen gaan voorlopig de buitenramen op een kier
     - Faciliteiten binnen de UvA zijn beperkt, zoals aantal plaatsen in de kantine
-    - Er mag geluncht worden in de lokalen tussen 12 en 13 uur
+    - Er mag geluncht worden in de lokalen tussen 12 en 13 uur, maar je ruimt je eigen troep op
     - Er mogen géén studenten van buiten de minor in onze lokalen komen
     - Je krijgt een vast lokaal met 24 tot 32 studenten en komt niet in de andere lokalen
 
