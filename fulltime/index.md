@@ -16,6 +16,31 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 > **Geen paniek!** In de komende tijd zul je merken dat bij de minor studenten rondlopen met méér en met minder ervaring. Dat is heel mooi, want dan kunnen we van elkaar leren, en bovendien hebben we opdrachten op niveau voor elk van deze studenten. Maar voel je niet geïntimideerd, dat is veel belangrijker. Iedereen komt hier om iets te leren, en je gaat heel ver komen, verder dan je misschien zou denken. Daarnaast is de aandacht van de staf vol gericht op studenten die nog geen ervaring hebben. Dat zijn onze belangrijkste studenten, die nog veel te leren hebben.
 
+## Coronamaatregelen
+
+1. De bedoeling is dat zoveel mogelijk mensen gevaccineerd zijn en dat iedereen 2x per week een zelftest afneemt. Zelftests bestel je gratis op [deze site](https://www.zelftestonderwijs.nl). Als je niet tijdig genoeg beschikt over zelftests laat je het ons weten, dan helpen we je verder.
+
+2. Er is een normale aanwezigheidsplicht voor de dagelijkse werkzaamheden, dus van 9 tot 17 uur. De (fulltime) minor is gebouwd op aanwezigheid, hard werken en intensieve begeleiding van ons. Als je dit op dit moment niet wilt of kunt, overleg dan even voordat je begint! Er zijn alternatieven.
+
+3. Je mag niet komen als je:
+    - Verkoudheidsachtige klachten hebt
+    - Positief getest bent met zelftest of officiële test
+
+4. Als je door ziekte een langere tijd afwezig moet zijn dan wordt het natuurlijk lastiger om alles in te halen. Vanzelfsprekend kunnen wij je als team zoveel mogelijk ondersteunen.
+
+5. Er gelden nog enkele basisregels om besmettingen van groepen te voorkomen:
+    - In de hele UvA mondkapjes op, maar **in** onze eigen lokalen mogen ze af
+    - In al onze vaste lokalen gaan voorlopig de buitenramen op een kier
+    - Faciliteiten binnen de UvA zijn beperkt, zoals aantal plaatsen in de kantine
+    - Er mogen géén studenten van buiten de minor in onze lokalen komen
+    - Studenten krijgen een vast lokaal en komen niet in de andere lokalen
+
+6. Het introductiecollege gaat door (we zijn met ca. 70 studenten) in Diemen, maar het is niet verplicht. Als alternatief is er een videocollege dat je tegelijkertijd kunt kijken (wel saaier).
+
+7. Maak je je op een of andere manier zorgen, mail dan gerust naar <help@mprog.nl> en Martijn of iemand van het team denkt met je mee.
+
+8. Er is best een kans dat de maatregelen na een paar weken veranderen... maar we gaan het gewoon zien.
+
 ## Introductie
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em; margin-top:0.25em">
