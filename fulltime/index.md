@@ -34,13 +34,15 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
     - Faciliteiten binnen de UvA zijn beperkt, zoals aantal plaatsen in de kantine
     - Er mag geluncht worden in de lokalen tussen 12 en 13 uur
     - Er mogen géén studenten van buiten de minor in onze lokalen komen
-    - Studenten krijgen een vast lokaal en komen niet in de andere lokalen
+    - Je krijgt een vast lokaal met 24 tot 32 studenten en komt niet in de andere lokalen
 
-6. Het introductiecollege gaat door (we zijn met ca. 70 studenten) in Diemen, maar het is niet verplicht. Als alternatief is er een videocollege dat je tegelijkertijd kunt kijken (wel saaier).
+6. Heb je buiten de minor nog activiteiten met groepen/groepjes mensen, zorg dan dat je je vaker test. Hoe beter wordt getest, hoe minder mensen tijdelijk uitvallen en achterstand oplopen.
 
-7. Maak je je op een of andere manier zorgen, mail dan gerust naar <help@mprog.nl> en Martijn of iemand van het team denkt met je mee. Het is belangrijk dat iedereen die zich zorgen maakt deze zorgen ook <u>meteen</u> uit, zodat we goed kunnen zien of meerdere mensen ergens mee zitten.
+7. Het introductiecollege gaat door in Diemen (zie onder), maar het is niet verplicht. We zijn daar met ca. 70 studenten. Als alternatief is er een videocollege dat je tegelijkertijd kunt kijken (wel saaier).
 
-8. Er is best een kans dat de maatregelen na een paar weken veranderen... maar we gaan het gewoon zien.
+8. Maak je je op een of andere manier zorgen, mail dan gerust naar <help@mprog.nl> en Martijn of iemand van het team denkt met je mee. Het is belangrijk dat iedereen die zich zorgen maakt deze zorgen ook <u>meteen</u> uit, zodat we goed kunnen zien of meerdere mensen ergens mee zitten.
+
+9. Er is best een kans dat de maatregelen na een paar weken veranderen... maar we gaan het gewoon zien.
 
 ## Introductie
 
