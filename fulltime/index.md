@@ -40,7 +40,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
     - Er mogen géén studenten van buiten de minor in onze lokalen komen
     - Je krijgt een vast lokaal met 24 tot 32 studenten en komt niet in de andere lokalen
 
-7. Het introductiecollege gaat door in Diemen (zie onder), maar het is niet verplicht. We zijn daar met ca. 70 studenten. Als alternatief is er een videocollege dat je tegelijkertijd kunt kijken (wel iets saaier, helaas). Er zijn voorlopig geen andere grote bijeenkomsten.
+7. Het introductiecollege gaat door in Diemen (zie onder), maar het is niet verplicht. We zijn daar met ca. 70 studenten. Als alternatief is er een videocollege dat je tegelijkertijd kunt kijken (wel iets saaier, helaas). Er zijn voorlopig geen andere grote bijeenkomsten. Meer informatie over de intro krijg je enkele dagen van tevoren.
 
 8. Maak je je op een of andere manier zorgen, mail dan gerust naar <help@mprog.nl> en Martijn of iemand van het team denkt met je mee. Het is belangrijk dat iedereen die zich zorgen maakt deze zorgen ook <u>meteen</u> uit, zodat we goed kunnen zien of meerdere mensen ergens mee zitten.
 
