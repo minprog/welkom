@@ -32,7 +32,7 @@ We hopen jullie allemaal te spreken in de eerste weken van de minor, maar mocht 
 
 4. Assistentie (hulp bij de opdrachten) vindt plaats op een centrale locatie, namelijk lokaal A1.22 op Science Park 904. Er is ook ruimte voor hulp-op-afstand, hoewel we denken dat het beter werkt als je langs komt. Je krijgt bij de start van het vak meer informatie over hoe je een afspraak inplant.
 
-5. Er is geen vaste locatie om aan je opdrachten te werken. Je kunt wel gebruik maken van de flexibele studieplekken die in de meeste UvA-gebouwen worden aangeboden. Hou er rekening mee dat de capaciteit ruimer is dan ooit, maar dat er nog steeds niet genoeg ruimte is voor elke student.
+5. Er is geen vaste locatie om aan je opdrachten te werken. Je kunt wel gebruik maken van de flexibele studieplekken die in de meeste UvA-gebouwen worden aangeboden. Hou er rekening mee dat de capaciteit ruimer is dan ooit, maar dat er nog steeds niet genoeg ruimte is voor elke student van elke opleiding. Voor een deel zul je dus thuis aan je opdrachten werken.
 
 6. Sommige opdrachten doe je in tweetallen, dus dan moet je een plek vinden om af te spreken die voor jullie allebei goed is. In principe is dat op Science Park 904 of vlakbij. Deze "samenwerkopdrachten" mag je ook alleen doen, maar je leert waarschijnlijk meer als je ze samen doet!
 
