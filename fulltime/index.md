@@ -38,7 +38,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 6. Het introductiecollege gaat door (we zijn met ca. 70 studenten) in Diemen, maar het is niet verplicht. Als alternatief is er een videocollege dat je tegelijkertijd kunt kijken (wel saaier).
 
-7. Maak je je op een of andere manier zorgen, mail dan gerust naar <help@mprog.nl> en Martijn of iemand van het team denkt met je mee.
+7. Maak je je op een of andere manier zorgen, mail dan gerust naar <help@mprog.nl> en Martijn of iemand van het team denkt met je mee. Het is belangrijk dat iedereen die zich zorgen maakt deze zorgen ook <u>meteen</u> uit, zodat we goed kunnen zien of meerdere mensen ergens mee zitten.
 
 8. Er is best een kans dat de maatregelen na een paar weken veranderen... maar we gaan het gewoon zien.
 
