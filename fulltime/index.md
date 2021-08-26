@@ -18,20 +18,21 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 ## Coronamaatregelen
 
-1. De bedoeling is dat zoveel mogelijk mensen gevaccineerd zijn en dat iedereen 2x per week een zelftest afneemt. Zelftests bestel je gratis op [deze site](https://www.zelftestonderwijs.nl). Als je niet tijdig genoeg beschikt over zelftests laat je het ons weten, dan helpen we je verder.
+1. De bedoeling is dat zoveel mogelijk mensen gevaccineerd zijn en dat iedereen 2x per week een zelftest afneemt. Zelftests bestel je gratis op [deze site](https://www.zelftestonderwijs.nl). Als je niet tijdig beschikt over zelftests laat je het ons weten, dan helpen we je verder.
 
 2. Er is een normale aanwezigheidsplicht voor de dagelijkse werkzaamheden, dus van 9 tot 17 uur. De (fulltime) minor is gebouwd op aanwezigheid, hard werken en intensieve begeleiding van ons. Als je dit op dit moment niet wilt of kunt, overleg dan even voordat je begint! Er zijn alternatieven.
 
-3. Je mag niet komen als je:
+3. Je mag niet naar de UvA komen als je:
     - Verkoudheidsachtige klachten hebt
     - Positief getest bent met zelftest of officiële test
 
-4. Als je door ziekte een langere tijd afwezig moet zijn dan wordt het natuurlijk lastiger om alles in te halen. Vanzelfsprekend kunnen wij je als team zoveel mogelijk ondersteunen.
+4. Als je door ziekte een langere tijd afwezig moet zijn dan wordt het natuurlijk lastiger om alles in te halen. Vanzelfsprekend kunnen wij je als team zoveel mogelijk ondersteunen. We houden je wel aan de deadlines, maar je zult merken dat we heel redelijk zijn als jij je verder gewoon aan de aanwezigheidsplicht houdt zoals die al vooraf bekend was.
 
 5. Er gelden nog enkele basisregels om besmettingen van groepen te voorkomen:
     - In de hele UvA mondkapjes op, maar **in** onze eigen lokalen mogen ze af
     - In al onze vaste lokalen gaan voorlopig de buitenramen op een kier
     - Faciliteiten binnen de UvA zijn beperkt, zoals aantal plaatsen in de kantine
+    - Er mag geluncht worden in de lokalen tussen 12 en 13 uur
     - Er mogen géén studenten van buiten de minor in onze lokalen komen
     - Studenten krijgen een vast lokaal en komen niet in de andere lokalen
 
