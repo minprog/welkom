@@ -30,7 +30,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 4. Als je door ziekte een langere tijd afwezig moet zijn dan wordt het natuurlijk lastiger om alles in te halen. Vanzelfsprekend kunnen wij je als team zoveel mogelijk ondersteunen. We houden je wel aan de deadlines, maar je zult merken dat we heel redelijk zijn als jij je verder gewoon aan de aanwezigheidsplicht houdt. Daarom hebben we deze aanwezigheidsplicht ook op onze website gezet vóór de inschrijvingen werden geopend.
 
-5. Als je nou onverhoopt toch een keer positief test maar niet ziek bent, dan ben je fit genoeg om thuis verder te werken. In dat geval kun je gewoon assistentie van ons krijgen via een videoverbinding. Je moet dit melden zonder bewijs. We gaan er van uit dat dit een keer kan gebeuren, maar het zal waarschijnlijk niet bij één student meermaals gebeuren. Dit is dus een beperkt aanbod.
+5. Als je nou onverhoopt toch een keer positief test maar niet ziek bent, dan ben je fit genoeg om thuis verder te werken. In dat geval kun je gewoon assistentie van ons krijgen via een videoverbinding. Je moet dit per mail melden, zonder bewijs. We gaan er van uit dat dit een keer kan gebeuren, maar het zal waarschijnlijk niet bij één student meermaals gebeuren. Dit is dus een beperkt aanbod.
 
 6. Er gelden nog enkele basisregels om besmettingen van groepen te voorkomen:
     - In de hele UvA mondkapjes op, maar **in** onze eigen lokalen mogen ze af
@@ -40,7 +40,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
     - Er mogen géén studenten van buiten de minor in onze lokalen komen
     - Je krijgt een vast lokaal met 24 tot 32 studenten en komt niet in de andere lokalen
 
-7. Het introductiecollege gaat door in Diemen (zie onder), maar het is niet verplicht. We zijn daar met ca. 70 studenten. Als alternatief is er een videocollege dat je tegelijkertijd kunt kijken (wel saaier).
+7. Het introductiecollege gaat door in Diemen (zie onder), maar het is niet verplicht. We zijn daar met ca. 70 studenten. Als alternatief is er een videocollege dat je tegelijkertijd kunt kijken (wel iets saaier, helaas). Er zijn voorlopig geen andere grote bijeenkomsten.
 
 8. Maak je je op een of andere manier zorgen, mail dan gerust naar <help@mprog.nl> en Martijn of iemand van het team denkt met je mee. Het is belangrijk dat iedereen die zich zorgen maakt deze zorgen ook <u>meteen</u> uit, zodat we goed kunnen zien of meerdere mensen ergens mee zitten.
 
