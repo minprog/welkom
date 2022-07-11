@@ -52,7 +52,7 @@ Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het k
 
 Bij de start van de cursus moet je daarnaast een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Voor deze werkgroep zijn diverse opties. Zolang je je week niet helemaal volplant met werk moet het lukken een werkgroep te kiezen die goed past.
 
-⚠︎ Je krijgt rond 5 september per e-mail een verzoek om aan te geven in welke werkgroepen je ingedeeld kan worden. Dit kan niet eerder.
+⚠︎ Je krijgt rond 5 september per e-mail een verzoek om aan te geven in welke werkgroepen je ingedeeld kan worden. Dit kan niet eerder. Informatie die nu al in het rooster staat zal nog veranderen vanwege de beschikbaarheid van de medewerkers.
 
 Tot slot schuif je minimaal 1x per week aan in het lab om aan je opdrachten te werken. Je kunt vooraf aangeven wanneer je komt. Meer informatie hierover ontvang je bij de start.
 
