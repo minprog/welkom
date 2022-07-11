@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: lente 2022, fulltime*
+*Versie: herfst 2022, fulltime*
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig programmeerproblemen op te lossen, kleine visualisaties te maken, en tools voor je eigen onderzoek te bouwen. Je gaat ook kennis maken met een heleboel bestaande tools, technieken, talen en theorieën die je nodig hebt om succesvol (mee) te werken aan grotere programma's.
 
@@ -45,6 +45,10 @@ Nog een paar aanwijzigingen:
 - Meer precieze informatie over de dagelijkse roostering volgt pas bij de start van de minor. Als jij zorgt dat je elke werkdag beschikbaar bent komt het helemaal goed!
 
 Kun je de aanwezigheid zoals hier benoemd niet volbrengen? Dan moet je switchen naar de parttime-minor! Neem dan nu al contact op met <help@mprog.nl>.
+
+## Wat ga je doen?
+
+Als je de hele minor gaat volgen, dan begin je met twee vakken die je tegelijk volgt: Programmeren 1 en Datarepresentaties. We zorgen dat je een dagschema hebt voor de beide vakken samen, zodat jij je alleen bezig hoeft te houden met oefenen en leren, en niet zozeer met plannen en andere zaken.
 
 ## Verwachtingen
 

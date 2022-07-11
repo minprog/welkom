@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: herfst 2021, parttime*
+*Versie: herfst 2022, parttime*
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig programmeerproblemen op te lossen, kleine visualisaties te maken, en tools voor je eigen onderzoek te bouwen. Je gaat ook kennis maken met een heleboel bestaande tools, technieken, talen en theorieën die je nodig hebt om succesvol (mee) te werken aan grotere programma's.
 
@@ -9,8 +9,6 @@ In dit document vind je praktische informatie over de minor en over regels die w
 <iframe style="width:100%; height: 280px;" src="https://player.vimeo.com/video/130987431?color=ff9933&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">
 Bron: <em>What is code?</em> van Paul Ford. Lees dat essay!</a>
-
-Onze vakken zullen weer geheel op locatie plaatsvinden (zie verderop).
 
 Wat kun je verwachten komende tijd? Heel veel zelf programmeren, dat staat op nummer één. Daarnaast geven we je elke week weer kleine stukjes informatica om over na te denken, zodat je een goede basis in de theorie hebt. En ook heel belangrijk: begeleiding van ervaren programmeurs, studenten en docenten.
 
@@ -24,15 +22,17 @@ Op dit moment zijn er weinig concrete coronamaatregelen. Om grote groepen besmet
 
 ## Introductie
 
-Op de eerste dag, maandag 6 september, krijg je de beschikking over een inleidend college op video. In de middag zijn de docenten beschikbaar om met je te kletsen en afspraken te maken. Hierover krijg je natuurlijk vlak van tevoren nog meer informatie.
+<div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em; margin-top:0.25em">
+<a href="https://www.theaterdeomval.nl"><img src="../omval.jpg" style="max-width:150px;"><br><small>Theater de Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
+</div>
 
-De eerste dagen ga je meteen aan de slag met verschillende opdrachten. We verwachten je op een aantal momenten aanwezig om hier aan te werken en een goede start te maken. Ook hierover krijg je vooraf meer informatie!
+Op de eerste dag, maandag 5 september, komen we bijeen om 9:30 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Je kunt ook meteen aan de slag, dus neem je opgeladen laptop mee!
+
+Kun je echt niet aanwezig zijn? Dan ontvang je in de loop van die dag een link naar een videocollege en meer informatie over de opdrachten van de eerste week. We verwachten je tijdens de week op een aantal momenten aanwezig kunt zijn om hier aan te werken en een goede start te maken.
 
 ## Wat ga je doen?
 
-Als je de hele minor gaat volgen, dan zul je drie fases doorlopen, die we hier beschrijven. Je hoeft niet alle onderdelen te doen, als je maar wel de volgorde aanhoudt!
-
-{% include fases.md %}
+Je begint bij Programmeren 1. In dat vak ga je aan de slag met de absolute beginselen van het programmeren. We doen dat op een ambitieus niveau, maar met een hoop begeleiding! In de tweede periode kun je door met Programmeren 2, en in het volgende semester kun je dan ook nog de resterende drie vakken van de minor volgen.
 
 ## Verwachtingen
 
@@ -42,17 +42,17 @@ Als je de hele minor gaat volgen, dan zul je drie fases doorlopen, die we hier b
 
 ### Locatie
 
-Alle colleges vinden plaats op Science Park 904 in Amsterdam.
+Vrijwel alle colleges vinden plaats in Lab42, op het Science Park in Amsterdam.
 
 {% include mail.md %}
 
 ### Roosters
 
-Je moet zelf een goed werkschema vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarnaast is er dagelijks in de middag hulp beschikbaar op locatie. Je kunt eenvoudig een reservering maken voor assistentie of binnenlopen voor een kleine vraag.
+Je moet zelf een goed werkschema vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarnaast is er dagelijks hulp beschikbaar op locatie. Je kunt eenvoudig een reservering maken voor assistentie of binnenlopen voor een kleine vraag.
 
 De enige activiteit die vooraf moet worden vastgelegd is de werkgroep. Bij de start van de cursus moet je een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Voor deze werkgroep zijn diverse opties. Zolang je je week niet helemaal volplant met werk moet het lukken een werkgroep te kiezen die goed past.
 
-⚠︎ Je krijgt rond 1 september per e-mail een verzoek om aan te geven in welke werkgroepen je ingedeeld kan worden. Dit kan niet eerder.
+⚠︎ Je krijgt rond 5 september per e-mail een verzoek om aan te geven in welke werkgroepen je ingedeeld kan worden. Dit kan niet eerder.
 
 ### Tentamens
 
