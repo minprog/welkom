@@ -30,7 +30,7 @@ Op de eerste dag, maandag 5 september, komen we bijeen om 9:30 in Theater de Omv
 
 ## Aanwezigheid
 
-We hebben een aanwezigheidsplicht bij de fulltime-minor: je bent **elke werkdag aanwezig**. Aanwezigheid wordt bijgehouden. We doen dit omdat studenten vaak de hoeveelheid stof onderschatten en nog niet goed begrijpen hoe belangrijk het is om steeds in de buurt van andere studenten te zijn die aan de zelfde opdrachten werken. De ervaring leert dat studenten die verder geen vakken volgen de regelmaat en de overzichtelijkheid al snel waarderen.
+We hebben een aanwezigheidsplicht bij de fulltime-minor: je bent **elke werkdag aanwezig**. We doen dit omdat studenten vaak de hoeveelheid stof onderschatten en nog niet goed begrijpen hoe belangrijk het is om steeds in de buurt van andere studenten te zijn die aan de zelfde opdrachten werken. De ervaring leert dat studenten die verder geen vakken volgen de regelmaat en de overzichtelijkheid al snel waarderen.
 
 Het is daarom ook niet mogelijk om andere vakken te volgen die overdags geroosterd zijn. Je krijgt dus ook geen uitzondering voor het bijwonen van andere colleges en wij houden hiermee geen rekening in de groepsindeling.
 
@@ -89,6 +89,8 @@ De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven erv
 ## Administratie
 
 {% include admin.md %}
+
+{% include ziekte.md %}
 
 ## Voorbereiding
 
