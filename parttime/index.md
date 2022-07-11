@@ -48,11 +48,13 @@ Vrijwel alle colleges vinden plaats in Lab42, op het Science Park in Amsterdam.
 
 ### Roosters
 
-Je moet zelf een goed werkschema vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarnaast is er dagelijks hulp beschikbaar op locatie. Je kunt eenvoudig een reservering maken voor assistentie of binnenlopen voor een kleine vraag.
+Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarnaast is er dagelijks hulp beschikbaar op locatie. Je kunt eenvoudig een reservering maken voor assistentie of binnenlopen voor een kleine vraag.
 
-De enige activiteit die vooraf moet worden vastgelegd is de werkgroep. Bij de start van de cursus moet je een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Voor deze werkgroep zijn diverse opties. Zolang je je week niet helemaal volplant met werk moet het lukken een werkgroep te kiezen die goed past.
+Bij de start van de cursus moet je daarnaast een werkgroep kiezen, met een vaste mentor, die je elke week bijwoont. Voor deze werkgroep zijn diverse opties. Zolang je je week niet helemaal volplant met werk moet het lukken een werkgroep te kiezen die goed past.
 
 ⚠︎ Je krijgt rond 5 september per e-mail een verzoek om aan te geven in welke werkgroepen je ingedeeld kan worden. Dit kan niet eerder.
+
+Tot slot schuif je minimaal 1x per week aan in het lab om aan je opdrachten te werken. Je kunt vooraf aangeven wanneer je komt. Meer informatie hierover ontvang je bij de start.
 
 ### Tentamens
 
