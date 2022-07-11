@@ -18,4 +18,4 @@ Meld je eventuele calamiteiten pas naderhand, ben je een tijd onbereikbaar? Dan 
 
 ### Afwezigheid
 
-Het is ook dit semester essentieel om rekening te houden met een paar dagen ziek zijn, dus om **andere** redenen een dag niet meedoen is over het algemeen niet de bedoeling. Heb je een bijzondere reden, neem dan contact op met de docenten en vraag advies!
+Om **andere** redenen dan ziekte een dag niet meedoen is over het algemeen niet mogelijk. De ambitie is hoog, en er moet wat ruimte blijven om persoonlijke calamiteiten op te vangen. Heb je een zeer bijzondere reden, neem dan contact op met de docenten en vraag advies!
