@@ -10,7 +10,7 @@ In dit document vind je praktische informatie over de minor en over regels die w
 <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">
 Bron: <em>What is code?</em> van Paul Ford. Lees dat essay!</a>
 
-Het semester zal wederom geheel op locatie plaatsvinden, en dat betekent dat je doorgaans elke werkdag van 9 tot 17 uur aanwezig zult zijn en samen met medestudenten en assistenten aan de slag gaat met oefeningen, grote opdrachten en toetsjes. Je zult letterlijk elke dag programma's schrijven!
+Het semester zal wederom geheel op locatie plaatsvinden, en dat betekent dat je doorgaans elke werkdag van 9 tot in de middag uur aanwezig zult zijn en samen met medestudenten en assistenten aan de slag gaat met oefeningen, grote opdrachten en toetsjes. Je zult letterlijk elke dag programma's schrijven!
 
 We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar mocht je nu al even iets willen toelichten stuur dan gerust een mailtje naar <help@mprog.nl>. We nemen dan snel contact met je op.
 
@@ -30,15 +30,21 @@ Op de eerste dag, maandag 5 september, komen we bijeen om 9:30 in Theater de Omv
 
 ## Aanwezigheid
 
-We hebben een aanwezigheidsplicht bij de fulltime-minor: je bent **elke werkdag aanwezig**. We doen dit omdat studenten vaak de hoeveelheid stof onderschatten en nog niet goed begrijpen hoe belangrijk het is om steeds in de buurt van andere studenten te zijn die aan de zelfde opdrachten werken. De ervaring leert dat studenten die verder geen vakken volgen de regelmaat en de overzichtelijkheid al snel waarderen.
+Deze fulltime-minor is gebaseerd op volle beschikbaarheid voor studeren overdags:
 
-Het is daarom ook niet mogelijk om andere vakken te volgen die overdags geroosterd zijn. Je krijgt dus ook geen uitzondering voor het bijwonen van andere colleges en wij houden hiermee geen rekening in de groepsindeling.
+- Je moet elke werkdag tussen 9 en 17 uur **volledig beschikbaar** zijn voor het programmeren. De stof is pittig en je bent hier echt flink wat tijd aan kwijt.
+
+- Je bent elke werkdag tussen 9 en 13 uur **aanwezig** in lokaal L0.09 of L0.10 van de minor. Na 13 uur mag je wel blijven zitten natuurlijk! We hebben prettige nieuwe lokalen.
+
+We doen dit omdat studenten vaak de hoeveelheid stof onderschatten en nog niet goed begrijpen hoe belangrijk het is om steeds in de buurt van andere studenten te zijn die aan de zelfde opdrachten werken. De ervaring leert dat studenten die verder geen vakken volgen de regelmaat en de overzichtelijkheid al snel waarderen.
+
+Het is daarom ook niet mogelijk om andere vakken te volgen die overdags geroosterd zijn. Je krijgt dus ook geen uitzondering voor het bijwonen van andere colleges en wij houden hiermee geen rekening in de groepsindeling. Ook speciale activiteiten zoals practicum of presentaties worden nog geroosterd en hierover krijg je pas kort vooraf bericht. Zorg dus dat je beschikbaar bent.
 
 Nog een paar aanwijzigingen:
 
-- De aanwezigheidsplicht geldt voor het hele semester, dus t/m vrijdag 3 februari. Op die laatste dag zijn de eindpresentaties van het laatste vak, en je kunt het niet halen als je er niet bent!
+- De eis voor beschikbaarheid en aanwezigheid geldt voor het hele semester, dus t/m vrijdag 3 februari. Op die laatste dag zijn de eindpresentaties van het laatste vak, en je kunt het niet halen als je er niet bent!
 
-- Er is geen herfstvakantie bij de UvA; wel een kerstvakantie natuurlijk. Plan geen activiteiten tijdens de collegeweken, ook niet tijdens tentamenweken.
+- Er is geen herfstvakantie bij de UvA! Plan geen dagactiviteiten tijdens de collegeweken, ook niet tijdens tentamenweken.
 
 - Natuurlijk is er tijdens de minor wél ruimte voor een keer een trouwerij of doktersbezoek. Dit is een bijzondere situatie die je goed met ons overlegt.
 
