@@ -70,9 +70,9 @@ Alle colleges (behalve het introductiecollege!) vinden plaats op het Science Par
 
 ### Roosters
 
-Het rooster is vrij eenvoudig: elke werkdag practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. 's Ochtends zijn er activiteiten met je team en 's middags is er altijd mogelijkheid om assistentie te krijgen. Er is een dagschema waarin alle opdrachten vermeld staan.
+Het rooster is vrij eenvoudig: elke werkdag practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. Er is doorlopend mogelijkheid om assistentie te krijgen. Er is een dagschema waarin alle opdrachten vermeld staan zodat je weet wat er van je verwacht wordt.
 
-Omdat bijna alle activiteiten op onze vaste locatie plaatsvinden staan de meeste activiteiten niet vermeld in het normale UvA-rooster (als er wel iets staat kan dit nog veranderen!). Ga er van uit dat je elke dag van 9 tot 17 uur op Science Park bent.
+Omdat bijna alle activiteiten op onze vaste locatie plaatsvinden staan de meeste activiteiten niet vermeld in het normale UvA-rooster (als er wel iets staat kan dit nog veranderen!). Ga er van uit dat je elke dag van 9 uur tot in de middag op Science Park bent.
 
 ### Groepsindeling
 
