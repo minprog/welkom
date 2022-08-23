@@ -64,7 +64,7 @@ Als je de hele minor gaat volgen, dan begin je met twee vakken die je tegelijk v
 
 ### Locatie
 
-Alle colleges (behalve het introductiecollege!) vinden plaats op het Science Park in Amsterdam. Ons gloednieuwe gebouw "Lab42" heeft huisnummer 942, en onze vaste lokalen vind je op de begane grond.
+Alle colleges (behalve het introductiecollege!) vinden plaats op het Science Park in Amsterdam. Ons gloednieuwe gebouw "Lab42" heeft huisnummer 900, en onze vaste lokalen vind je op de begane grond.
 
 {% include mail.md %}
 
