@@ -50,7 +50,7 @@ Vrijwel alle colleges vinden plaats in Lab42, op het Science Park in Amsterdam.
 
 1.  Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarnaast is er **elke werkdag hulp beschikbaar** op locatie in Lab42. Je kunt tussen 13--17 uur langskomen in lokaal L0.09 of L0.10 voor een werkplek of voor assistentie.
 
-2.  Er is **geen verplichte aanwezigheid in het lab** maar de ervaring leert dat het belangrijk is om veel tijd te reserveren om te programmeren en ook meerdere keren contact te hebben met medestudenten en assistenten.
+2.  Er is voor parttime-studenten **geen verplichte aanwezigheid in het lab** maar de ervaring leert dat het belangrijk is om veel tijd te reserveren om te programmeren en ook meerdere keren contact te hebben met medestudenten en assistenten.
 
 3.  Bij de start van de cursus moet je daarnaast een **werkgroep kiezen**, met een vaste mentor, die je elke week bijwoont. Aanwezigheid bij de werkgroepen is wel verplicht. Voor deze werkgroep zijn diverse opties op maandag en dinsdag. Zolang je je week niet helemaal volplant met werk moet het lukken een werkgroep te kiezen die goed past.
 
