@@ -10,7 +10,7 @@ In dit document vind je praktische informatie over de minor en over regels die w
 <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">
 Bron: <em>What is code?</em> van Paul Ford. Lees dat essay!</a>
 
-Het semester zal wederom geheel op locatie plaatsvinden, en dat betekent dat je doorgaans elke werkdag van 9 tot in de middag uur aanwezig zult zijn en samen met medestudenten en assistenten aan de slag gaat met oefeningen, grote opdrachten en toetsjes. Je zult letterlijk elke dag programma's schrijven!
+Het semester zal wederom geheel op locatie plaatsvinden, en dat betekent dat je doorgaans elke werkdag van 9 tot 17 uur aan het programmeren zult zijn en samen met medestudenten en assistenten aan de slag gaat met oefeningen, grote opdrachten en toetsjes. Je zult letterlijk elke dag programma's schrijven!
 
 We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar mocht je nu al even iets willen toelichten stuur dan gerust een mailtje naar <help@mprog.nl>. We nemen dan snel contact met je op.
 
