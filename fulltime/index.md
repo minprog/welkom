@@ -30,7 +30,7 @@ Deze fulltime-minor is gebaseerd op volle beschikbaarheid voor studeren overdags
 
 - Je moet elke werkdag tussen 9 en 17 uur **volledig beschikbaar** zijn voor het programmeren. De stof is pittig en je bent hier echt flink wat tijd aan kwijt.
 
-- Je bent elke werkdag tussen 9 en 14 uur **aanwezig** in lokaal L0.09 van de minor. Na 13 uur mag je wel blijven zitten natuurlijk! We hebben prettige nieuwe lokalen, en een koffie-apparaat om de hoek.
+- Je bent elke werkdag tussen 9 en 14 uur **aanwezig** in lokaal L0.09 van de minor. Na 14 uur mag je wel blijven zitten natuurlijk! We hebben prettige nieuwe lokalen, en een koffie-apparaat om de hoek.
 
 - Wij gaan soms activiteiten plannen tussen 14 en 17 die relatief kort vooraf worden aangekondigd.
 
