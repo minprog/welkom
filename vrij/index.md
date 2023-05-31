@@ -48,7 +48,7 @@ Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het k
 
 In sommige weken zal er een samenwerkactiviteit zijn op de werkmiddagen. We zullen deze eind augustus in de studiewijzer bekend maken. Als je een vaste werkmiddag inplant dan valt dit gewoon samen daarmee.
 
-Er zijn géén werkgroepen met een mentor, zoals in eerdere jaren. De docenten zijn gewoon beschikbaar voor je, dus als je in de knel komt, planningsproblemen hebt of andere belangrijke zaken, dan kun je een mail sturen en spreken we af!
+Er zijn géén werkgroepen met een mentor, zoals in eerdere jaren. De docenten zijn gewoon beschikbaar voor je, dus als je in de knel komt, planningsproblemen hebt of andere belangrijke zaken, dan kun je een mail sturen en spreken we af. Of je zoekt ons even op, want we lopen vaak rond.
 
 ### Tentamens
 
