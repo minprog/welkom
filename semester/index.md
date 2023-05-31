@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: lente 2023, fulltime*
+*Versie: herfst 2023. Dit is de informatie voor studenten die de hele minor in één semester willen volgen.*
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig programmeerproblemen op te lossen, kleine visualisaties te maken, en tools voor je eigen onderzoek te bouwen. Je gaat ook kennis maken met een heleboel bestaande tools, technieken, talen en theorieën die je nodig hebt om succesvol (mee) te werken aan grotere programma's.
 
@@ -10,7 +10,7 @@ In dit document vind je praktische informatie over de minor en over regels die w
 <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">
 Bron: <em>What is code?</em> van Paul Ford. Lees dat essay!</a>
 
-Het semester zal geheel op locatie plaatsvinden, en dat betekent dat je doorgaans elke werkdag van 9 tot 17 uur aan het programmeren zult zijn en samen met medestudenten en assistenten aan de slag gaat met oefeningen, grote opdrachten en toetsjes. Je zult letterlijk elke dag programma's schrijven!
+Je hebt er voor gekozen de hele minor in één semester te volgen. Dat betekent dat de werkdruk pittig is ten opzichte van veel bacheloropleidingen. Maar als je aanwezig kunt zijn is het goed te doen! Je zult doorgaans elke werkdag van 9 tot 17 uur aan het programmeren zijn en samen met medestudenten en assistenten aan de slag gaat met oefeningen, grote opdrachten en toetsjes. Je zult letterlijk elke dag programma's schrijven!
 
 We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar mocht je nu al even iets willen toelichten stuur dan gerust een mailtje naar <help@mprog.nl>. We nemen dan snel contact met je op.
 
@@ -22,17 +22,17 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 <a href="https://www.theaterdeomval.nl"><img src="../omval.jpg" style="max-width:150px;"><br><small>Theater de Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
 </div>
 
-Op de eerste dag, maandag 6 februari, komen we bijeen om 9:30 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste dag, maandag 4 september, komen we bijeen om 9:30 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 ## Aanwezigheid
 
 Deze fulltime-minor is gebaseerd op volle beschikbaarheid voor studeren overdags:
 
-- Je moet elke werkdag tussen 9 en 17 uur **volledig beschikbaar** zijn voor het programmeren. De stof is pittig en je bent hier echt flink wat tijd aan kwijt.
+- Je bent elke werkdag tussen 9 en 14 uur **aanwezig** in lokaal L0.09 of L0.10 van de minor. Maar je kunt eigenlijk de hele dag aanschuiven! We hebben prettige nieuwe lokalen, en een koffie-apparaat om de hoek.
 
-- Je bent elke werkdag tussen 9 en 14 uur **aanwezig** in lokaal L0.09 van de minor. Na 14 uur mag je wel blijven zitten natuurlijk! We hebben prettige nieuwe lokalen, en een koffie-apparaat om de hoek.
+- Je moet elke werkdag tussen 14 en 17 uur **volledig beschikbaar** zijn voor het programmeren. De stof is pittig en je bent hier echt flink wat tijd aan kwijt. Je hoeft op deze tijd niet aanwezig te zijn maar het mag wel, en er is ook ruimte voor.
 
-- Wij gaan soms activiteiten plannen tussen 14 en 17 die relatief kort vooraf worden aangekondigd.
+- Wij gaan soms activiteiten plannen tussen 9 en 17 uur die relatief kort vooraf worden aangekondigd. Jouw aanwezigheid is dan gewoon vereist.
 
 We doen dit omdat studenten vaak de hoeveelheid stof onderschatten en nog niet goed begrijpen hoe belangrijk het is om steeds in de buurt van andere studenten te zijn die aan de zelfde opdrachten werken. De ervaring leert dat studenten die verder geen vakken volgen de regelmaat en de overzichtelijkheid al snel waarderen.
 
@@ -40,15 +40,15 @@ Het is daarom ook niet mogelijk om andere vakken te volgen die overdags gerooste
 
 Nog een paar aanwijzigingen:
 
-- De eis voor beschikbaarheid en aanwezigheid geldt voor het hele semester, dus t/m vrijdag 30 juni. Op die laatste dag zijn de eindpresentaties van het laatste vak, en je kunt het niet halen als je er niet bent!
+- De eis voor beschikbaarheid en aanwezigheid geldt voor het **hele semester, dus t/m vrijdag 2 februari**. Op die laatste dag zijn de eindpresentaties van het laatste vak, en je kunt het niet halen als je er niet bent!
 
-- Plan geen dagactiviteiten of vakanties tijdens de collegeweken, ook niet tijdens tentamenweken.
+- Plan geen dagactiviteiten of vakanties tijdens de collegeweken, ook niet tijdens tentamenweken. Er is **geen herfstvakantie** gepland op de UvA. Dat betekent dat je bij deze minor dus ook geen ruimte hebt om zomaar een week vrij de plannen. Je komt dan in de knoop met deadlines.
 
 - Natuurlijk is er tijdens de minor wél ruimte voor een keer een trouwerij of doktersbezoek. Dit is een bijzondere situatie die je goed met ons overlegt.
 
 - Meer precieze informatie over de dagelijkse roostering volgt pas bij de start van de minor. Als jij zorgt dat je elke werkdag beschikbaar bent komt het helemaal goed!
 
-Kun je de aanwezigheid zoals hier benoemd niet volbrengen? Dan moet je switchen naar de parttime-minor! Neem dan nu al contact op met <help@mprog.nl>.
+Kun je de aanwezigheid zoals hier benoemd niet volbrengen? Dan moet je switchen naar de versie waarin je niet de hele minor in één semester doet! Neem dan nu al contact op met <help@mprog.nl>.
 
 ## Wat ga je doen?
 
@@ -62,7 +62,7 @@ Als je de hele minor gaat volgen, dan begin je met twee vakken die je tegelijk v
 
 ### Locatie
 
-Alle colleges vinden plaats op het Science Park in Amsterdam. Ons gloednieuwe gebouw "Lab42" heeft huisnummer 900, en onze vaste lokalen vind je op de begane grond.
+Alle colleges vinden plaats op het Science Park in Amsterdam. Ons nieuwe gebouw "Lab42" heeft huisnummer 900, en onze vaste lokalen vind je op de begane grond.
 
 {% include mail.md %}
 
@@ -70,7 +70,7 @@ Alle colleges vinden plaats op het Science Park in Amsterdam. Ons gloednieuwe ge
 
 Het rooster is vrij eenvoudig: elke werkdag practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. Er is doorlopend mogelijkheid om assistentie te krijgen. Er is een dagschema waarin alle opdrachten vermeld staan zodat je weet wat er van je verwacht wordt.
 
-Omdat bijna alle activiteiten op onze vaste locatie plaatsvinden staan de meeste activiteiten niet vermeld in het normale UvA-rooster (als er wel iets staat kan dit nog veranderen!). Ga er van uit dat je elke dag van 9 uur tot in de middag op Science Park bent.
+Omdat bijna alle activiteiten op onze vaste locatie plaatsvinden staan de meeste activiteiten niet vermeld in het normale UvA-rooster (als er wel iets staat kan dit nog veranderen!). Ga er van uit dat je elke dag vanaf 9 uur tot in de middag op Science Park bent.
 
 ### Groepsindeling
 
@@ -100,4 +100,4 @@ De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven erv
 
 {% include voorbereiding.md %}
 
-Kortom, we zien je snel. Tot in februari!
+Kortom, we zien je snel. Tot in september!

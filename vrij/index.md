@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: lente 2023, parttime*
+*Versie: lente 2023. Dit is de informatie voor studenten die beginnen bij Programmeren 1 en niet de hele minor in één semester gaan volgen.*
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig programmeerproblemen op te lossen, kleine visualisaties te maken, en tools voor je eigen onderzoek te bouwen. Je gaat ook kennis maken met een heleboel bestaande tools, technieken, talen en theorieën die je nodig hebt om succesvol (mee) te werken aan grotere programma's.
 
@@ -22,9 +22,9 @@ We hopen jullie allemaal te spreken in de eerste weken van de minor, maar mocht 
 <a href="https://www.theaterdeomval.nl"><img src="../omval.jpg" style="max-width:150px;"><br><small>Theater de Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
 </div>
 
-Op de eerste dag, maandag 6 februari, komen we bijeen om 9:30 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Je kunt ook meteen aan de slag, dus neem je opgeladen laptop mee!
+Op de eerste dag, maandag 4 september, komen we bijeen om 9:30 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Je kunt ook meteen aan de slag, dus neem je opgeladen laptop mee!
 
-Kun je niet aanwezig zijn? Dan ontvang je in de loop van die dag (niet vooraf!) een link naar een videocollege en meer informatie over de opdrachten van de eerste week. We verwachten je tijdens de week op een aantal momenten aanwezig kunt zijn om hier aan te werken en een goede start te maken.
+Kun je niet aanwezig zijn? Dan ontvang je in de loop van die dag (niet vooraf!) een link naar een videocollege en meer informatie over de opdrachten van de eerste week. We verwachten je tijdens de week op een aantal momenten aanwezig kunt zijn om hier aan te werken en een goede start te maken. De indeling is flexibel, dus je kunt het zelf plannen in combinatie met een ander vak!
 
 ## Wat ga je doen?
 
@@ -44,13 +44,11 @@ Vrijwel alle colleges vinden plaats in Lab42, op het Science Park in Amsterdam.
 
 ### Roosters
 
-1.  Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarnaast is er **elke werkdag hulp beschikbaar** op locatie in Lab42. Je kunt tussen 13--16 uur langskomen in lokaal L0.09 voor een werkplek of voor assistentie.
+Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarvoor kom je minstens één middag werken in Lab42, te kiezen tussen **dinsdag, woensdag en donderdag**. Je kunt op die dagen tussen 13--17 uur langskomen in lokaal L0.09 of L0.10 voor een werkplek of voor assistentie.
 
-2.  Er is voor parttime-studenten **geen verplichte aanwezigheid in het lab** maar de ervaring leert dat het belangrijk is om veel tijd te reserveren om te programmeren en ook meerdere keren contact te hebben met medestudenten en assistenten.
+In sommige weken zal er een samenwerkactiviteit zijn op de werkmiddagen. We zullen deze eind augustus in de studiewijzer bekend maken. Als je een vaste werkmiddag inplant dan valt dit gewoon samen daarmee.
 
-3.  Bij de start van de cursus moet je daarnaast een **werkgroep kiezen**, met een vaste mentor, die je elke week bijwoont. Aanwezigheid bij de werkgroepen is wel verplicht. Voor deze werkgroep zijn diverse opties op maandag en dinsdag. Zolang je je week niet helemaal volplant met werk moet het lukken een werkgroep te kiezen die goed past.
-
-    ⚠︎ Je krijgt rond 6 februari per e-mail een verzoek om aan te geven in welke werkgroepen je ingedeeld kan worden. <u>Dit kan niet eerder.</u> Informatie die nu al in het rooster staat zal nog veranderen vanwege de beschikbaarheid van de medewerkers.
+Er zijn géén werkgroepen met een mentor, zoals in eerdere jaren. De docenten zijn gewoon beschikbaar voor je, dus als je in de knel komt, planningsproblemen hebt of andere belangrijke zaken, dan kun je een mail sturen en spreken we af!
 
 ### Tentamens
 
