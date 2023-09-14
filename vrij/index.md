@@ -46,9 +46,11 @@ Vrijwel alle colleges vinden plaats in Lab42, op het Science Park in Amsterdam.
 
 Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarvoor kom je minstens één middag werken in Lab42, te kiezen tussen **dinsdag, woensdag en donderdag**. Je kunt op die dagen tussen 13--17 uur langskomen in lokaal L0.09 of L0.10 voor een werkplek of voor assistentie.
 
-In sommige weken zal er een samenwerkactiviteit zijn op de werkmiddagen. We zullen deze eind augustus in de studiewijzer bekend maken. Als je een vaste werkmiddag inplant dan valt dit gewoon samen daarmee.
+Daarnaast zijn er in diverse weken **werkcolleges**. De roosters voor deze werkcolleges worden rond de start van de minor gemaakt. We maken je daar wegwijs, er zijn groepsactiviteiten en tentamenvoorbereiding. De docenten kun je tijdens deze sessies ook aanspreken, dus als je in de knel komt, planningsproblemen hebt of andere belangrijke zaken wil bespreken, dan is dat de plek.
 
-Er zijn géén werkgroepen met een mentor, zoals in eerdere jaren. De docenten zijn gewoon beschikbaar voor je, dus als je in de knel komt, planningsproblemen hebt of andere belangrijke zaken, dan kun je een mail sturen en spreken we af. Of je zoekt ons even op, want we lopen vaak rond.
+### Groepsindeling
+
+De groepsindeling voor de werkcolleges wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van de verschillende opleidingen. Daarnaast vinden we het belangrijk dat de werkcolleges inclusief zijn, met toenadering en afwisselende samenwerking tussen alle deelnemers, dus we zijn terughoudend met het bij elkaar indelen van groepen studenten die al gewend zijn intens met elkaar samen te werken. Je kunt dus géén voorkeur doorgeven. De definitieve groepsindeling wordt pas gedaan na de start van de minor.
 
 ### Tentamens
 

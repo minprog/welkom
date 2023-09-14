@@ -74,7 +74,7 @@ Omdat bijna alle activiteiten op onze vaste locatie plaatsvinden staan de meeste
 
 ### Groepsindeling
 
-De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van de verschillende opleidingen. Daarnaast vinden we het belangrijk dat de mentorgroepen inclusief zijn, met toenadering en afwisselende samenwerking tussen alle deelnemers, dus we zijn terughoudend met het bij elkaar indelen van groepen studenten die al gewend zijn intens met elkaar samen te werken. Je kunt dus géén voorkeur doorgeven. De definitieve groepsindeling wordt pas gedaan na de start van de minor.
+De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van de verschillende opleidingen. Daarnaast vinden we het belangrijk dat de werkcolleges inclusief zijn, met toenadering en afwisselende samenwerking tussen alle deelnemers, dus we zijn terughoudend met het bij elkaar indelen van groepen studenten die al gewend zijn intens met elkaar samen te werken. Je kunt dus géén voorkeur doorgeven. De definitieve groepsindeling wordt pas gedaan na de start van de minor.
 
 ### Tentamens
 
