@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: herfst 2023. Dit is de informatie voor studenten die de hele minor in één semester willen volgen.*
+*Versie: lente 2024. Dit is de informatie voor studenten die de hele minor in één semester willen volgen.*
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig programmeerproblemen op te lossen, kleine visualisaties te maken, en tools voor je eigen onderzoek te bouwen. Je gaat ook kennis maken met een heleboel bestaande tools, technieken, talen en theorieën die je nodig hebt om succesvol (mee) te werken aan grotere programma's.
 
@@ -22,17 +22,17 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 <a href="https://www.theaterdeomval.nl"><img src="../omval.jpg" style="max-width:150px;"><br><small>Theater de Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
 </div>
 
-Op de eerste dag, maandag 4 september, komen we bijeen om 9:30 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste dag, maandag 5 februari, komen we bijeen om 9:30 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 ## Aanwezigheid
 
 Deze fulltime-minor is gebaseerd op volle beschikbaarheid voor studeren overdags:
 
-- Je bent elke werkdag tussen 9 en 14 uur **aanwezig** in lokaal L0.09 of L0.10 van de minor. Maar je kunt eigenlijk de hele dag aanschuiven! We hebben prettige nieuwe lokalen, en een koffie-apparaat om de hoek.
+- Je bent elke werkdag tussen 10 en 16 uur **aanwezig** in lokaal L0.09 of L0.10 van de minor. De deur is de hele dag open, dus je mag ook buiten die tijden aanschuiven. We hebben prettige nieuwe lokalen, en een koffie-apparaat om de hoek.
 
-- Je moet elke werkdag tussen 14 en 17 uur **volledig beschikbaar** zijn voor het programmeren. De stof is pittig en je bent hier echt flink wat tijd aan kwijt. Je hoeft op deze tijd niet aanwezig te zijn maar het mag wel, en er is ook ruimte voor.
+- Je moet elke werkdag tussen 9 en 17 uur **volledig beschikbaar** zijn voor het programmeren. De stof is pittig en je bent hier echt flink wat tijd aan kwijt. Je hoeft op deze tijd niet aanwezig te zijn maar het mag wel, en er is ook ruimte voor.
 
-- Wij gaan soms activiteiten plannen tussen 9 en 17 uur die relatief kort vooraf worden aangekondigd. Jouw aanwezigheid is dan gewoon vereist.
+- Wij gaan soms activiteiten plannen tussen 9 en 17 uur die relatief kort vooraf worden aangekondigd. Jouw aanwezigheid is dan gewoon vereist. Plan dus geen werk of andere activiteiten op werkdagen.
 
 We doen dit omdat studenten vaak de hoeveelheid stof onderschatten en nog niet goed begrijpen hoe belangrijk het is om steeds in de buurt van andere studenten te zijn die aan de zelfde opdrachten werken. De ervaring leert dat studenten die verder geen vakken volgen de regelmaat en de overzichtelijkheid al snel waarderen.
 
@@ -40,9 +40,9 @@ Het is daarom ook niet mogelijk om andere vakken te volgen die overdags gerooste
 
 Nog een paar aanwijzigingen:
 
-- De eis voor beschikbaarheid en aanwezigheid geldt voor het **hele semester, dus t/m vrijdag 2 februari**. Op die laatste dag zijn de eindpresentaties van het laatste vak, en je kunt het niet halen als je er niet bent!
+- De eis voor beschikbaarheid en aanwezigheid geldt voor het **hele semester, dus t/m vrijdag 28 juni**. Op die laatste dag zijn de eindpresentaties van het laatste vak, en je kunt het niet halen als je er niet bent!
 
-- Plan geen dagactiviteiten of vakanties tijdens de collegeweken, ook niet tijdens tentamenweken. Er is **geen herfstvakantie** gepland op de UvA. Dat betekent dat je bij deze minor dus ook geen ruimte hebt om zomaar een week vrij de plannen. Je komt dan in de knoop met deadlines.
+- Plan geen dagactiviteiten of vakanties tijdens de collegeweken, ook niet tijdens tentamenweken. Alleen van 27 april t/m 4 mei is de meivakantie, waarin we geen activiteiten plannen. Dan kun je dus eventueel je vakantie plannen.
 
 - Natuurlijk is er tijdens de minor wél ruimte voor een keer een trouwerij of doktersbezoek. Dit is een bijzondere situatie die je goed met ons overlegt.
 
