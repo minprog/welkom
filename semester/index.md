@@ -22,17 +22,17 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 <a href="https://www.theaterdeomval.nl"><img src="../omval.jpg" style="max-width:150px;"><br><small>Theater de Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
 </div>
 
-Op de eerste dag, maandag 5 februari, komen we bijeen om 9:30 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste dag, maandag 2 september, komen we bijeen om 9:15 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 ## Aanwezigheid
 
 Deze fulltime-minor is gebaseerd op volle beschikbaarheid voor studeren overdags:
 
-- Je bent elke werkdag tussen 10 en 16 uur **aanwezig** in lokaal L0.09 of L0.10 van de minor. De deur is de hele dag open, dus je mag ook buiten die tijden aanschuiven. We hebben prettige nieuwe lokalen, en een koffie-apparaat om de hoek.
+- Je bent elke werkdag tussen 10 en 16 uur **aanwezig** in lokaal L0.09 of L0.10 van de minor. De deur is de hele dag open, dus je mag ook buiten die tijden aanschuiven. We hebben prettige nieuwe lokalen, en een koffie-apparaat om de hoek. Neem een mok mee!
 
 - Je moet elke werkdag tussen 9 en 17 uur **volledig beschikbaar** zijn voor het programmeren. De stof is pittig en je bent hier echt flink wat tijd aan kwijt. Je hoeft op deze tijd niet aanwezig te zijn maar het mag wel, en er is ook ruimte voor.
 
-- Wij gaan soms activiteiten plannen tussen 9 en 17 uur die relatief kort vooraf worden aangekondigd. Jouw aanwezigheid is dan gewoon vereist. Plan dus geen werk of andere activiteiten op werkdagen.
+- Wij gaan soms activiteiten plannen tussen 9 en 17 uur die relatief kort vooraf worden aangekondigd. Jouw aanwezigheid is dan gewoon vereist. Plan dus geen werk of andere activiteiten op onderwijsdagen.
 
 We doen dit omdat studenten vaak de hoeveelheid stof onderschatten en nog niet goed begrijpen hoe belangrijk het is om steeds in de buurt van andere studenten te zijn die aan de zelfde opdrachten werken. De ervaring leert dat studenten die verder geen vakken volgen de regelmaat en de overzichtelijkheid al snel waarderen.
 
@@ -40,9 +40,9 @@ Het is daarom ook niet mogelijk om andere vakken te volgen die overdags gerooste
 
 Nog een paar aanwijzigingen:
 
-- De eis voor beschikbaarheid en aanwezigheid geldt voor het **hele semester, dus t/m vrijdag 28 juni**. Op die laatste dag zijn de eindpresentaties van het laatste vak, en je kunt het niet halen als je er niet bent!
+- De eis voor beschikbaarheid en aanwezigheid geldt voor het **hele semester**. Dus ook de vrijdag voor kerst en ook de laatste vrijdag van het semester (3 februari). Op die dagen zijn de eindpresentaties van de vakken, en je kunt het niet halen als je er niet bent!
 
-- Plan geen dagactiviteiten of vakanties tijdens de collegeweken, ook niet tijdens tentamenweken. Alleen van 27 april t/m 4 mei is de meivakantie, waarin we geen activiteiten plannen. Dan kun je dus eventueel je vakantie plannen.
+- Plan geen dagactiviteiten of vakanties tijdens de collegeweken, ook niet tijdens tentamenweken. Er is geen herfstvakantie bij de UvA, dus de 16 weken tot kerst heb je altijd wat te doen.
 
 - Natuurlijk is er tijdens de minor wél ruimte voor een keer een trouwerij of doktersbezoek. Dit is een bijzondere situatie die je goed met ons overlegt.
 
@@ -62,7 +62,7 @@ Als je de hele minor gaat volgen, dan begin je met twee vakken die je tegelijk v
 
 ### Locatie
 
-Alle colleges vinden plaats op het Science Park in Amsterdam. Ons nieuwe gebouw "Lab42" heeft huisnummer 900, en onze vaste lokalen vind je op de begane grond.
+Alle colleges vinden plaats op het Science Park in Amsterdam. Ons nieuwe gebouw "Lab42" heeft huisnummer 900, en onze vaste lokalen vind je op de begane grond. Enkele tentamens vinden plaats in één van de speciale tentamenzalen aan de randen van Amsterdam.
 
 {% include mail.md %}
 
@@ -70,7 +70,7 @@ Alle colleges vinden plaats op het Science Park in Amsterdam. Ons nieuwe gebouw 
 
 Het rooster is vrij eenvoudig: elke werkdag practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. Er is doorlopend mogelijkheid om assistentie te krijgen. Er is een dagschema waarin alle opdrachten vermeld staan zodat je weet wat er van je verwacht wordt.
 
-Omdat bijna alle activiteiten op onze vaste locatie plaatsvinden staan de meeste activiteiten niet vermeld in het normale UvA-rooster (als er wel iets staat kan dit nog veranderen!). Ga er van uit dat je elke dag vanaf 9 uur tot in de middag op Science Park bent.
+Omdat bijna alle activiteiten op onze vaste locatie plaatsvinden staan de meeste activiteiten niet vermeld in het normale UvA-rooster (als er wel iets staat kan dit nog veranderen!). Ga er van uit dat je elke dag vanaf 10 uur tot 16 uur op Science Park bent.
 
 ### Groepsindeling
 
