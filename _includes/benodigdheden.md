@@ -10,4 +10,4 @@ In noodgevallen hebben wij laptops te leen die niet geweldig zijn, maar waar je 
 
 Op zoek naar een goede of goedkope laptop? Kijk dan eens bij de onderwijswinkel van [Apple](https://www.apple.com/nl-edu/shop) en log in bij [Surfspot](https://www.surfspot.nl/) voor een groot aanbod aan nieuwe en "opgeknapte" laptops.
 
-Wil je een Mac kopen? Let dan op dat er een "M1" of "M2"-chip in zit, dit zou er zeer duidelijk bij moeten staan.
+Wil je een Apple-laptop kopen? Let dan op dat er een "M1", "M2" of "M3"-chip in zit, dit zou er zeer duidelijk bij moeten staan.

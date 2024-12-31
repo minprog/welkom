@@ -1,8 +1,10 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: lente 2024. Dit is de informatie voor studenten die beginnen bij Programmeren 1 en niet de hele minor in één semester gaan volgen.*
+*Versie: lente 2025. Dit is de informatie voor studenten die beginnen bij Programmeren 1 en/of Programmeren 2, en niet de hele minor in één semester gaan volgen.*
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig programmeerproblemen op te lossen, kleine visualisaties te maken, en tools voor je eigen onderzoek te bouwen. Je gaat ook kennis maken met een heleboel bestaande tools, technieken, talen en theorieën die je nodig hebt om succesvol (mee) te werken aan grotere programma's.
+
+Als je de hele minor doet heb je een hoop kennis opgebouwd waarmee je zelfstandig kunt verder leren, bijvoorbeeld met een online cursus machine learning, een schakelprogramma voor een master, vakken uit de bachelor informatica, of technische trainingen om computationele technieken toe te passen in je eigen vakgebied.
 
 In dit document vind je praktische informatie over de minor en over regels die wij belangrijk vinden. Let op: het gaat er bij ons nogal anders aan toe dan bij andere opleidingen.
 
@@ -18,11 +20,9 @@ We hopen jullie allemaal te spreken in de eerste weken van de minor, maar mocht 
 
 ## Introductie
 
-<div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em; margin-top:0.25em">
-<a href="https://www.theaterdeomval.nl"><img src="../omval.jpg" style="max-width:150px;"><br><small>Theater de Omval, Ouddiemerlaan&nbsp;104,  Diemen</small></a>
-</div>
+Op de eerste dag, maandag 3 februari, komen we 's ochtends bijeen voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
-Op de eerste dag, maandag 5 februari, komen we bijeen om 9:15 in Theater de Omval (Diemen) voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+⚠️ De locatie van de introductie wordt nog bekend gemaakt via een bericht naar je studentenmail.
 
 Kun je niet aanwezig zijn? Dan ontvang je in de loop van die dag (niet vooraf!) een link naar een videocollege en meer informatie over de opdrachten van de eerste week. We verwachten je tijdens de week op een aantal momenten aanwezig kunt zijn om hier aan te werken en een goede start te maken. De indeling is flexibel, dus je kunt het zelf plannen in combinatie met een ander vak!
 
@@ -44,9 +44,24 @@ Alle colleges vinden plaats op het Science Park in Amsterdam. Ons nieuwe gebouw 
 
 ### Roosters
 
-Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarvoor kom je minstens één middag werken in Lab42, te kiezen tussen **dinsdag, woensdag en donderdag**. Je kunt op die dagen tussen 13:30--16:00 uur langskomen in lokaal L0.09 en L0.10 voor een werkplek of voor assistentie.
+Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarvoor kom je minstens twee dagdelen werken in Lab42, te kiezen uit:
 
-Daarnaast zijn er **voortgangsgesprekken** met een docent. De indeling wordt rond de start van de minor gemaakt. We maken je tijdens de gesprekken wegwijs en we tekenen opdrachten af. Als je in de knel komt of planningsproblemen hebt, dan is dat de plek om het te bespreken.
+- maandag 10-12
+- maandag 13-15
+- dinsdag 10-12
+- dinsdag 13-15
+- woensdag 10-12
+- woensdag 13-15
+- donderdag 10-12
+- donderdag 13-15
+- vrijdag 10-12
+- vrijdag 13-15
+
+Zorg dat je je aanmeldt bij de docenten/assistenten zodat je aanwezigheid geregistreerd kan worden.
+
+Daarbij zijn er **voortgangsgesprekken** met een docent. De indeling wordt rond de start van de minor gemaakt. We maken je tijdens de gesprekken wegwijs en we tekenen opdrachten af. Als je in de knel komt of planningsproblemen hebt, dan is dat de plek om het te bespreken.
+
+Heb je nu al bespreekpunten, wacht dan niet het eerste gesprek af maar mail <mailto:help@mprog.nl>.
 
 ### Tentamens
 
@@ -70,4 +85,4 @@ Daarnaast zijn er **voortgangsgesprekken** met een docent. De indeling wordt ron
 
 {% include voorbereiding.md %}
 
-Kortom, geniet van de zomer en tot in september!
+Kortom, we zien je snel. Tot in februari!
