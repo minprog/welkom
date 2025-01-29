@@ -20,9 +20,13 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 ## Introductie
 
-Op de eerste dag, maandag 3 februari, komen we 's ochtends bijeen voor het inleidende college. Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+<div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em; margin-top:0.25em">
+<img src="../lab42.png" style="max-width:150px;"><br><small>Lab42, Science Park &nbsp;900, Amsterdam</small>
+</div>
 
-⚠️ De locatie van de introductie wordt nog bekend gemaakt via een bericht naar je studentenmail.
+Op de eerste dag, maandag 3 februari, komen we 's ochtends om 9:45 bijeen in Lab42 voor het inleidende college (lokaal L0.09 op de begane grond). Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+
+De introductiedag duurt tot 16 uur.
 
 ## Aanwezigheid
 
