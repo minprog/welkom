@@ -50,16 +50,16 @@ Alle colleges vinden plaats op het Science Park in Amsterdam. Ons nieuwe gebouw 
 
 Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarvoor kom je minstens twee dagdelen werken in Lab42, te kiezen uit:
 
-- maandag 9-12
-- maandag 13-16
-- dinsdag 9-12
-- dinsdag 13-16
-- woensdag 9-12
-- woensdag 13-16
-- donderdag 9-12
-- donderdag 13-16
-- vrijdag 9-12
-- vrijdag 13-16
+- maandag 10--13
+- maandag 13--16
+- dinsdag 10--13
+- dinsdag 13--16
+- woensdag 10--13
+- woensdag 13--16
+- donderdag 10--13
+- donderdag 13--16
+- vrijdag 10--13
+- vrijdag 13--16
 
 Zorg dat je je aanmeldt bij de docenten/assistenten zodat je aanwezigheid geregistreerd kan worden.
 
