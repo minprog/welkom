@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll-optional-front-matter'
-gem 'jekyll-theme-minimal'
+# gem 'jekyll-theme-minimal'
 gem 'kramdown-parser-gfm'
+
+gem "github-pages", group: :jekyll_plugins

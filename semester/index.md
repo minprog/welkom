@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: lente 2025. Dit is de informatie voor studenten die de hele minor in één semester willen volgen.*
+*Versie: herfst 2025. Dit is de informatie voor studenten die de hele minor in één semester willen volgen.*
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig programmeerproblemen op te lossen, kleine visualisaties te maken, en tools voor je eigen onderzoek te bouwen. Je gaat ook kennis maken met een heleboel bestaande tools, technieken, talen en theorieën die je nodig hebt om succesvol (mee) te werken aan grotere programma's.
 
@@ -24,7 +24,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 <img src="../lab42.png" style="max-width:150px;"><br><small>Lab42, Science Park &nbsp;900, Amsterdam</small>
 </div>
 
-Op de eerste dag, maandag 3 februari, komen we 's ochtends om 9:45 bijeen in Lab42 voor het inleidende college (lokaal L0.09 op de begane grond). Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste dag, maandag 1 september, komen we 's ochtends om 9:45 bijeen in Lab42 voor het inleidende college (lokaal L0.09 op de begane grond). Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 De introductiedag duurt tot 16 uur.
 
@@ -44,9 +44,9 @@ Het is daarom ook niet mogelijk om andere vakken te volgen die overdags gerooste
 
 Nog een paar aanwijzigingen:
 
-- De eis voor beschikbaarheid en aanwezigheid geldt voor het **hele semester**. Dus ook de vrijdag voor kerst en ook de laatste vrijdag van het semester (27 juni). Op die dagen zijn de eindpresentaties van de vakken, en je kunt het niet halen als je er niet bent!
+- De eis voor beschikbaarheid en aanwezigheid geldt voor het **hele semester**. Dus ook de vrijdag voor kerst en ook de laatste vrijdag van het semester (30 januari). Op die dagen zijn de eindpresentaties van de vakken, en je kunt het niet halen als je er niet bent!
 
-- Plan geen dagactiviteiten of vakanties tijdens de collegeweken, ook niet tijdens tentamenweken. Er is wel een voorjaarsvakantie van 26 april t/m 5 mei!
+- Plan geen dagactiviteiten of vakanties tijdens de collegeweken, ook niet tijdens tentamenweken. Er is geen herfstvakantie! <!-- Er is wel een voorjaarsvakantie van 26 april t/m 5 mei! -->
 
 - Natuurlijk is er tijdens de minor wél ruimte voor een keer een trouwerij of doktersbezoek. Dit is een bijzondere situatie die je goed met ons overlegt.
 
@@ -66,7 +66,7 @@ Als je de hele minor gaat volgen, dan begin je met twee vakken die je tegelijk v
 
 ### Locatie
 
-Alle colleges vinden plaats op het Science Park in Amsterdam. Ons nieuwe gebouw "Lab42" heeft huisnummer 900, en onze vaste lokalen vind je op de begane grond. Enkele tentamens vinden plaats in één van de speciale tentamenzalen aan de randen van Amsterdam.
+Alle colleges vinden plaats op het Science Park in Amsterdam. Ons gebouw "Lab42" heeft huisnummer 900, en onze vaste lokalen vind je op de begane grond. Enkele tentamens vinden plaats in één van de speciale tentamenzalen aan de randen van Amsterdam.
 
 {% include mail.md %}
 
@@ -78,7 +78,7 @@ Omdat bijna alle activiteiten op onze vaste locatie plaatsvinden staan de meeste
 
 ### Groepsindeling
 
-De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van de verschillende opleidingen. Daarnaast vinden we het belangrijk dat de werkcolleges inclusief zijn, met toenadering en afwisselende samenwerking tussen alle deelnemers, dus we zijn terughoudend met het bij elkaar indelen van groepen studenten die al gewend zijn intens met elkaar samen te werken. Je kunt dus géén voorkeur doorgeven. De definitieve groepsindeling wordt pas gedaan na de start van de minor.
+De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van de verschillende opleidingen. Daarnaast vinden we het belangrijk dat de werkcolleges inclusief zijn, met toenadering en afwisselende samenwerking tussen alle deelnemers, dus we zijn terughoudend met het bij elkaar indelen van studenten die al gewend zijn intens met elkaar samen te werken. Je kunt dus géén voorkeur doorgeven. De definitieve groepsindeling wordt pas gedaan na de start van de minor.
 
 ### Tentamens
 
@@ -104,4 +104,4 @@ De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven erv
 
 {% include voorbereiding.md %}
 
-Kortom, we zien je snel. Tot in februari!
+Kortom, we zien je snel. Tot in september!
