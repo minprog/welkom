@@ -46,7 +46,7 @@ Alle colleges vinden plaats op het Science Park in Amsterdam. Ons gebouw "Lab42"
 
 {% include mail.md %}
 
-### Roosters
+### Roosters en aanwezigheid
 
 Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarvoor kom je minstens twee dagdelen werken in Lab42, te kiezen uit (onder voorbehoud):
 
@@ -57,11 +57,11 @@ Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het k
 - donderdag 13--16
 - vrijdag 13--16
 
-Zorg dat je je aanmeldt bij de docenten/assistenten zodat je aanwezigheid geregistreerd kan worden.
+Zorg dat je je aanmeldt bij de docenten/assistenten zodat je aanwezigheid geregistreerd kan worden. Deze minimale aanwezigheid is namelijk verplicht.
 
-Daarbij zijn er voortgangsgesprekken met een docent. De indeling wordt rond de start van de minor gemaakt. We maken je tijdens de gesprekken wegwijs en we tekenen opdrachten af. Als je in de knel komt of planningsproblemen hebt, dan is dat de plek om het te bespreken.
+Gedurende de vakken zijn er voortgangsgesprekken met een docent. De indeling wordt rond de start van de minor gemaakt. We maken je tijdens de gesprekken wegwijs en we tekenen opdrachten af. Als je in de knel komt of planningsproblemen hebt, dan is dat de plek om het te bespreken.
 
-Heb je nu al bespreekpunten, wacht dan niet het eerste gesprek af maar mail <mailto:help@mprog.nl>.
+Heb je nu al belangrijke bespreekpunten, wacht dan niet het eerste gesprek af maar mail <mailto:help@mprog.nl>.
 
 ### Tentamens
 
