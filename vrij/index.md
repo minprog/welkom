@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: lente 2025. Dit is de informatie voor studenten die beginnen bij Programmeren 1 en/of Programmeren 2, en niet de hele minor in één semester gaan volgen.*
+*Versie: herfst 2025. Dit is de informatie voor studenten die beginnen bij Programmeren 1 en/of Programmeren 2, en **niet** de hele minor in één semester gaan volgen.*
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig programmeerproblemen op te lossen, kleine visualisaties te maken, en tools voor je eigen onderzoek te bouwen. Je gaat ook kennis maken met een heleboel bestaande tools, technieken, talen en theorieën die je nodig hebt om succesvol (mee) te werken aan grotere programma's.
 
@@ -24,7 +24,7 @@ We hopen jullie allemaal te spreken in de eerste weken van de minor, maar mocht 
 <img src="../lab42.png" style="max-width:150px;"><br><small>Lab42, Science Park &nbsp;900, Amsterdam</small>
 </div>
 
-Op de eerste dag, maandag 3 februari, komen we 's ochtends om 9:45 bijeen in Lab42 voor het inleidende college (lokaal L0.09 op de begane grond). Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste dag, maandag 1 september, komen we 's ochtends om 9:45 bijeen in Lab42 voor het inleidende college (lokaal L0.09 op de begane grond). Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 De hele introductie duurt tot 16 uur maar als parttime-student kun je een flink deel ook thuis doen. Wil je maandag meedoen, zorg dan dat je er om 9:45 bent.
 
@@ -42,28 +42,24 @@ Je begint bij Programmeren 1. In dat vak ga je aan de slag met de absolute begin
 
 ### Locatie
 
-Alle colleges vinden plaats op het Science Park in Amsterdam. Ons nieuwe gebouw "Lab42" heeft huisnummer 900, en onze vaste lokalen vind je op de begane grond. Enkele tentamens vinden plaats in één van de speciale tentamenzalen aan de randen van Amsterdam.
+Alle colleges vinden plaats op het Science Park in Amsterdam. Ons gebouw "Lab42" heeft huisnummer 900, en onze vaste lokalen vind je op de begane grond. Enkele tentamens vinden plaats in één van de speciale tentamenzalen aan de randen van Amsterdam.
 
 {% include mail.md %}
 
 ### Roosters
 
-Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarvoor kom je minstens twee dagdelen werken in Lab42, te kiezen uit:
+Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarvoor kom je minstens twee dagdelen werken in Lab42, te kiezen uit (onder voorbehoud):
 
-- maandag 10--13
 - maandag 13--16
-- dinsdag 10--13
+- dinsdag 9--13
 - dinsdag 13--16
-- woensdag 10--13
-- woensdag 13--16
-- donderdag 10--13
+- donderdag 9--13
 - donderdag 13--16
-- vrijdag 10--13
 - vrijdag 13--16
 
 Zorg dat je je aanmeldt bij de docenten/assistenten zodat je aanwezigheid geregistreerd kan worden.
 
-Daarbij zijn er **voortgangsgesprekken** met een docent. De indeling wordt rond de start van de minor gemaakt. We maken je tijdens de gesprekken wegwijs en we tekenen opdrachten af. Als je in de knel komt of planningsproblemen hebt, dan is dat de plek om het te bespreken.
+Daarbij zijn er voortgangsgesprekken met een docent. De indeling wordt rond de start van de minor gemaakt. We maken je tijdens de gesprekken wegwijs en we tekenen opdrachten af. Als je in de knel komt of planningsproblemen hebt, dan is dat de plek om het te bespreken.
 
 Heb je nu al bespreekpunten, wacht dan niet het eerste gesprek af maar mail <mailto:help@mprog.nl>.
 
@@ -89,4 +85,4 @@ Heb je nu al bespreekpunten, wacht dan niet het eerste gesprek af maar mail <mai
 
 {% include voorbereiding.md %}
 
-Kortom, we zien je snel. Tot in februari!
+Kortom, we zien je snel. Tot in september!
