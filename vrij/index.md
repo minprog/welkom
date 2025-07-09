@@ -48,7 +48,7 @@ Alle colleges vinden plaats op het Science Park in Amsterdam. Ons gebouw "Lab42"
 
 ### Roosters en aanwezigheid
 
-Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarvoor kom je minstens twee dagdelen werken in Lab42, te kiezen uit (onder voorbehoud):
+Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarvoor kom je in ieder geval twee dagdelen werken in Lab42, te kiezen uit (onder voorbehoud):
 
 - maandag 13--16
 - dinsdag 9--13
