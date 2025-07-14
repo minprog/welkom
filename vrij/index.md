@@ -48,16 +48,14 @@ Alle colleges vinden plaats op het Science Park in Amsterdam. Ons gebouw "Lab42"
 
 ### Roosters en aanwezigheid
 
-Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarvoor kom je in ieder geval twee dagdelen werken in Lab42, te kiezen uit (onder voorbehoud):
+Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarvoor kom je in ieder geval twee dagdelen werken in Lab42:
 
 - maandag 13--16
-- dinsdag 9--13
-- dinsdag 13--16
-- donderdag 9--13
 - donderdag 13--16
-- vrijdag 13--16
 
-Zorg dat je je aanmeldt bij de docenten/assistenten zodat je aanwezigheid geregistreerd kan worden. Deze minimale aanwezigheid is namelijk verplicht.
+Het kan zijn dat je voor één van de dagdelen overlap hebt met een ander vak. Dan maak je afspraken met de docent over alternatieven (dit doe je in de eerste week). Zorg dat je je aanmeldt bij de docenten/assistenten zodat je aanwezigheid geregistreerd kan worden. Deze minimale aanwezigheid is namelijk verplicht.
+
+Naast deze werkmiddagen zijn er nog enkele live-colleges gepland. Het is zinvol om hier bij te zijn omdat je dan veel beter meekrijgt hoe wij werken. Ze zijn echter niet verplicht. Deze hoorcolleges vind je in het vakrooster van Programmeren 1.
 
 Gedurende de vakken zijn er voortgangsgesprekken met een docent. De indeling wordt rond de start van de minor gemaakt. We maken je tijdens de gesprekken wegwijs en we tekenen opdrachten af. Als je in de knel komt of planningsproblemen hebt, dan is dat de plek om het te bespreken.
 
