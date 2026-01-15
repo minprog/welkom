@@ -12,7 +12,7 @@ In dit document vind je praktische informatie over de minor en over regels die w
 <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">
 Bron: <em>What is code?</em> van Paul Ford. Lees dat essay!</a>
 
-Je hebt er voor gekozen de hele minor in één semester te volgen. Dat betekent dat de werkdruk pittig is ten opzichte van veel bacheloropleidingen. Maar als je aanwezig kunt zijn is het goed te doen! Je zult doorgaans elke werkdag van 9 tot 17 uur aan het programmeren zijn en samen met medestudenten en assistenten aan de slag gaat met oefeningen, grote opdrachten en toetsjes. Je zult letterlijk elke dag programma's schrijven!
+Je hebt er voor gekozen de hele minor in één semester te volgen. Dat betekent dat de werkdruk pittig is ten opzichte van veel bacheloropleidingen. Maar als je aanwezig kunt zijn is het goed te doen! Je zult doorgaans elke werkdag van 9 tot 17 uur aan het programmeren zijn en samen met medestudenten en assistenten aan de slag gaan met oefeningen, grote opdrachten en toetsjes. Je zult letterlijk elke dag programma's schrijven!
 
 We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar mocht je nu al even iets willen toelichten stuur dan gerust een mailtje naar <help@mprog.nl>. We nemen dan snel contact met je op.
 
