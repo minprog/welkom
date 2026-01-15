@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: herfst 2025. Dit is de informatie voor studenten die beginnen bij Programmeren 1 en/of Programmeren 2, en **niet** de hele minor in één semester gaan volgen.*
+*Versie: lente 2026. Dit is de informatie voor studenten die beginnen bij Programmeren 1 en/of Programmeren 2, en **niet** de hele minor in één semester gaan volgen.*
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig programmeerproblemen op te lossen, kleine visualisaties te maken, en tools voor je eigen onderzoek te bouwen. Je gaat ook kennis maken met een heleboel bestaande tools, technieken, talen en theorieën die je nodig hebt om succesvol (mee) te werken aan grotere programma's.
 
@@ -50,8 +50,8 @@ Alle colleges vinden plaats op het Science Park in Amsterdam. Ons gebouw "Lab42"
 
 Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarvoor kom je in ieder geval twee dagdelen werken in Lab42:
 
-- maandag 13--16
-- donderdag 13--16
+- dinsdag 11--15
+- donderdag 10--13
 
 Het kan zijn dat je voor één van de dagdelen overlap hebt met een ander vak. Dan maak je afspraken met de docent over alternatieven (dit doe je in de eerste week). Zorg dat je je aanmeldt bij de docenten/assistenten zodat je aanwezigheid geregistreerd kan worden. Deze minimale aanwezigheid is namelijk verplicht.
 
@@ -83,4 +83,4 @@ Heb je nu al belangrijke bespreekpunten, wacht dan niet het eerste gesprek af ma
 
 {% include voorbereiding.md %}
 
-Kortom, we zien je snel. Tot in september!
+Kortom, we zien je snel. Tot in februari!

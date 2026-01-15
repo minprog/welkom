@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: herfst 2025. Dit is de informatie voor studenten die de hele minor in één semester willen volgen.*
+*Versie: lente 2026. Dit is de informatie voor studenten die de hele minor in één semester willen volgen.*
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig programmeerproblemen op te lossen, kleine visualisaties te maken, en tools voor je eigen onderzoek te bouwen. Je gaat ook kennis maken met een heleboel bestaande tools, technieken, talen en theorieën die je nodig hebt om succesvol (mee) te werken aan grotere programma's.
 
@@ -32,25 +32,30 @@ De introductiedag duurt tot 16 uur.
 
 Deze fulltime-minor is gebaseerd op volle beschikbaarheid voor studeren overdags:
 
-- Je bent elke werkdag tussen 10 en 16 uur **aanwezig** in lokaal L0.09 van de minor. De deur is de hele dag open, dus je mag ook buiten die tijden aanschuiven. We hebben prettige nieuwe lokalen, en een koffie-apparaat om de hoek. Neem een mok mee!
+- Je bent **aanwezig** op de volgende dagen en tijden. De deur is de hele dag open, dus je mag ook buiten die tijden aanschuiven. We hebben prettige nieuwe lokalen, en een koffie-apparaat om de hoek. Neem een mok mee!
 
-- Je moet elke werkdag tussen 9 en 17 uur **volledig beschikbaar** zijn voor het programmeren. De stof is pittig en je bent hier echt flink wat tijd aan kwijt. Je hoeft op deze tijd niet aanwezig te zijn maar het mag wel, en er is ook ruimte voor. Als je tijdens je reis naar Science Park niet kunt programmeren dan moet je er rekening mee houden dat je nog thuis aan de slag moet.
+    - Maandag 10--13 uur
+    - Dinsdag 11--15 uur
+    - Donderdag 10--13 uur
+    - Vrijdag 11--15 uur
 
-- Wij gaan soms activiteiten plannen tussen 9 en 17 uur die relatief kort vooraf worden aangekondigd. Jouw aanwezigheid is dan gewoon vereist. Plan dus geen werk of andere activiteiten op onderwijsdagen. Het is niet mogelijk rekening te houden met jouw andere activiteiten.
+- Je moet elke werkdag tussen 9 en 17 uur **volledig beschikbaar** zijn voor het programmeren. De stof is pittig en je bent hier echt flink wat tijd aan kwijt. Je hoeft op deze tijd niet aanwezig te zijn maar het mag wel, en er is ook ruimte voor.
 
-We doen dit omdat studenten vaak de hoeveelheid stof onderschatten en nog niet goed begrijpen hoe belangrijk het is om steeds in de buurt van andere studenten te zijn die aan de zelfde opdrachten werken. De ervaring leert dat studenten die verder geen vakken volgen de regelmaat en de overzichtelijkheid al snel waarderen.
+- Wij gaan soms activiteiten plannen tussen 9 en 17 uur die relatief kort vooraf worden aangekondigd. Jouw aanwezigheid is dan gewoon vereist. Plan dus geen werk of andere activiteiten op onderwijsdagen. Het is in de regel niet mogelijk rekening te houden met jouw andere activiteiten. Heb je hier nu al vragen over, stuur dan even een mail.
+
+We vragen dagelijkse aanwezigheid omdat studenten vaak de hoeveelheid stof onderschatten en nog niet goed begrijpen hoe belangrijk het is om steeds in de buurt van andere studenten te zijn die aan de zelfde opdrachten werken. De ervaring leert dat studenten die verder geen vakken volgen de regelmaat en de overzichtelijkheid al snel waarderen (ook als ze gewend zijn om zelfstandig te werken).
 
 Het is daarom ook niet mogelijk om andere vakken te volgen die overdags geroosterd zijn. Je krijgt dus ook geen uitzondering voor het bijwonen van andere colleges en wij houden hiermee geen rekening in de groepsindeling. Ook speciale activiteiten zoals practicum of presentaties worden nog geroosterd en hierover krijg je pas kort vooraf bericht. Zorg dus dat je beschikbaar bent.
 
 Nog een paar aanwijzigingen:
 
-- De eis voor beschikbaarheid en aanwezigheid geldt voor het **hele semester**. Dus ook de vrijdag voor kerst en ook de laatste vrijdag van het semester (30 januari). Op die dagen zijn de eindpresentaties van de vakken, en je kunt het niet halen als je er niet bent!
+- De eis voor beschikbaarheid en aanwezigheid geldt voor het **hele semester**. Dus ook de laatste vrijdag van het semester (26 juni). Op die dagen zijn de eindpresentaties van de vakken, en je kunt het niet halen als je er niet bent!
 
-- Plan geen dagactiviteiten of vakanties tijdens de collegeweken, ook niet tijdens tentamenweken. Er is geen herfstvakantie! <!-- Er is wel een voorjaarsvakantie van 26 april t/m 5 mei! -->
+- Plan geen dagactiviteiten of vakanties tijdens de collegeweken, ook niet tijdens tentamenweken. Er is wel een voorjaarsvakantie van 25 april t/m 5 mei!
 
 - Natuurlijk is er tijdens de minor wél ruimte voor een keer een trouwerij of doktersbezoek. Dit is een bijzondere situatie die je goed met ons overlegt.
 
-- Meer precieze informatie over de dagelijkse roostering volgt pas bij de start van de minor. **Als jij zorgt dat je elke werkdag beschikbaar bent komt het helemaal goed!**
+- Meer precieze informatie over de dagelijkse roostering volgt pas bij de start van de minor. **Als jij zorgt dat je door de weeks beschikbaar bent komt het helemaal goed!**
 
 Kun je de aanwezigheid zoals hier benoemd niet volbrengen? Dan moet je switchen naar de versie waarin je niet de hele minor in één semester doet! Neem dan nu al contact op met <help@mprog.nl>.
 
@@ -72,13 +77,13 @@ Alle colleges vinden plaats op het Science Park in Amsterdam. Ons gebouw "Lab42"
 
 ### Roosters
 
-Het rooster is vrij eenvoudig: elke werkdag practicum, waarbij je aan programmeeropdrachten werkt met assistentie van ons team. Er is doorlopend mogelijkheid om assistentie te krijgen. Er is een dagschema waarin alle opdrachten vermeld staan zodat je weet wat er van je verwacht wordt.
+Het rooster is vrij eenvoudig: vier dagen per week practicum (zie boven), waarbij je aan programmeeropdrachten werkt met assistentie van ons team. Er is doorlopend mogelijkheid om assistentie te krijgen. Er is een dagschema waarin alle opdrachten vermeld staan zodat je weet wat er van je verwacht wordt.
 
-Omdat bijna alle activiteiten op onze vaste locatie plaatsvinden staan de meeste activiteiten niet vermeld in het normale UvA-rooster (als er wel iets staat kan dit nog veranderen!). Ga ervan uit dat je elke dag vanaf 10 uur tot 16 uur op Science Park bent.
+Omdat bijna alle activiteiten op onze vaste locatie plaatsvinden staan de meeste activiteiten niet vermeld in het normale UvA-rooster (als er wel iets staat kan dit nog veranderen!).
 
-### Groepsindeling
+<!--### Groepsindeling
 
-De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van de verschillende opleidingen. Daarnaast vinden we het belangrijk dat de werkcolleges inclusief zijn, met toenadering en afwisselende samenwerking tussen alle deelnemers, dus we zijn terughoudend met het bij elkaar indelen van studenten die al gewend zijn intens met elkaar samen te werken. Je kunt dus géén voorkeur doorgeven. De definitieve groepsindeling wordt pas gedaan na de start van de minor.
+De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven ervaring en onze eigen ervaringen met studenten van de verschillende opleidingen. Daarnaast vinden we het belangrijk dat de werkcolleges inclusief zijn, met toenadering en afwisselende samenwerking tussen alle deelnemers, dus we zijn terughoudend met het bij elkaar indelen van studenten die al gewend zijn intens met elkaar samen te werken. Je kunt dus géén voorkeur doorgeven. De definitieve groepsindeling wordt pas gedaan na de start van de minor.-->
 
 ### Tentamens
 
@@ -104,4 +109,4 @@ De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven erv
 
 {% include voorbereiding.md %}
 
-Kortom, we zien je snel. Tot in september!
+Kortom, we zien je snel. Tot in februari!

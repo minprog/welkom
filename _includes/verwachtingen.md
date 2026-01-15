@@ -18,6 +18,6 @@ Om het allemaal een beetje soepel te laten verlopen verwachten we dat je alle me
 
 Omdat we vragen dat jij doorlopend met het vak bezig bent, willen we ook dat dat zin heeft. Natuurlijk is het essentieel dat je met je medestudenten discussieert en overlegt over de opdrachten en de stof, maar je mag ook verwachten dat wij voor jou beschikbaar zijn en je terzijde staan. Dat betekent dat er dagelijks assistentie beschikbaar is om je nét even die drempel over te helpen of een moeilijke vraag door te spreken.
 
-We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Je mag dus altijd een mail sturen naar de docenten via <help@mprog.nl> en om een afspraak vragen. Ze lopen ook regelmatig rond. Daarnaast zijn er zeer ervaren assistenten die je bijstaan op het moment dat je er echt even niet meer uitkomt.
+We verwachten van jou een actieve houding, maar zeker in de inleidende vakken is het fijn als je een persoonlijk aanspreekpunt hebt. Je mag dus altijd een mail sturen naar de docenten via <help@mprog.nl> en om een afspraak vragen. Ze lopen ook dagelijks rond. Daarnaast zijn er zeer ervaren assistenten die je bijstaan op het moment dat je er echt even niet meer uitkomt.
 
 Om goed te leren van je eigen "fouten", mag je van ons verwachten dat je genoeg feedback krijgt. We kijken je werk elke week na en geven je dan ideeën om het beter te doen. Krijg je niet genoeg feedback, of wil je meer horen over een specifiek onderwerp? Gewoon vragen!
