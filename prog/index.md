@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: lente 2026. Dit is de informatie voor studenten die de hele minor in één semester willen volgen.*
+*Versie: herfst 2026. Dit is de informatie voor studenten die de hele minor in één semester willen volgen.*
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig programmeerproblemen op te lossen, kleine visualisaties te maken, en tools voor je eigen onderzoek te bouwen. Je gaat ook kennis maken met een heleboel bestaande tools, technieken, talen en theorieën die je nodig hebt om succesvol (mee) te werken aan grotere programma's.
 
@@ -24,7 +24,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 <img src="../lab42.png" style="max-width:150px;"><br><small>Lab42, Science Park &nbsp;900, Amsterdam</small>
 </div>
 
-Op de eerste dag, maandag 2 februari, komen we 's ochtends om 9:45 bijeen in Lab42 voor het inleidende college (lokaal L0.09 op de begane grond). Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste dag, maandag 31 augustus, komen we 's ochtends om 9:45 bijeen in Lab42 voor het inleidende college (lokaal L0.09 op de begane grond). Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
 De introductiedag duurt tot 16 uur.
 
@@ -32,14 +32,14 @@ De introductiedag duurt tot 16 uur.
 
 Deze fulltime-minor is gebaseerd op volle beschikbaarheid voor studeren overdags:
 
-- Je bent **aanwezig** op de volgende dagen en tijden. De deur is de hele dag open, dus je mag ook buiten die tijden aanschuiven. We hebben prettige nieuwe lokalen, en een koffie-apparaat om de hoek. Neem een mok mee!
+- Je bent **verplicht aanwezig** op de volgende dagen en tijden. De deur is de hele dag open, dus je mag ook buiten die tijden aanschuiven. We hebben prettige nieuwe lokalen, en een koffie-apparaat om de hoek. Neem een mok mee!
 
-    - Maandag 10--13 uur
-    - Dinsdag 11--15 uur
-    - Donderdag 10--13 uur
-    - Vrijdag 11--15 uur
+    - Maandag 10--16 uur
+    - Dinsdag 10--16 uur
+    - Donderdag 10--16 uur
+    - Vrijdag 10--16 uur
 
-- Je moet elke werkdag tussen 9 en 17 uur **volledig beschikbaar** zijn voor het programmeren. De stof is pittig en je bent hier echt flink wat tijd aan kwijt. Je hoeft op deze tijd niet aanwezig te zijn maar het mag wel, en er is ook ruimte voor.
+- Je moet door de weeks volledig beschikbaar zijn voor het programmeren. De stof is pittig en je bent hier echt flink wat tijd aan kwijt. Andere vakken of werk geven veel afleiding.
 
 - Wij gaan soms activiteiten plannen tussen 9 en 17 uur die relatief kort vooraf worden aangekondigd. Jouw aanwezigheid is dan gewoon vereist. Plan dus geen werk of andere activiteiten op onderwijsdagen. Het is in de regel niet mogelijk rekening te houden met jouw andere activiteiten. Heb je hier nu al vragen over, stuur dan even een mail.
 
@@ -49,19 +49,21 @@ Het is daarom ook niet mogelijk om andere vakken te volgen die overdags gerooste
 
 Nog een paar aanwijzigingen:
 
-- De eis voor beschikbaarheid en aanwezigheid geldt voor het **hele semester**. Dus ook de laatste vrijdag van het semester (26 juni). Op die dagen zijn de eindpresentaties van de vakken, en je kunt het niet halen als je er niet bent!
+- De eis voor beschikbaarheid en aanwezigheid geldt voor het **hele semester**. Dus ook de laatste vrijdag van het semester (29 januari). Op die dagen zijn de eindpresentaties van de vakken, en je kunt het niet halen als je er niet bent!
 
-- Plan geen dagactiviteiten of vakanties tijdens de collegeweken, ook niet tijdens tentamenweken. Er is wel een voorjaarsvakantie van 25 april t/m 5 mei!
+- Plan geen dagactiviteiten of vakanties tijdens de collegeweken, ook niet tijdens tentamenweken. Er is géén herfstvakantie bij de UvA.
 
 - Natuurlijk is er tijdens de minor wél ruimte voor een keer een trouwerij of doktersbezoek. Dit is een bijzondere situatie die je goed met ons overlegt.
 
 - Meer precieze informatie over de dagelijkse roostering volgt pas bij de start van de minor. **Als jij zorgt dat je door de weeks beschikbaar bent komt het helemaal goed!**
 
-Kun je de aanwezigheid zoals hier benoemd niet volbrengen? Dan moet je switchen naar de versie waarin je niet de hele minor in één semester doet! Neem dan nu al contact op met <help@mprog.nl>.
+Kun je de aanwezigheid zoals hier benoemd niet volbrengen? Dan kun je kijken of de minor Software Engineering (voor mensen met ervaring) wel in je schema past, of je kunt de minor Programmeren verspreiden over een heel studiejaar. Neem nu direct contact op met <mailto:help@mprog.nl> om dit te regelen. Als je niks regelt en toch zomaar afwezig bent, dan kun je automatisch maximaal 1 vak per periode halen.
+
+Zie ook de paragrafen over beperkingen, ziekte en afwezigheid hieronder.
 
 ## Wat ga je doen?
 
-Als je de hele minor gaat volgen, dan begin je met twee vakken die je tegelijk volgt: Programmeren 1 en Datarepresentaties. We zorgen dat je een dagschema hebt voor de beide vakken samen, zodat jij je alleen bezig hoeft te houden met oefenen en leren, en niet zozeer met plannen en andere zaken.
+Als je de hele minor gaat volgen, dan begin je met twee vakken die je tegelijk volgt: Programmeren 1 en Datarepresentaties. We zorgen dat je een dagschema hebt voor de beide vakken samen, zodat jij je alleen bezig hoeft te houden met oefenen en leren, en niet zozeer met plannen en andere zaken. Lekker veel structuur dus.
 
 ## Verwachtingen
 
@@ -109,4 +111,4 @@ De groepsindeling voor de minor wordt door ons gedaan op basis van opgegeven erv
 
 {% include voorbereiding.md %}
 
-Kortom, we zien je snel. Tot in februari!
+Kortom, we zien je snel. Tot eind augustus!

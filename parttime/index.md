@@ -1,6 +1,6 @@
 # Welkom bij de Minor Programmeren!
 
-*Versie: lente 2026. Dit is de informatie voor studenten die beginnen bij Programmeren 1 en/of Programmeren 2, en **niet** de hele minor in één semester gaan volgen.*
+*Versie: herfst 2026. Dit is de informatie voor studenten die beginnen bij Programmeren 1 en/of Programmeren 2, en **niet** de hele minor in één semester gaan volgen.*
 
 De komende maanden gaan we hard aan de slag om jou te leren zelfstandig programmeerproblemen op te lossen, kleine visualisaties te maken, en tools voor je eigen onderzoek te bouwen. Je gaat ook kennis maken met een heleboel bestaande tools, technieken, talen en theorieën die je nodig hebt om succesvol (mee) te werken aan grotere programma's.
 
@@ -24,11 +24,11 @@ We hopen jullie allemaal te spreken in de eerste weken van de minor, maar mocht 
 <img src="../lab42.png" style="max-width:150px;"><br><small>Lab42, Science Park &nbsp;900, Amsterdam</small>
 </div>
 
-Op de eerste dag, maandag 2 februari, komen we 's ochtends om 9:45 bijeen in Lab42 voor het inleidende college (lokaal L0.09 op de begane grond). Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
+Op de eerste dag, maandag 31 augustus, komen we 's ochtends om 9:45 bijeen in Lab42 voor het inleidende college (lokaal L0.09 op de begane grond). Zoals je misschien al weet, gebruiken we veel videomateriaal, en tijdens deze bijeenkomst tonen we de eerste fragmenten uit de colleges van Harvard. Daarna ga je meteen aan de slag op het Science Park, dus neem je opgeladen laptop mee!
 
-De hele introductie duurt tot 16 uur maar als parttime-student kun je een flink deel ook thuis doen. Wil je maandag meedoen, zorg dan dat je er om 9:45 bent.
+De hele introductie duurt tot 16 uur maar als je (als parttime-student) toch nog een ander vak moet volgen dan kun je een deel thuis doen.
 
-Kun je niet aanwezig zijn? Dan ontvang je in de loop van die dag (niet vooraf!) een link naar een videocollege en meer informatie over de opdrachten van de eerste week. We verwachten je tijdens de week op een aantal momenten aanwezig kunt zijn om hier aan te werken en een goede start te maken. De indeling is flexibel, dus je kunt het zelf plannen in combinatie met een ander vak!
+Kun je echt niet aanwezig zijn? Dan ontvang je in de loop van die dag (niet vooraf!) een link naar een videocollege en meer informatie over de opdrachten van de eerste week. We verwachten je tijdens de week op een aantal momenten aanwezig kunt zijn om hier aan te werken en een goede start te maken. De indeling is flexibel, dus je kunt het zelf plannen in combinatie met een ander vak!
 
 ## Wat ga je doen?
 
@@ -50,10 +50,10 @@ Alle colleges vinden plaats op het Science Park in Amsterdam. Ons gebouw "Lab42"
 
 Je moet zelf een goed werkritme vinden voor het maken van de opdrachten en het kijken van de videocolleges. Daarvoor kom je in ieder geval twee dagdelen werken in Lab42:
 
-- dinsdag 11--15
+- dinsdag 13--16
 - donderdag 10--13
 
-Het kan zijn dat je voor één van de dagdelen overlap hebt met een ander vak. Dan maak je afspraken met de docent over alternatieven (dit doe je in de eerste week). Zorg dat je je aanmeldt bij de docenten/assistenten zodat je aanwezigheid geregistreerd kan worden. Deze minimale aanwezigheid is namelijk verplicht.
+Het kan zijn dat je voor één van de dagdelen overlap hebt met een ander vak. Dan maak je afspraken met de docent over alternatieven (dit doe je in de eerste week, niet nu al). Zorg dat je je aanmeldt bij de docenten/assistenten zodat je aanwezigheid geregistreerd kan worden. Deze minimale aanwezigheid is namelijk verplicht.
 
 Naast deze werkmiddagen zijn er nog enkele live-colleges gepland. Het is zinvol om hier bij te zijn omdat je dan veel beter meekrijgt hoe wij werken. Ze zijn echter niet verplicht. Deze hoorcolleges vind je in het vakrooster van Programmeren 1.
 
