@@ -18,6 +18,16 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 > **Geen paniek!** In de komende tijd zul je merken dat bij de minor studenten rondlopen met méér en met minder ervaring. Dat is heel mooi, want dan kunnen we van elkaar leren, en bovendien hebben we opdrachten op niveau voor elk van deze studenten. Maar voel je niet geïntimideerd, dat is veel belangrijker. Iedereen komt hier om iets te leren, en je gaat heel ver komen, verder dan je misschien zou denken. Daarnaast is de aandacht van de staf vol gericht op studenten die nog geen ervaring hebben. Dat zijn onze belangrijkste studenten, die nog veel te leren hebben.
 
+## Inschrijven voor de vakken
+
+Zorg dat je je via [Glass](https://glass.uva.nl/) inschrijft voor deze vakken:
+
+- Programmeren 1 (50621PRP6Y)
+- Datarepresentaties, tools en technieken (5062DATT6Y)
+- Programmeren 2 (50622PRP6Y)
+- Programmeerproject (5062PRPR6Y)
+- Algoritmen en Heuristieken (5062ALHE6Y)
+
 ## Introductie
 
 <div style="float:right; max-width: 150px; margin-left:2em; margin-bottom:2em; margin-top:0.25em">
