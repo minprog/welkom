@@ -20,7 +20,7 @@ We hopen jullie allemaal te spreken in de eerste paar dagen van de minor, maar m
 
 ## Inschrijven voor de vakken
 
-Zorg dat je je via [Glass](https://glass.uva.nl/) inschrijft voor deze vakken:
+Zorg dat je je via [Glass](https://glass.uva.nl/) inschrijft voor de volgende vakken. Dit kan vanaf 8 juni.
 
 - Programmeren 1 (50621PRP6Y)
 - Datarepresentaties, tools en technieken (5062DATT6Y)

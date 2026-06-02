@@ -28,7 +28,7 @@ Vanaf 15 uur heb je het eerste college van Databases. De introductiedag duurt to
 
 ## Inschrijven voor de vakken
 
-Zorg dat je je via [Glass](https://glass.uva.nl/) inschrijft voor deze vakken:
+Zorg dat je je via [Glass](https://glass.uva.nl/) inschrijft voor de volgende vakken. Dit kan vanaf 8 juni.
 
 - Moderne Databases voor IN/IK (5062MDVI6Y)
 - Programmeren 1 (50621PRP6Y)
