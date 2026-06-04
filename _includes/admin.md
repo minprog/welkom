@@ -6,7 +6,7 @@ Wil je toch nog aanpassingen doen in het minorprogramma waarvoor je bent ingesch
 
 1. Zorg dat je ingeschreven bent bij de UvA voor het volgende studiejaar. Dit gaat via Studielink.
     - [Herinschrijving voor UvA-studenten](https://student.uva.nl/informatie/herinschrijven)
-    - [Bijvakinschrijving voor niet-UvA-studenten](https://www.uva.nl/onderwijs/overig-onderwijs/bijvakken/bijvakken.html)
+    - [Bijvakinschrijving voor niet-UvA-studenten](https://www.uva.nl/onderwijs/overig-onderwijs/bijvakken/bijvakken.html) (kies de opleiding BSc Informatiekunde voor je bijvakinschrijving)
 
 2. Schrijf je daarna in voor de losse vakken van de minor, zoals te vinden bovenaan deze pagina. Je moet dit zelf regelen, je wordt niet automatisch ingeschreven.
 
