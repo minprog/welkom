@@ -36,6 +36,8 @@ Zorg dat je je via [Glass](https://glass.uva.nl/) inschrijft voor de volgende va
 - Programmeren 2 (50622PRP6Y)
 - Algoritmen en Heuristieken (5062ALHE6Y)
 
+**Als de inschrijving voor Logica of Databases niet lukt**, dan ben je niet goed aangemeld voor de minor. Stuur in dat geval een e-mail naar <mailto:minoren@proglab.nl> zodat we je alsnog kunnen aanmelden.
+
 ## Aanwezigheid
 
 Samenvatting: meestal 4 dagen per week een activiteit op Science Park.
