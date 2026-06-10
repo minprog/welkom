@@ -22,10 +22,16 @@ We hopen jullie allemaal te spreken in de eerste weken van de minor, maar mocht 
 
 Zorg dat je je via [Glass](https://glass.uva.nl/) inschrijft voor de volgende vakken. Dit kan vanaf 8 juni.
 
-- Programmeren 1 (50621PRP6Y)
-- Programmeren 2 (50622PRP6Y)
+- Programmeren 1 (50621PRP6Y) - 31 augustus t/m 23 oktober
+- Programmeren 2 (50622PRP6Y) - 26 oktober t/m 18 december
 
-Omdat je de minor parttime volgt, doe je in het eerste semester 12EC aan vakken. Voor de overige drie vakken schrijf je je later in.
+Omdat je de minor parttime volgt, doe je in het eerste semester 12EC aan vakken. Voor de overige drie vakken schrijf je je later in. Hier alvast de vakken:
+
+- Datarepresentaties (5062DATT6Y) - 1 februari t/m 25 maart
+- Programmeerproject (5062PRPR6Y) - 30 maart t/m 28 mei
+- Algoritmen en Heuristieken (5062ALHE6Y) - 31 mei t/m 25 juni
+
+Voordat je je kunt aanmelden voor de vakken moet je een inschrijving zijn gestart bij de UvA voor het nieuwe studiejaar.
 
 ## Introductie
 
